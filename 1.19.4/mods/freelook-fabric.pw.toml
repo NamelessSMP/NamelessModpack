@@ -1,0 +1,13 @@
+name = "FreeLook Mod / Perspective mod"
+filename = "freelook-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98641f9981abb968f715d098916d41c2c9b46065"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4507572
+project-id = 498017

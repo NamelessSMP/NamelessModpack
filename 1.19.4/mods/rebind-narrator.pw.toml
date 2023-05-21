@@ -1,0 +1,13 @@
+name = "Rebind Narrator"
+filename = "rebind_narrator-fabric-1.19.2-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/cKxoanyo/rebind_narrator-fabric-1.19.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "accf5f9bfabdb6402039051dbb213b81e2876061"
+
+[update]
+[update.modrinth]
+mod-id = "qw2Ls89j"
+version = "cKxoanyo"

@@ -1,0 +1,64 @@
+
+[general]
+	#Enable/Disable ReplayMod Support
+	enabled = true
+	#Internal Version Number. NO TOUCHY!
+	version = 1
+
+#The Replay Browser Event
+[replay_viewer]
+	#Enable/Disable the ReplayMod Replay Viewer Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Browsing replays"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/ReplayMod/ReplayMod/stable/src/main/resources/assets/replaymod/favicon_logo.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "ReplayMod %mcver%"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["%playerhead%"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Replay Editor Event
+[replay_editor]
+	#Enable/Disable the ReplayMod Editor Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Watching a replay"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/ReplayMod/ReplayMod/stable/src/main/resources/assets/replaymod/favicon_logo.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "ReplayMod %mcver%"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["%playerhead%"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Replay Rendering Event
+[replay_render]
+	#Enable/Disable the ReplayMod Rendering Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Rendering %replayframe%/%replaytotal% frames"
+	#The second line of text under the app name
+	state = "%replaytimeleft% left"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["https://raw.githubusercontent.com/ReplayMod/ReplayMod/stable/src/main/resources/assets/replaymod/favicon_logo.png"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "ReplayMod %mcver%"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["%playerhead%"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord
+	buttons = []
+

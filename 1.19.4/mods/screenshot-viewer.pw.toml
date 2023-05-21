@@ -1,0 +1,13 @@
+name = "Screenshot Viewer"
+filename = "screenshot_viewer-1.1.5-fabric-mc1.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9700f70146de72c1fa8c116a8db1bd0fef8e437a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4506900
+project-id = 693961

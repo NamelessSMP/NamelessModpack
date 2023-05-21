@@ -1,0 +1,13 @@
+name = "Advancement Screenshot"
+filename = "advancementscreenshot-1.19.4-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/VbxMnh8U/advancementscreenshot-1.19.4-4.1.jar"
+hash-format = "sha1"
+hash = "2f34b1df7de9a00105063fd8a495044993da9e29"
+
+[update]
+[update.modrinth]
+mod-id = "lU8KbfG2"
+version = "VbxMnh8U"
