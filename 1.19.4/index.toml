@@ -106,7 +106,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "d3f3b5384e29ebed6341dd4bb30c091565f5d12cdd60eb3301503501ba49319b"
+hash = "3b5a1d24a5b218dba0a8985e3fd24609b370f3b1edbbb38ab9d1efa6c634ad46"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -825,10 +825,6 @@ file = "config/yosbr/config/rprenames.json"
 hash = "1f9c7431930268494511bc70dcbcded0b8a3bab1dab9a0cb802e906b9ff71aa4"
 
 [[files]]
-file = "config/yosbr/config/screenshot_viewer-client.json"
-hash = "ef498f116a7d0173d37af1e83003804e6a53d639b90a28eb489474f44967823d"
-
-[[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
 hash = "072ab565de02a3c7b6fab339ca55f95fdb39193587031cdefc30a68fc2d9033d"
 
@@ -858,7 +854,7 @@ hash = "85019267a4dfccbe7b5c98121a2265c913b57d459f9568557abeaac2b55eee82"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3cf5fe6b87c2fb00ca29e5209c6284d51dab685170affd021beca054f3e21ad6"
+hash = "77ac9040d6a26a9bffcf3546313c33bd2da0fdf4bdac0a282c0ae6cd8bb24f1a"
 
 [[files]]
 file = "emotes/SPE_A hammer1.json"
@@ -4789,6 +4785,14 @@ file = "emotes/SPE_to die by hitting the wall.png"
 hash = "a469d6ad1bbd8a0604ae833c4d413c665d2742dff705da2cc83b0cba97872973"
 
 [[files]]
+file = "essential/config.toml"
+hash = "364aa19827894b674e3b2610f3342e680fc1077bf55d461a3099bd2f36f812bc"
+
+[[files]]
+file = "essential/onboarding.json"
+hash = "1302281304e327a3a0fb72ea1bf865ecf899eabad686cc98f07131853d8c614c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -4914,6 +4918,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "416fdc912dd2bbc125eaaa322e5cc3536aaf341264caceebf1ee129df48b9c77"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
 metafile = true
 
 [[files]]
@@ -5144,11 +5153,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-viewer.pw.toml"
-hash = "f4eaa59d3c731effe0adecea895eebfefbf846d39c501828a91f69f5ba40927c"
 metafile = true
 
 [[files]]

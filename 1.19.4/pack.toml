@@ -1,12 +1,12 @@
 name = "Nameless"
 author = "CatRiX"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f9ed2fb6ef288e068fb917a9f5067b5e99c3417a5f00dd1bf333f6182c82099"
+hash = "57b797b2d5bc0942ff1827643facc72a348ae6edb938c1a902e1803320566236"
 
 [versions]
 minecraft = "1.19.4"
