@@ -49,6 +49,10 @@ file = "config/yosbr/config/borderlessmining.json"
 hash = "f059bd359dfb4acd1e9dc84c253883433780de5207165de8bfb15123536169c0"
 
 [[files]]
+file = "config/yosbr/config/camerautils/camerautils.properties"
+hash = "d2928d73eda13d676b7b5554cd723ec9a124e8b4da747ee871c8bc4db555e0b1"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "6fb8bbd7341fa85726598733bae35af64a85de66199016a48b15c40301d318e3"
 
@@ -854,7 +858,7 @@ hash = "85019267a4dfccbe7b5c98121a2265c913b57d459f9568557abeaac2b55eee82"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "77ac9040d6a26a9bffcf3546313c33bd2da0fdf4bdac0a282c0ae6cd8bb24f1a"
+hash = "3fd6e2fa582ce214e2cfd174efb015f52b509933ad2efdc41b7efac42559e404"
 
 [[files]]
 file = "emotes/SPE_A hammer1.json"
@@ -1498,7 +1502,7 @@ hash = "3440d23b6a7396e425ac8679deee47632efbd4e7469ab80aa7512df3fd3d568e"
 
 [[files]]
 file = "emotes/SPE_Eat food1.json"
-hash = "fae48de19f1156cbbf77bb35a0298ff9aa0a7e44624559a0c085bc7e3ed3fbce"
+hash = "1fe285ff4ca6799fbd0a52d4682a23788ecffb0d9bd617e2f4824d08cd328229"
 
 [[files]]
 file = "emotes/SPE_Eat food1.png"
@@ -1506,7 +1510,7 @@ hash = "9a25c474e766b2d8ba1788d15a144809ad4a090375620dfe6bb865974df9d7cc"
 
 [[files]]
 file = "emotes/SPE_Eat food2.json"
-hash = "fd6bb9eab61e9b80b46c45d06130743c1bc433df63a039421b290b6e92b12db8"
+hash = "9c42509c75e8a2c647c3ce95047f7dfbece577fd37bbff2854e8dc433217af41"
 
 [[files]]
 file = "emotes/SPE_Eat food2.png"
@@ -1730,7 +1734,7 @@ hash = "a987c09afe790eedd96e3a676b222b6b2f8e653a741ad12606d0eb46ba1d0c62"
 
 [[files]]
 file = "emotes/SPE_Foot tapping.json"
-hash = "0f82cfbb4cf0043c686fdaa7225bf606a92cadbaa2048c2be435c0b4a9cc64c3"
+hash = "121a3ce6ecdb01671c8d44c411d70b41437d84d5c27edebc7b3a5356c726968d"
 
 [[files]]
 file = "emotes/SPE_Foot tapping.png"
@@ -3458,7 +3462,7 @@ hash = "f921d0ba9476a31b259cf2b5a840d428f55fef4e0bb0de292184e7a7649acbdf"
 
 [[files]]
 file = "emotes/SPE_Running on the wall.json"
-hash = "09f91ab792833ea0fec10cba1e112f1679cea526117d26d1b2368cbec6aad765"
+hash = "f84e8c5cd8c516792f7f76c2609ac4d3f13ccdddc8a38ef93211eef256fcaa79"
 
 [[files]]
 file = "emotes/SPE_Running on the wall.png"
@@ -3466,7 +3470,7 @@ hash = "af7cefd55c49c6d6c6d2542d36c074a17ab9d4c0a9ca2c7cef7e8b8c7d7fda6d"
 
 [[files]]
 file = "emotes/SPE_Running on the wall1.json"
-hash = "dd26f965a08c6c2d4810fa631f7d8269e8c65d50ff56af5c92fd995b6e7a4790"
+hash = "11e4af60d365ca5902619f960dd28e9299525bcbcca89a380b0eb2d4b2c3414b"
 
 [[files]]
 file = "emotes/SPE_Running on the wall1.png"
@@ -4844,6 +4848,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "a3e5d8c9fa93871a5436aaa5e13d60498593b486295d8c154d13b80fb87ebb18"
 metafile = true
 
 [[files]]

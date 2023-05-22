@@ -21,7 +21,6 @@ telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.left.bracket
 key_key.loadToolbarActivator:key.keyboard.right.bracket
-key_key.antighost.reveal:key.keyboard.unknown
 key_key.replaymod.playeroverview:key.keyboard.unknown
 key_key.replaymod.lighting:key.keyboard.unknown
 key_key.replaymod.quickmode:key.keyboard.unknown
@@ -36,21 +35,25 @@ key_key.replaymod.clearkeyframes:key.keyboard.unknown
 key_key.replaymod.synctimeline:key.keyboard.unknown
 key_key.replaymod.positionkeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.unknown
+key_key.antighost.reveal:key.keyboard.unknown
 key_options.narrator:key.keyboard.unknown
+key_Open Freelook menu:key.keyboard.unknown
+key_key.inventoryhud.openconfig:key.keyboard.unknown
+key_key.modmenu.open_menu:key.keyboard.right.shift
+key_key.presencefootsteps.settings:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.camerautils.zoom:key.keyboard.unknown
+key_key.camerautils.third_person_cam_1:key.keyboard.f6
+key_key.camerautils.third_person_cam_2:key.keyboard.f7
 key_key.freecam.toggle:key.keyboard.g
 key_key.freecam.playerControl:key.keyboard.h
 key_key.freecam.tripodReset:key.keyboard.j
-key_Open Freelook menu:key.keyboard.unknown
-key_key.inventoryhud.openconfig:key.keyboard.unknown
-key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.grave.accent
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
-key_key.modmenu.open_menu:key.keyboard.right.shift
 key_iris.keybind.reload:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.backslash
 key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
 key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
