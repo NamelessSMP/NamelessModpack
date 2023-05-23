@@ -4836,11 +4836,6 @@ hash = "021a7812990beadf40cdbdac977f244c9a6888b7bf03fd822371ec472e6f0d9c"
 metafile = true
 
 [[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "fa625b7c1043f3d99320c912923fe5670edd3a4b405e94d4920638827762543b"
 metafile = true
@@ -4980,9 +4975,8 @@ hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
-file = "mods/horsestatsvanilla.pw.toml"
-hash = "2bc10662c2d2be0ba414414651ff2029461dca4df9b7e3a27417312f0f5e7fae"
-metafile = true
+file = "mods/horse-stats-vanilla-4.2.3-dm.jar"
+hash = "848634e2602e0c6db4c16915c590f92fc062abb90464332827460946f611a34b"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -5081,7 +5075,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -5106,7 +5100,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
@@ -5116,7 +5110,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5b242270eda128c7eb2cdcc29d9f8fe24a997241ef19093a0e1e5112bc0dcabb"
+hash = "e34a6d645bcfcb5a677159ac959b19ef3fde39a066f7164b565f8877bc3de525"
 metafile = true
 
 [[files]]
@@ -5131,7 +5125,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
+hash = "55435ce5bd2e3cff577e576435c211e7f2d83960c6fe4625f1c4849402f8bdb4"
 metafile = true
 
 [[files]]
@@ -5171,7 +5165,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b81fe78f7542f15fd7b5a0392e8e626c40dadd403bee2d92b47942b4ec2d4ce7"
+hash = "1075cdd7397b22a34442c522d339666ff175fb983cb66eaadae37b5daa56e21c"
 metafile = true
 
 [[files]]
@@ -5248,19 +5242,19 @@ hash = "43c41974816ecc0b9a27020f10786bd24787d12ef8d875dc3038e71d52a1d179"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_Ore_Borders.zip"
-hash = "d9b939440e8c92335c83e099e15ef6f1a179ae003316a6965f7b326013c8c708"
+hash = "7752903f15159c3f3a741941a02d81a3d3f5a1c647a14f344984c89b44ed615f"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_Peace_And_Quiet.zip"
-hash = "58c8b955cbb461389bff2e2508d506789e77e0629444027759da0e8d2c0a23a2"
+hash = "ee5938188065e682284266e2293d2ddc2c1d8901c98d170221ec4337f25e4f00"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_Smoother_Font.zip"
-hash = "fecc0c458b6502ae7671fbb49dfee028182cb72fee1af0e87ab9346e77a384d6"
+hash = "139e3297dea9ee425968c580e46e32ee66ff0c7fd670025a659785fb7b0f9cea"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "39d766fa94d3ba0580731eda95574a7c0873b1415c630527b65ea2ca5194a33a"
+hash = "0fffa97e9390aa5715415606daece9e034202d687f3a1d7d79c64b83de0d9968"
 metafile = true
 
 [[files]]
