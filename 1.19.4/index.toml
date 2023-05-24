@@ -4931,11 +4931,6 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "94b0c6f25c512431b6b9d6b305d39c2dbd84588e7fc3ce68e5b1ce4675aae46d"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "695c5f966e79715d9a6d40cb9b0d1fd07310f7aae8ef1568411f3870ddc3141a"
 metafile = true
