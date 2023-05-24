@@ -10,7 +10,8 @@ renderDistance:8
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","black_icons","midnightcontrols/bedrock","file/Chat Reporting Helper.zip","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","rprenames/default_dark_mode","file/VanillaTweaks_Main.zip","file/VanillaTweaks_Peace_And_Quiet.zip","file/Islana\u0027s+Armor+Accessories+1-19+No+Rename.zip","file/unique-spawn-eggs-v1-5.zip","file/BACAP Language Pack 1.15.0.2.zip","file/Icons v.1.8pre2.zip","file/Icons+Menu.zip","file/FreshAnimations_v1.8.1.zip","file/KSEPSP+v8+2+cut.zip","file/Nameless_Poker_Club.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","black_icons","midnightcontrols:bedrock","file/Chat Reporting Helper.zip","file/Default-Dark-Mode-1.19.4-v1.4.0.zip","rprenames:default_dark_mode","file/VanillaTweaks_Main.zip","file/VanillaTweaks_Peace_And_Quiet.zip","file/Islana\u0027s+Armor+Accessories+1-19+No+Rename.zip","file/unique-spawn-eggs-v1-5.zip","file/BACAP Language Pack 1.15.0.2.zip","file/Icons v.1.8pre2.zip","file/Icons+Menu.zip","file/FreshAnimations_v1.8.1.zip","file/KSEPSP+v8+2+cut.zip","file/Nameless_Poker_Club.zip","file/mc-paint-v0-6-resourcepack.zip"]
+incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
 lang:ru_ru
 textBackgroundOpacity:0.0
 advancedItemTooltips:true
@@ -43,8 +44,6 @@ key_key.modmenu.open_menu:key.keyboard.right.shift
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.camerautils.zoom:key.keyboard.unknown
-key_key.camerautils.third_person_cam_1:key.keyboard.f6
-key_key.camerautils.third_person_cam_2:key.keyboard.f7
 key_key.freecam.toggle:key.keyboard.g
 key_key.freecam.playerControl:key.keyboard.h
 key_key.freecam.tripodReset:key.keyboard.j
@@ -60,7 +59,6 @@ key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
 key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
 key_keybind.name.CHAT_PEEK:key.keyboard.r
 key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
-key_keybind.name.ZOOM:key.keyboard.unknown
 soundCategory_music:0.0
 soundCategory_weather:0.5
 soundCategory_hostile:0.5

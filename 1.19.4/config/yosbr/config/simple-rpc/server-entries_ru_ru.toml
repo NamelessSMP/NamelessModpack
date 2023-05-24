@@ -1,0 +1,14 @@
+#Enable/Disable Server Entries overrides
+enabled = true
+#Internal Version Number. NO TOUCHY!
+version = 2
+#Server override entries
+[[entry]]
+    ip = "nameless.thecatrix.ru"
+    description = "Играет на Nameless"
+    state = "%players%/%maxplayers% игроков"
+    largeImageKey = ["https://raw.githubusercontent.com/TheCatRiX/Nameless/master/nameless.png"]
+    largeImageText = "Nameless %mcver%"
+    smallImageKey = ["%playerhead%"]
+    smallImageText = "%player%"
+
