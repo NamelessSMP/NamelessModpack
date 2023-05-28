@@ -4856,13 +4856,18 @@ file = "mods/beehive-tooltips-fabric-1.5.0-ru.jar"
 hash = "690d08ad50e9fd05ec83f0ce061d00370f22cb64a18bacdd2c4d0f38faf4bb59"
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "cad644933c7182adab47ef24cd6dec2de329cb13d46a0c31d75c9bf0c68a131e"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "47ec314d0577a5c7973c8d8a5d88c5b7ba7b40f31e17e0a6f518727cea52aa50"
+hash = "77dc737eedebb2ed2f0eb2bc0b89a2c80ccdbed8ce022b7168d818522717554d"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "fa625b7c1043f3d99320c912923fe5670edd3a4b405e94d4920638827762543b"
+hash = "8733447c9fac53455ec04b7027aa11ef5cdf226dfd4277953a88039dff28b21f"
 metafile = true
 
 [[files]]
@@ -4961,7 +4966,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
+hash = "a026bd0b14096ae3a26a324c01155bf7c496b9549ed18d69a3f671ede2e3dc55"
 metafile = true
 
 [[files]]
@@ -5129,18 +5134,13 @@ hash = "e0ffc486b8d9b9bcd9123b284f8795c0e671321f7de9461df04de9e4fcc443c8"
 metafile = true
 
 [[files]]
-file = "mods/numeral-ping.pw.toml"
-hash = "1991bc6b478ca4e27a60a18142af29d75cc0f82bbd94d3f64db569ddfc2a8e06"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "09298ccc1c998076abf78cb330dd80404ee2a48c5a2ce3203b653bda82915ced"
+hash = "7e92b6190bb80b0bbe32875fa088ffb19e117577d2f2bd7c88a7d23351114d85"
 metafile = true
 
 [[files]]
@@ -5289,7 +5289,7 @@ hash = "139e3297dea9ee425968c580e46e32ee66ff0c7fd670025a659785fb7b0f9cea"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0fffa97e9390aa5715415606daece9e034202d687f3a1d7d79c64b83de0d9968"
+hash = "c284d3be407e25df2ed7da53b3d1548fe43516d9b3c408434826f750207fceb1"
 metafile = true
 
 [[files]]
