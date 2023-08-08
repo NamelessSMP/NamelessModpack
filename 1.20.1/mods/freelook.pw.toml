@@ -1,0 +1,13 @@
+name = "Freelook"
+filename = "freelook-1.1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g4pR0Fmy/versions/3nc2KA9G/freelook-1.1.3.jar"
+hash-format = "sha1"
+hash = "dd490c50501ca64c7c8670e30d8fd7406f1880fb"
+
+[update]
+[update.modrinth]
+mod-id = "g4pR0Fmy"
+version = "3nc2KA9G"

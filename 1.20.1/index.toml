@@ -1,0 +1,5289 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "3921d35bf475f1e6844637d0016bc4a3dcbb1f0ed2a9889fa874f578cd6b1355"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "7e27cdbcc36f794324455aee90caeae9f1e32f47e0569e3e195df2c47e607dc7"
+
+[[files]]
+file = "config/yosbr/config/authme.json5"
+hash = "503c73530deabdd28bf7c13c9666582b3968cbdad6ab4c0e9729def210c7042c"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "c1a785bba032df5ec0663289b1fe6c838674ee2426102af17b1747479d10efe0"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+
+[[files]]
+file = "config/yosbr/config/camerautils/camerautils.properties"
+hash = "51585e6482f7c6ba1aeddac48f4688dfdadea09293645900d9b82d18cf03763e"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "6fb8bbd7341fa85726598733bae35af64a85de66199016a48b15c40301d318e3"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/yosbr/config/emotecraft.json"
+hash = "af43f1398f26976a46221c31b1da58f5d8744446048aa6d7e91cef5bd8dd8b37"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "89349911374a451de6335d77f1aa0f3d30432cd5db5bc63032b9092e61abf889"
+
+[[files]]
+file = "config/yosbr/config/fastquit.toml"
+hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
+
+[[files]]
+file = "config/yosbr/config/freecam.json5"
+hash = "91948d78040bccc75743bbf73676e634c8b9930ed4566cfd405f377838dc5e71"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "e896084ad79a1cf9f1d62e130935fdc3252477bc50c84c97a53458e903b66e05"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "bf0625692659331c95874a9e644aecf2cac45ea27ba69005e692f2717b5f9947"
+
+[[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "827db35c92f132f5cb066a092dc48abcd5a409aefa41862794bc1ab731115119"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "2bc1ac8341b8de9bba700b2349b40138fcff18944c55e0520ad21e28eb6a4c1d"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "38f553f340707b020752e1bf9bb0ba95e597f545a01ed2abb253f9ebdd7bed3f"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
+
+[[files]]
+file = "config/yosbr/config/ngroklan.json5"
+hash = "17e93a795ea575ff401409dd5148f240d1097d7242971e2798cfccb316b3622f"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "cd138ff8ae94ba476ef5958cc8b3320df6f5fa20e45bb72ac52a4a67099d4a44"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/apple.json"
+hash = "9a23d7c29ac6419587f6af069baee263abc126c6b6955340914b052165515120"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/arrow.json"
+hash = "fa5a3063d0770b9c9f2eda96e3702304009973d87186fcf631925c7419e72391"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/barrel.json"
+hash = "fdf35020ec3dffdb4dff7c2386d5016312d90135e64b7a1306ffc1bd9a42433a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/beetroot.json"
+hash = "29350f4a45b419c13b4b07d5f23890cb0aa3b8178a1141d616969396f8ce888c"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/black_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/black_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/black_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/blue_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/blue_dye.json"
+hash = "1b7d05d0a82d1c834ca0518cc965a30ea6b415deda9f0e76bd1327a7657f19d5"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/blue_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/book.json"
+hash = "22ef7ae09cab226b59fc0b004245f15472ddf6dce0cedcc5d0babf647435e2a3"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/bow.json"
+hash = "2a63296a6b28289cb2d4ba19bbf1326dd4e44c8c96960761963b688ed9b115c8"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/bowl.json"
+hash = "684083af5180472f4ae883df2dd918c417965b0b7401b191d00e3dbb002c134f"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/bread.json"
+hash = "aaab71c77699741d8c54b5a483d61534e09a3bc7ec66265049c54111b195e5fa"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/brown_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/brown_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/brown_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cake.json"
+hash = "c05efaf850ee33c62850fc39bd11d8f27206c2ba7128106c4cc24057fff09945"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/carrot.json"
+hash = "79389258dacdda6c43a08216bc0a7daf9010fb11be3c209033789a06884f800f"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/carved_pumpkin.json"
+hash = "4be31e62405958f38ab4085a176459c4d9fd7f0832987d7dae9c5fc52d702755"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/chainmail_boots.json"
+hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/chainmail_chestplate.json"
+hash = "e1eba9cae1f62845810f33dc02ba5ccbc1726b61271ec344ba10c969aeb07367"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/chainmail_helmet.json"
+hash = "61925f6f2ba47cd041370d283f9576a0fc1bd44b81b5f27dcc780a273ef22076"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/chainmail_leggings.json"
+hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/charcoal.json"
+hash = "5d794b3e750ab0f72b06b49098b525f9fab6712629457f0b019cb12dd232800b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/chest_minecart.json"
+hash = "90fa474ae60324ebe1e54cf200ba0297b567949fe54423ec80c4913610bf3e49"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/clock.json"
+hash = "30e6c74ec9eb0fc7cc3a2acdc869bd1f232a06b5de9881c1f164a06b1010531b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/coal.json"
+hash = "5d794b3e750ab0f72b06b49098b525f9fab6712629457f0b019cb12dd232800b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/compass.json"
+hash = "d00d135e2fe7a76c0343bb465446ca5dd5ea25d772a1636634bcc88df40cf47e"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cooked_beef.json"
+hash = "ffd0a2fbc3834133783eb23433bcb5d8e273393c6399a3c842ebafe07969c1b5"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cooked_cod.json"
+hash = "07217ef55f9b5461866f7995db4861aada28b34615feb1309e4af4a9af67df43"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cooked_porkchop.json"
+hash = "1aabaa8ef9765085a25c47c901d814a1e93173f36466858d6de98cc18c972d68"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cooked_salmon.json"
+hash = "aa93bb0cd8b6ed1ae704ad2971f82374fc6151ec046cb4bb29f6c1b18edb21aa"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cookie.json"
+hash = "751eebd2210663aeafe1966d99eada74fa278ba0829782f10b1e086c5d212636"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/copper_ingot.json"
+hash = "db8808c476e75ea25658700a114679d9b0f185cd55b60ad98ae121dc8260595d"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/crossbow.json"
+hash = "55c07cd2b387a62111d6bc41a9764493f577a876659c99416db8bf4e3625a917"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cyan_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cyan_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/cyan_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_axe.json"
+hash = "112e789c22997742a83d2f72b6a364225365be6b34021fab8423a773a9c4051a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_boots.json"
+hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_chestplate.json"
+hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_helmet.json"
+hash = "61925f6f2ba47cd041370d283f9576a0fc1bd44b81b5f27dcc780a273ef22076"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_leggings.json"
+hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_pickaxe.json"
+hash = "3d992469120f904ae1d1f8445f65ea2276590ef16803b639156879199ea3f667"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_shovel.json"
+hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_sword.json"
+hash = "494f59df88000a16d55fb05d8273910e40775f56084581ff89d3f2cdc2fe96e4"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/dried_kelp.json"
+hash = "c56276c2d07e638678f828b8e7dbe64f3b3a845758a8dc8829d0b5a4142ad0e6"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/elytra.json"
+hash = "6854f2368671838fffbf5641498687597cc943f4ef86a26546d90d35ff1bca20"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/firework_rocket.json"
+hash = "e4d2fd5b540e531c11fefa39ab7ffeb9d245d105c328b7d2c5a9b78b75e631fd"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/fishing_rod.json"
+hash = "a5a6fa2a990170dfad1a276086e4996ee29e0fd376e7e40bee1ced58d1cca331"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/flint_and_steel.json"
+hash = "9e57203d8e0378c14ae066cc17686892cb30032f1fc55a94096e2a683406d801"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/glass_bottle.json"
+hash = "90ad54bb7f39017a434eaaa6c34a55c1a8b8accd915c6f9409ac5c525bfd1979"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/gold_ingot.json"
+hash = "1bfec367d48283bf559fdebe7ba40563854143e2d4fb326d83131154ae752538"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_apple.json"
+hash = "4b25521338799bfc7adcf147f82bb75c2f47360612962bae3853325ae85e15e0"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_axe.json"
+hash = "112e789c22997742a83d2f72b6a364225365be6b34021fab8423a773a9c4051a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_boots.json"
+hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_chestplate.json"
+hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_helmet.json"
+hash = "61925f6f2ba47cd041370d283f9576a0fc1bd44b81b5f27dcc780a273ef22076"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_leggings.json"
+hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_pickaxe.json"
+hash = "89909abeb6de2556e16fb8aeccd21c26c9ed92e81ff8ad308b85e16ff1ebb00c"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_shovel.json"
+hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_sword.json"
+hash = "c987993eb50411807999dcc51f8c5bafeeed7ace9114c6cec6299e1aa155ea89"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/gray_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/gray_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/gray_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/green_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/green_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/green_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/heart_of_the_sea.json"
+hash = "719f900f4519181200432c341b7298693158cb0176736754edca001955f74549"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/honey_bottle.json"
+hash = "4238b045068c4e1d75b0875aec410d484ec5e018b7203ae344be167215580784"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/ink_sac.json"
+hash = "fe9e78b5385b6f990bc4c427906a348380856f9db63a1fe91095cfb8357a7f51"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_axe.json"
+hash = "1504708798df2a06ec3cdb2063629129fef7ceee36a5461623c2b171d1841efc"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_boots.json"
+hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_chestplate.json"
+hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_helmet.json"
+hash = "7c2db9d1dd314211518f68cb09ac54f6fd13aa0e5979c80d71c669d07896e771"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_ingot.json"
+hash = "359de5d22a5ae43492e6608029e115e97c7a6cb17a5f111757db84dc89dcb24c"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_leggings.json"
+hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_pickaxe.json"
+hash = "c6b140040ee300b59ddf781282e725bee286872fbe84ac5440a6f116f37a5649"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_shovel.json"
+hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_sword.json"
+hash = "494f59df88000a16d55fb05d8273910e40775f56084581ff89d3f2cdc2fe96e4"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/leather_boots.json"
+hash = "566ed1f7694e7f69bec160bffe3562d8080f504e1b9cb3fb697b6740598f0044"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/leather_chestplate.json"
+hash = "b95105ab655753fd39ba0db9b819094865af0c1f33214993f574a00f4de68a95"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/leather_helmet.json"
+hash = "e1dc5690e6cb456915788d2b418180a2e2eb6c3a3a91d40fd109d382a81b3c4a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/leather_leggings.json"
+hash = "b075d5e24e7d66cc8ef439d664d5d9710127f30431a67b40722c48f2cfa0ad4b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/lever.json"
+hash = "000b7fe5bbc60b6c5c945a3529c20be172e7f732622ad3b4837b0bb6a0ba18e4"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/light_blue_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/light_blue_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/light_blue_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/light_gray_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/light_gray_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/light_gray_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/lime_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/lime_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/lime_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/lingering_potion.json"
+hash = "8e623f7cf73e8ddf51cfce39feefbbc547a8f727db0ab44b3aa7be2cd9467e39"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/magenta_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/magenta_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/magenta_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/map.json"
+hash = "c62e61a150c0ec0a858fa11d7597e90b0dd40702a263febe92c5bbb264fbefe8"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/milk_bucket.json"
+hash = "c18e6e91f7ac82fc6f32039a41fb2174a06f07bc3f0d166dde8f4f385eaae73a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/minecart.json"
+hash = "0cf99512419d53b9b164d97268c6e77df89214e4d422c4931433815f8aeb63cf"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/mushroom_stew.json"
+hash = "75a3a3bbd5aebec9959054722db7450d73f46caed9ca0f3837888ff98bc39b4e"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_11.json"
+hash = "b80ba6ae0d227879478e1170e2b497a5edff492aa2e0ae7a04eb85981b868a5b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_13.json"
+hash = "b80ba6ae0d227879478e1170e2b497a5edff492aa2e0ae7a04eb85981b868a5b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_blocks.json"
+hash = "b80ba6ae0d227879478e1170e2b497a5edff492aa2e0ae7a04eb85981b868a5b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_cat.json"
+hash = "5559b661e8a27123ecf7e25154d8813b3638ddcd52eead098764f6ff6de86350"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_chirp.json"
+hash = "5559b661e8a27123ecf7e25154d8813b3638ddcd52eead098764f6ff6de86350"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_far.json"
+hash = "5559b661e8a27123ecf7e25154d8813b3638ddcd52eead098764f6ff6de86350"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_mall.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_mellohi.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_otherside.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_pigstep.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_stal.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_strad.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_wait.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/music_disc_ward.json"
+hash = "d6eb56d57e09dbcfa89f7842cbeae73cfe604d14e444242e845bfa957802b075"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/name_tag.json"
+hash = "77848efddf70ff49f3a7e22b9112279efa3ec4609d517700ac4db9732febc384"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/nether_wart.json"
+hash = "f412c503f095ea50ac5cdc6f6c34ab1bfd049790fc5d6729bc3deaba57bddf20"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_axe.json"
+hash = "112e789c22997742a83d2f72b6a364225365be6b34021fab8423a773a9c4051a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_boots.json"
+hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_chestplate.json"
+hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_helmet.json"
+hash = "7c2db9d1dd314211518f68cb09ac54f6fd13aa0e5979c80d71c669d07896e771"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_leggings.json"
+hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_pickaxe.json"
+hash = "0c51413b5776ded90a246c908d88d910f10a6169c3df834d5b9853ec659e5019"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_shovel.json"
+hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_sword.json"
+hash = "f6acff310cb3059b7141ae1dc6836db0ce8a54436752436b7ba528631093107d"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/orange_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/orange_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/orange_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/painting.json"
+hash = "e87b9b0e1626e2fe20f3877a59984d66191f12fad20f38176862dea026ee03a8"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/pink_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/pink_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/pink_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/potion.json"
+hash = "672e68d18d224bdfe46857b291a8a3b56cfb98c47925ee6538c1391574ac3f2d"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/pumpkin_pie.json"
+hash = "49f25e1128cffc8bcc03e44e04f2b3bc2207d4afe8f559b1b8e8b64d53de984b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/purple_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/purple_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/purple_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/red_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/red_dye.json"
+hash = "8a07b99ffbf0232f2d17c8081df0f01b755ee8689cbe9e8ad891bbfee03e2648"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/red_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/redstone.json"
+hash = "de05ace976564a697f8c52b124778b987beb3ea7f4b3b5623e33bb8b910caa78"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/rotten_flesh.json"
+hash = "4cd6667ea78acb33cb91ab654017452939b7711e881c9347aaa2d3650a5ee46b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/shears.json"
+hash = "e4e7e070a4c4c4b433fbd5db16879c3b0256c39daaa020e3e217d09f6f457d46"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/shield.json"
+hash = "470e253c35bc10cc2de60c5f1ba1bcab393dffae2a821b1f2005695a1c6c9ab3"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/snowball.json"
+hash = "0eb06e1bec1240c8199a1e40cd8bae65afe21c5e03de213add8523c9ae131001"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/soul_torch.json"
+hash = "d1eb11b8e0251554e1b1053b58d0f17c4280e505252d71b93cf7bae0f6181797"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/spectral_arrow.json"
+hash = "c97ef40489b27d99565b3ce67245cec71df5654925259ddd69d7def214f58f5b"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/splash_potion.json"
+hash = "603c38a5d595d40183aeec02cd303220fd9bef0b72d1bfd00524167155a8aecc"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/stick.json"
+hash = "d4dbb428427d83ce2f56947aa1ec01bda325084368d81ed08fd655fa3aad731e"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/stone.json"
+hash = "23cfa5f75e4f0a5d5aba6785ebff181fa54399bc1d20285c08d8311cd6dad94a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/stone_axe.json"
+hash = "1bfbdeb3b91ed80b49466ebafdad87ce663a062e67640f6960d61286454f31b0"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/stone_sword.json"
+hash = "6209db5c2a59e0e481cabbdcf34e5490d7f1f730a263f25bd939bfc59c16b654"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/suspicious_stew.json"
+hash = "025c8650bb3d19f6d7260644f2b37dcbc20f696514fae5550a1dcb258c977c25"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/sweet_berries.json"
+hash = "6d64938f366a1cab8266d89aeaf521a0b7f9e6c9dd609a56192bfe9e2d80c7d3"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/tnt_minecart.json"
+hash = "90fa474ae60324ebe1e54cf200ba0297b567949fe54423ec80c4913610bf3e49"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/torch.json"
+hash = "d1eb11b8e0251554e1b1053b58d0f17c4280e505252d71b93cf7bae0f6181797"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/totem_of_undying.json"
+hash = "b5ee898daa2eef8c77c7885cab3aded0a10eab7c2f109323ccfce12a4f626f4a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/white_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/white_dye.json"
+hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/white_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/wooden_axe.json"
+hash = "154a20824dfa2baa9a988b8336a184e3cddc33649d3a5e940ffe6479cc15b698"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/wooden_pickaxe.json"
+hash = "9da9dd20d7c3a87509d663f92ec2931f7ccf4e39e6168287dbb77cf969755ee4"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/wooden_sword.json"
+hash = "9689a46f05a713aa42802c6411bd8b0efda10b16f4c581b52f99b7945e4c745c"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/writable_book.json"
+hash = "d818f4448a9b6b5b177fb37ce74e569051f105a8b3be2a9563a045050ac36e28"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/written_book.json"
+hash = "2a51b7192d9cc829be99dc24b8f9a895e944441ff430a02a852ec1dd1983b9be"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/yellow_banner.json"
+hash = "e0fc9867a7d99a9a8b48e31b02cd1b85eb8cfaa8c0301b54d18ca132e1d33f85"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/yellow_dye.json"
+hash = "9ece09c47e361325f13ce842ce2a79dcfe3f9f575836a8e9cc578920bb8f22a4"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/yellow_shulker_box.json"
+hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+
+[[files]]
+file = "config/yosbr/config/renames/client/models/skeleton_horse.json"
+hash = "a9db70d7b87f7441084f9a7706e1524fda229e69d26ad42f8b7d9f72aad260a4"
+
+[[files]]
+file = "config/yosbr/config/renames/client/models/snow_golem.json"
+hash = "b4a43cdf219ebe6c71d7cde5c3fe98fcfa20ee111c46de159245f5aff222bf4c"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "9a22de214213b314ef1ad3389592191c4854a4191f49db11f9feadb65c930485"
+
+[[files]]
+file = "config/yosbr/config/rprenames.json"
+hash = "87433cbd7aa7733f7ec29072662ca2a7ebe4a6b2875af01d24c88936e0e6eb86"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/server-entries.toml"
+hash = "f90bc1087f576f48c9d51e58057524e96bb6d80f36695ea5cd49df4a9fd294e1"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/server-entries_ru_ru.toml"
+hash = "91d9b785497772f2fec4d5d627fb69608fd20fa7f317dbb5d1fee460ee8a3661"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "072ab565de02a3c7b6fab339ca55f95fdb39193587031cdefc30a68fc2d9033d"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
+hash = "f23631d944e442c811e2741074b90bb9cfabebd805bf7bf459367e61a1b43a30"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc_ru_ru.toml"
+hash = "fafb1e0ac3d31e8b121d2a964e89df3e1701e485eb2f9c75ea83453565e2c73a"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+
+[[files]]
+file = "config/yosbr/config/symbol-chat.json"
+hash = "3515797dd142129520007bc88f193c5db6ffb423439b9b78fe47043ca464fc4b"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "efd8dddd95cc3d4f81677946dc33f45da0b581459d695f67781c5849cfc6eafc"
+
+[[files]]
+file = "emotes/SPE_A hammer1.json"
+hash = "9a69b3e6241e3ae92a1e3672fb3994f6725bd554c811638d0fbd9561d7da68ae"
+
+[[files]]
+file = "emotes/SPE_A hammer1.png"
+hash = "94699cb935647751f93ae565cd2fe04b47079ab55982ec92c0c88f67e27791d6"
+
+[[files]]
+file = "emotes/SPE_A hammer2.json"
+hash = "265ffe6c4be11656055fbf5d744368775f5256ded74d04431f0d4ac6d0842b75"
+
+[[files]]
+file = "emotes/SPE_A hammer2.png"
+hash = "396839afda3cfb2dd813bccdd15455a7f1b5c58b5fecdffb5e1b8ad5c3cff797"
+
+[[files]]
+file = "emotes/SPE_Air kiss.json"
+hash = "dd3341fd628d98a86d9d05cb4a69921bc223d4bffebfdbfe99841353fd40b545"
+
+[[files]]
+file = "emotes/SPE_Air kiss.png"
+hash = "d3da87280bf28c167043c5e24848f4d9acc8abc2adac5a11f8f8a6b57d70140a"
+
+[[files]]
+file = "emotes/SPE_Albedo Stand.json"
+hash = "8903547a9d339772928fe5a94060e20d249618accb16758febbb6c81b0eb0f48"
+
+[[files]]
+file = "emotes/SPE_Albedo Stand.png"
+hash = "a2796ce1fba9b262c12340483332fe5ba32e149e8c5e27d03c6c1cb3a9ec5c8e"
+
+[[files]]
+file = "emotes/SPE_Anasui Pose.json"
+hash = "3d9356d256da06cbe8afa37521d911c09f710b05b444e9f55a04d7cbf0cb2690"
+
+[[files]]
+file = "emotes/SPE_Anasui Pose.png"
+hash = "4521e257c41117a77868e4d567a950764cd28f725bb976030728e3b637c8aef5"
+
+[[files]]
+file = "emotes/SPE_Ankha Dance.json"
+hash = "e476878adc8df28f1c9c80e82de9114d0e7e9309c3432a102b3ed9df3215d7d0"
+
+[[files]]
+file = "emotes/SPE_Ankha Dance.png"
+hash = "b1c95a92b62208ba8a84144f88f93e6ae305cf63a5c6d2701f2a0f17ceac9ca1"
+
+[[files]]
+file = "emotes/SPE_Armory Pass.json"
+hash = "0d11137acfd2be7012646014a4205c8a7327c760754a1af9d61a8f54f7e47f96"
+
+[[files]]
+file = "emotes/SPE_Armory Pass.png"
+hash = "a56bf72776ef5710a16bf139996da749115e246a12379658f22e93c4433cfcf1"
+
+[[files]]
+file = "emotes/SPE_Arrogant gait.json"
+hash = "741413aa02c0e886d64fe874a55f9f2609dfbd60721d8ea2cde9c882f3543526"
+
+[[files]]
+file = "emotes/SPE_Arrogant gait.png"
+hash = "e32621f7354fbf766d23aeb2e0cc2cadf25e00a6eab67a5bd0180ac4e5a11bce"
+
+[[files]]
+file = "emotes/SPE_Arsonist.json"
+hash = "881b685c60d45f70321856163e44d48e9ff4ce47b760b4188f92282769101986"
+
+[[files]]
+file = "emotes/SPE_Arsonist.png"
+hash = "9a636666f5abcb898519dc7a963fb2c6c1f24ed51a5a464902cb490b6738260e"
+
+[[files]]
+file = "emotes/SPE_Aski Pose.json"
+hash = "f396cd10234b074dc60dfb91bd90b24dc80093cd8bf49ccba5f5bd36fbf24f7d"
+
+[[files]]
+file = "emotes/SPE_Aski Pose.png"
+hash = "80eef47cdf366bfcc3df1ae51477cece7f18390957d068d166793b820ab67a0a"
+
+[[files]]
+file = "emotes/SPE_Awkward to fall.json"
+hash = "f706b17f3ccc690121418f35e32738530445b27bfde63733b8e7c2e1875a3df6"
+
+[[files]]
+file = "emotes/SPE_Awkward to fall.png"
+hash = "8587b0256f31a492c15a898080dac87426b5fc466f876c0cadf81c41b7470c8e"
+
+[[files]]
+file = "emotes/SPE_Ayanami Rei Pose.json"
+hash = "8bc694261319ddbcaa5aa849eea73bc5393d53f1382bc7728da4c6f99a7f769d"
+
+[[files]]
+file = "emotes/SPE_Ayanami Rei Pose.png"
+hash = "468459b8cb83d33c4c42d884a03610426634cc70193a108dd36c120218ed4c9d"
+
+[[files]]
+file = "emotes/SPE_Backflip.json"
+hash = "04ba7b7317a4f3b41c43ff48540fbf3b47e4022624c2bdc5139e22aa06c3da6c"
+
+[[files]]
+file = "emotes/SPE_Backflip.png"
+hash = "b7e366f273d0d64f4852639e3a3a6ac5ef5ba06e655f94478e7914dbdc30b523"
+
+[[files]]
+file = "emotes/SPE_Banani.json"
+hash = "5a034dad360985273352d4fa4f779684486789a43e405d7e7b055652639ee169"
+
+[[files]]
+file = "emotes/SPE_Banani.png"
+hash = "255eb1ba4b519c3edfb6c9c4848ec7790bb49f72f6a4f78328bb632f1f887c46"
+
+[[files]]
+file = "emotes/SPE_Bandage hand.json"
+hash = "675e545e156a339e3060a0178133e67b5b30871acbfbcd187f2c50bd221e1f58"
+
+[[files]]
+file = "emotes/SPE_Bandage hand.png"
+hash = "be60f38d7c79a468d98859e1d0866ff42e82bf4fabfda3a615957591a32cb2d5"
+
+[[files]]
+file = "emotes/SPE_Bask by the fire.json"
+hash = "e9e0c3b275bb40316541c874f96242ed5bff397f8ac1a849d964a0357566d318"
+
+[[files]]
+file = "emotes/SPE_Bask by the fire.png"
+hash = "1494a02ad3704633ca280c0876145016fb56747958cd64d558fb1be677053022"
+
+[[files]]
+file = "emotes/SPE_Battle stance tanks.json"
+hash = "402e9c3324e89ca4eaf9e17ac78d91bad45b890fbbf7e4487c735676eaf5e254"
+
+[[files]]
+file = "emotes/SPE_Battle stance tanks.png"
+hash = "c01a9965d8cffe83ed2d57ca17066d20b991dca829e585323411a343a076cd76"
+
+[[files]]
+file = "emotes/SPE_Be shy.json"
+hash = "66abde65ae141b59bc83b29c695ee36a3831413d5e4fce09d3a907dd4442e175"
+
+[[files]]
+file = "emotes/SPE_Be shy.png"
+hash = "267d968b8542d6a31ee7f2d9afc5ed54019bc7e18540c07895f70193b76ecd98"
+
+[[files]]
+file = "emotes/SPE_Be_ashamed.json"
+hash = "b82fdd1d04ada4de10f97bbaef40544c6082323d20cc5d870c694101474f27ab"
+
+[[files]]
+file = "emotes/SPE_Be_ashamed.png"
+hash = "68d509aa8abef0e154c2ec9a8cae0cd6167ac29a67ff0386baa24969c8dd2b9d"
+
+[[files]]
+file = "emotes/SPE_Bench press with barbell.json"
+hash = "0f2885957bcda550b9b98ea20b23fc9e5f47df80eef08300b9eb2c6d0cc021a3"
+
+[[files]]
+file = "emotes/SPE_Bench press with barbell.png"
+hash = "c86d5fa5f752b2f3446e05f3933a1916905f9d9ca76c88a9194f39058556121f"
+
+[[files]]
+file = "emotes/SPE_Birch.json"
+hash = "f465daf71bc2e384cc0aaa0e80dda1b6da4cb38db22643b9d71032bc1232d1c2"
+
+[[files]]
+file = "emotes/SPE_Birch.png"
+hash = "a1e21d86d6449ed072cdba2bf50e727c9e5f3065ef3c4e6f7b9cc66cec1adaed"
+
+[[files]]
+file = "emotes/SPE_Bit Jock.json"
+hash = "86811a0f4dcf34b170cde4e2899d4c6bac899fed3944cdb98cffa0ae238f5e61"
+
+[[files]]
+file = "emotes/SPE_Bit Jock.png"
+hash = "4640135884bc4ebf91714ed6362791570fc5d245f72381b798bd9567de7a68aa"
+
+[[files]]
+file = "emotes/SPE_Black Widow Pose.json"
+hash = "3a72c3e87b6b1276e7acc487703fa210c0955c3b08571fd628fa3694359442c7"
+
+[[files]]
+file = "emotes/SPE_Black Widow Pose.png"
+hash = "97b34a5654709165bf22c0f42398c295a7a0fa8ebd6287d29c228aa7f132d589"
+
+[[files]]
+file = "emotes/SPE_Bloody Pop.json"
+hash = "4c2616ea2b14d576882bafa215de67d948c3a5a58913777b08e0a4c4a12ef81e"
+
+[[files]]
+file = "emotes/SPE_Bloody Pop.png"
+hash = "87799443b9a2f73c62404984ba0d71fa3a2a965592b9d2c48164973713009f84"
+
+[[files]]
+file = "emotes/SPE_Boba Fett Stand.json"
+hash = "2dac898c8c67c8171a1412169c8f1df74696ad5f85f1271a029506a1bd563621"
+
+[[files]]
+file = "emotes/SPE_Boba Fett Stand.png"
+hash = "e7a0234f96608a53ec7401de1a3d2e82f6f6cd782481c998eb8ae94105b8b2d5"
+
+[[files]]
+file = "emotes/SPE_Bodybuilding pose1.json"
+hash = "ee40a2ab14d5c99e3cdce15c695ecd97dde7d31da3d14f5bea5494ce38a71347"
+
+[[files]]
+file = "emotes/SPE_Bodybuilding pose1.png"
+hash = "c9eb9e848529b337b1980389adcd748001d3802fa1e77da94e35f1d02cd2bafb"
+
+[[files]]
+file = "emotes/SPE_Bodybuilding pose2.json"
+hash = "774b5807eea1eec86cf0db27edac60207a2acf567849b3189566a6190916c125"
+
+[[files]]
+file = "emotes/SPE_Bodybuilding pose2.png"
+hash = "59ee6d7c3901c136b00ea1d938aa362382f9cba52e043c162baf95105b0d09b1"
+
+[[files]]
+file = "emotes/SPE_Bodybuilding pose3.json"
+hash = "a5c3f884a7cad1171b3ca7385bd2247bc63f8a8c2f91fbcd3a97ad71bfa8a682"
+
+[[files]]
+file = "emotes/SPE_Bodybuilding pose3.png"
+hash = "5b7a0aac960c022695ff57b5caa6f2cfdb6fb9cbc39430982de1977a8266ee68"
+
+[[files]]
+file = "emotes/SPE_Boom Boom.json"
+hash = "f86c999d225d0ddec9dda06582e57341e96c79bd99296d7ccefcc773ac00b8c3"
+
+[[files]]
+file = "emotes/SPE_Boom Boom.png"
+hash = "c59ceb371ab746af574eeb8ec23bc2e9869e871be96f63139aa2879e1748d02f"
+
+[[files]]
+file = "emotes/SPE_Bosom friends.json"
+hash = "9d89302dbc88721c14c82fdb0fca6b601de75f39c62d5dc92eeb1cb08a4f7457"
+
+[[files]]
+file = "emotes/SPE_Bosom friends.png"
+hash = "c2304026a574989f1550424995c1a26afcd7cc8707e20f66f055b933e132b0e1"
+
+[[files]]
+file = "emotes/SPE_Bouncing gait.json"
+hash = "4a01942cba48de2159f8ddbd6952147197fbfe0402641297306b8e9f22fd823c"
+
+[[files]]
+file = "emotes/SPE_Bouncing gait.png"
+hash = "d3dacd5408366aad96c4ddc723f7144d851a564454449b9569fa3246b104b5c1"
+
+[[files]]
+file = "emotes/SPE_Bow.json"
+hash = "fc67c9690368ebe4b5afd9b6dd8153003ca6336764af3731cc4b71c5bf525562"
+
+[[files]]
+file = "emotes/SPE_Bow.png"
+hash = "a4645bab3d6e7780b284b67549cf6814c8f59cb081b9b542f470c1f44940903e"
+
+[[files]]
+file = "emotes/SPE_Boyfriend Singing.json"
+hash = "216ebeabe189966487ff06b1ec87a42bb454dfc10a4d0fe5d03eeba86e8d8bf4"
+
+[[files]]
+file = "emotes/SPE_Boyfriend Singing.png"
+hash = "c7dc1f3226721dfa436616e9fec819470913fbb4f8146751a2a0bcd60fd26c7a"
+
+[[files]]
+file = "emotes/SPE_Bridge.json"
+hash = "264ee3088072720cc28883168d974772ce1bdc277ab39943c235bf2acbacaca9"
+
+[[files]]
+file = "emotes/SPE_Bridge.png"
+hash = "a7a855df16d8c654be3952fcf9239dd1334424662ae97e5ae558418513f67ece"
+
+[[files]]
+file = "emotes/SPE_Broad gait.json"
+hash = "aadd78e0621308fd2bd1f34ace2fb75d58cbe54c0603320301cb7a4b3d399ff4"
+
+[[files]]
+file = "emotes/SPE_Broad gait.png"
+hash = "8c431abd0dc6fa7a5325fe4c20b335ba5d52b58062e8eafd19348a51388a296a"
+
+[[files]]
+file = "emotes/SPE_Burpee.json"
+hash = "31e7a6ff683194321830dd2455a4a1029058176e4c7b36378eb2fca37d5d19d4"
+
+[[files]]
+file = "emotes/SPE_Burpee.png"
+hash = "00482ddc9bdda1ac63a35834592ded1dee4567832fb0035614e9ef9c47a71ef4"
+
+[[files]]
+file = "emotes/SPE_Chill Gait.json"
+hash = "7e99a6399021232126016e966a96087b70563606cd99314aa27cc07e3079aa22"
+
+[[files]]
+file = "emotes/SPE_Chill Gait.png"
+hash = "fac79eeeb0585d55706f3a2947673a4f230f739b5cb260eb2e702e8c317a924a"
+
+[[files]]
+file = "emotes/SPE_Chill to sit.json"
+hash = "e0dc023fd88aa86aaf1ca14208ba2f18cdc02cc3fd78082443c6b3decf612afc"
+
+[[files]]
+file = "emotes/SPE_Chill to sit.png"
+hash = "a9a3f42de04a135a785846c6562dba4a8a2eba93d2f714ee02973c7bc0402a10"
+
+[[files]]
+file = "emotes/SPE_Chop down a tree.json"
+hash = "c3a0dfd98e29da8ce62f6388c2d2526282c02414abd8c7ad8ee7a6afb3c3253d"
+
+[[files]]
+file = "emotes/SPE_Chop down a tree.png"
+hash = "2e160ac3cb37d9111c7a6119102aeb8a3996f60e598c5f8a1ddf18e088eb932b"
+
+[[files]]
+file = "emotes/SPE_Circular kick in the air.json"
+hash = "46be3449aa280f045cfb134b41d5d56d4ecc2a4a780909814730f75e6a6afe67"
+
+[[files]]
+file = "emotes/SPE_Circular kick in the air.png"
+hash = "43cb6341f8d04ad991e6a70daec1f2a5436b2fc87a4200e5eee926a5a1220a2e"
+
+[[files]]
+file = "emotes/SPE_Clap.json"
+hash = "a8b4e1da8c419b0d9cf2988f30cf64d99ce4e16e9c57db0c94171d2b7b1f8c4d"
+
+[[files]]
+file = "emotes/SPE_Clap.png"
+hash = "a926432c5aebaacd4664eee8ee3e3a8d335a3b06cbf4fe860db7c22d603d586c"
+
+[[files]]
+file = "emotes/SPE_Clap1.json"
+hash = "9bdc73d61cf1f0c887260790ffb058dfbcbf339c76bec919284e6cfa3d8c6598"
+
+[[files]]
+file = "emotes/SPE_Clap1.png"
+hash = "021766eb41c0ccab8f8617f4f27a3b1e5bcc48f3774885f0287942afde642546"
+
+[[files]]
+file = "emotes/SPE_Clap2.json"
+hash = "a43b251140062e8d4756cc7461785955114355e0a4c5a38e00fd76a6bc6c6c68"
+
+[[files]]
+file = "emotes/SPE_Clap2.png"
+hash = "8863b4d6c6ee1fe5118d8248cbf2ce58dd1e22dc7cc57f6de1fc5e4b23a9e555"
+
+[[files]]
+file = "emotes/SPE_Clean up the snow.json"
+hash = "50edce1a4519b10f459d8037fe8b6e238d42d376d59355c5b9e3804986e356df"
+
+[[files]]
+file = "emotes/SPE_Clean up the snow.png"
+hash = "7e4b7fcd880a1d3a5639f9d0ab95dc5d7471e74eb8572c3cd7da50325e204f8e"
+
+[[files]]
+file = "emotes/SPE_Clown Dance.json"
+hash = "f98ce3e29584fa047d8eea6011fc9c7546fcb1edf7b2c62e032f99c6bbb3b402"
+
+[[files]]
+file = "emotes/SPE_Clown Dance.png"
+hash = "d721d8fe0a2f56df9d30b08bc75f064f061c85fc43243cf739be4e79f60dd29e"
+
+[[files]]
+file = "emotes/SPE_Consider the subject.json"
+hash = "863262ba1b1bd822e13efbd26aa71142dc1e59f973661fba0c80d2df0ce1e1ea"
+
+[[files]]
+file = "emotes/SPE_Consider the subject.png"
+hash = "763768eec61cf15a263f90cebf75778e0c560538e3c2cc35d461a8baa7e19a83"
+
+[[files]]
+file = "emotes/SPE_Cool Drink water.json"
+hash = "31b2d246a0aab6b9b106e1a44aa8e6233cdb26cf9ab6da06a387d72ad0173e39"
+
+[[files]]
+file = "emotes/SPE_Cool Drink water.png"
+hash = "5ef6d0c0b152ae4c5f2eebaa23710e44d997fedab3ef1f8188e8ca7f4baa4f3e"
+
+[[files]]
+file = "emotes/SPE_Corps de Ballet.json"
+hash = "df8c8ce103565f25b3e2abfbb6d836f18429b2019f688901a7f5079236538e6b"
+
+[[files]]
+file = "emotes/SPE_Corps de Ballet.png"
+hash = "935345816bd00b96f8a706fccfb6859751e39fd75e29238e045b7fca3a3bca4b"
+
+[[files]]
+file = "emotes/SPE_Crawl.json"
+hash = "afd7a2ebe96619631e005745b3f433e2112fa4cce0fc1ade74d7f46d228ade6f"
+
+[[files]]
+file = "emotes/SPE_Crawl.png"
+hash = "1696fa56f4dfd14364e84349035ebfa38dbe3fe10464a24c2cb91ce5d1197f88"
+
+[[files]]
+file = "emotes/SPE_Cross from left to right.json"
+hash = "4585f09567da93ccad5ffe9f320ea778f65ca008f220a3e82d19c7926d89333b"
+
+[[files]]
+file = "emotes/SPE_Cross from left to right.png"
+hash = "4dcc0a809d27bbe0473a85b97a0689aa3142b84aae4500d3da5c3cbd1c138d22"
+
+[[files]]
+file = "emotes/SPE_Cross from right to left.json"
+hash = "fe26126703013fe0c60eb3da286ac080e08f3eb8bf2a7c5a267fdae412bd64a2"
+
+[[files]]
+file = "emotes/SPE_Cross from right to left.png"
+hash = "91555b57cfeb9ec1628e74debe7f11b4809710b0adfa1e164a9abd2afa1e76f9"
+
+[[files]]
+file = "emotes/SPE_Cross out the throat.json"
+hash = "6109acb852a898c144788e7c4247e6a014e1aa9abb43be0b01650ee0b3033ab8"
+
+[[files]]
+file = "emotes/SPE_Cross out the throat.png"
+hash = "d257db6de08a31da2d892f4cd780b1469bb35b280f8bd97096644239788ced05"
+
+[[files]]
+file = "emotes/SPE_Crossroad.json"
+hash = "1c12d4022044d007c0ffbd3f37adc0258e587082e35c7686ae48767dc3e897a4"
+
+[[files]]
+file = "emotes/SPE_Crossroad.png"
+hash = "a4de7aa0d7f92029ec7a13d49912ba1bfded3cb1ad0a4496a4fea31ecc1dcb11"
+
+[[files]]
+file = "emotes/SPE_Cuddle.json"
+hash = "2fd1d571cbbaa5b77a5abf586216b75f503c12f89f2ffa3b4571fc817005ca5b"
+
+[[files]]
+file = "emotes/SPE_Cuddle.png"
+hash = "880f2c9bef95bcd382de886e53a45f86f2206093d19787bd416e2813351b4894"
+
+[[files]]
+file = "emotes/SPE_Cutting food with a knife.json"
+hash = "506d1bd7474d45b1c17ff9279dee85d997dd33c1c3fb5cd1d82febdde118c635"
+
+[[files]]
+file = "emotes/SPE_Cutting food with a knife.png"
+hash = "5666f3467be123c74860703ad34eeef7db7c05f3a25b16e71382f3d68c0d928d"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance.json"
+hash = "fa8cc814896fcae0b3f8287092ab5b0d525f84c53696df2cfad1b45743cf0e9b"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance.png"
+hash = "94a566ab76731adcdd39a87c35b0a1fcad838ef5fc27cdf7eded7315a04f1727"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance1.json"
+hash = "df120bf82d7340a37521b7e73da887ab126344dd1e96a7caed664057fd3828d2"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance1.png"
+hash = "f7d6aeb3e50ecfd89249178ac559cf8618e36af1aec4d495c264b5d1acd87909"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance2.json"
+hash = "4b2daabcb97bf373f2d979976e6cc4a793f340284a8ab5157b9f193a45d9e73c"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance2.png"
+hash = "822e083ce123965f62f1ec1d5a7a30be5e0af3d19b592f282c567772aaf1598a"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance3.json"
+hash = "fe6a0a8c438e2decd2be6dc887f85c8a6aa64917e983f1c0b1b2134d5ec49e1e"
+
+[[files]]
+file = "emotes/SPE_D4DJ_Dance3.png"
+hash = "55e6b396ac15ad70d0db0cda87f6a0ef3fb41b8c02e8ac5a62ce1553a16d00e3"
+
+[[files]]
+file = "emotes/SPE_Dab.json"
+hash = "458a50eb2b192aa85d4b7e0f935239f0e5efcb7d3472a806ccb95d7b76eca9f9"
+
+[[files]]
+file = "emotes/SPE_Dab.png"
+hash = "a3a2c71acce480df57b131153b4f17dfe9c2a76a6b5a2de0a2103aca53a6dad7"
+
+[[files]]
+file = "emotes/SPE_Dance of little chickens.json"
+hash = "43f8b7f11cf8184ff0560fc1edb1aa3e44728c1577cf9df1ce6dfaeb15be9dc2"
+
+[[files]]
+file = "emotes/SPE_Dance of little chickens.png"
+hash = "95cd76fd7bfd374cdfff4b246188778295132f8728a23a6d5026768d72c0f01f"
+
+[[files]]
+file = "emotes/SPE_Dance of the Fire God.json"
+hash = "0b94ff36bcf6982eb4f86916f4e80f927e6c86e968365ffc4eb159f0777e1462"
+
+[[files]]
+file = "emotes/SPE_Dance of the Fire God.png"
+hash = "3b3bc2a35119301687cb74965cfe98353136a72f72dbf714075f4763fcd4799f"
+
+[[files]]
+file = "emotes/SPE_Dance.json"
+hash = "66209070f39f8da9cfaf2d33e55a0e5866c47238a8b2841aad2d670ec8360ef5"
+
+[[files]]
+file = "emotes/SPE_Dance.png"
+hash = "7b9d145d004f32ca45cb9b2454569c9983d3702885c2d775e64797538af2f3ae"
+
+[[files]]
+file = "emotes/SPE_Dance1.json"
+hash = "3397d74d3f7c1de9f16fe810c2cf808a334ad9647d3e7326c5c13066080f9658"
+
+[[files]]
+file = "emotes/SPE_Dance1.png"
+hash = "738e8d697eff5f5d2b79c3ea63aa30a3b490612437b9e0971ec3a558aee3d7ee"
+
+[[files]]
+file = "emotes/SPE_Dance2.json"
+hash = "ca26d9d4054ada0ea8f6ec86ee83d4f89c305ee111887902c6279f7ae7ecf70c"
+
+[[files]]
+file = "emotes/SPE_Dance2.png"
+hash = "6824c6bd885a586716fa1192197f4023649a144fb2fa3e04d8a3b07cd69a22a9"
+
+[[files]]
+file = "emotes/SPE_Dancing gait.json"
+hash = "11c774751131f4ba38c82c3d0647f037ec8dd78835dbdc65126d3cd8018535f3"
+
+[[files]]
+file = "emotes/SPE_Dancing gait.png"
+hash = "2e5917f83cbb217a01d8f8747a4f73837f66430c0edcb154eecbe55250331732"
+
+[[files]]
+file = "emotes/SPE_Dancing.json"
+hash = "724b6c62f309711656e24083fa7cee8406b9537f8691fc02a60d83aa90c6b2cb"
+
+[[files]]
+file = "emotes/SPE_Dancing.png"
+hash = "7f3cf5ddece10a83f2b78e7426ff75d2c388445288dc25fb86607c22ee83b78b"
+
+[[files]]
+file = "emotes/SPE_Dart Vader Stand.json"
+hash = "c7b665f0d0f375aa57dd77f0135293fc1c458a197eb2953c2cdb930764bcbd0d"
+
+[[files]]
+file = "emotes/SPE_Dart Vader Stand.png"
+hash = "65878821b34cb120c18ca8dfa9441d56672c581aae3d48a72bb4ec737ef58da5"
+
+[[files]]
+file = "emotes/SPE_Dawn of the Phoenix.json"
+hash = "9d2fa077d7794abc68eea92a9ba638715c2801a9ec180e1fa2da7d5d91de6009"
+
+[[files]]
+file = "emotes/SPE_Dawn of the Phoenix.png"
+hash = "2fce6b21bf81cc0c0dc0b094686bdc944e3b2f3171bb8ef65a447ecd3e6c47da"
+
+[[files]]
+file = "emotes/SPE_Delight.json"
+hash = "0ad7ec1e4a53c2493932b2d38e76628f58c89f6766bfab3f8fc0aba71f7f8345"
+
+[[files]]
+file = "emotes/SPE_Delight.png"
+hash = "6afe7650847ed4b6f6851576fcc2fb91ae1ed10d0dfabbb372c2d6ed9addb5d5"
+
+[[files]]
+file = "emotes/SPE_Die.json"
+hash = "c5a94ef39afd1bc4c812d675d3655d14b69d4d7716b79793ac4cee298de3c268"
+
+[[files]]
+file = "emotes/SPE_Die.png"
+hash = "7d7c7823771b0492b054766c8108c99700817fa8e9c13a2dd00e976ddcd09f20"
+
+[[files]]
+file = "emotes/SPE_Diluc Stand.json"
+hash = "9c3cd04cba236f56e7843b36df73e47b7590ef2b4c22ec5b58f5eda20db40ecd"
+
+[[files]]
+file = "emotes/SPE_Diluc Stand.png"
+hash = "8adf074b48fae6cf9187dd2944ffb67502bc0d9c281c8152b4ce7b50d6cd51e1"
+
+[[files]]
+file = "emotes/SPE_Diskomania.json"
+hash = "a40ff3751ab5b70d76f3da915f138623810c1b198bea84f06666ae9d9182c17d"
+
+[[files]]
+file = "emotes/SPE_Diskomania.png"
+hash = "88139ffd2e2b371b428f18beff02eddd894c0dc41a528f0a1df353ab37cca307"
+
+[[files]]
+file = "emotes/SPE_Diva.json"
+hash = "1986d659f0e364c2dc1736093c75a897d86fb2bf407e851c07298825888823ef"
+
+[[files]]
+file = "emotes/SPE_Diva.png"
+hash = "baebbff8a1de031b7a9d9c1127c6d165018d015f71c33d57a309247e2879bf86"
+
+[[files]]
+file = "emotes/SPE_Do artificial respiration.json"
+hash = "6a6ed48405018c253b2f0dd57d8092e4a2cea4275eb2b5c084d313b380a2ea08"
+
+[[files]]
+file = "emotes/SPE_Do artificial respiration.png"
+hash = "18d2712cd6c8bc430ec9fe9bb83417e3537bfe454812ac124a33b71c36838e78"
+
+[[files]]
+file = "emotes/SPE_Doom.json"
+hash = "0cdcf39f5376670261a4c97232e8484df9e41a404cae76e17906338c73c8df3c"
+
+[[files]]
+file = "emotes/SPE_Doom.png"
+hash = "1eccee4ed4323251cdb9b074de956715058e1b0efa7e121c9863e2ecac274801"
+
+[[files]]
+file = "emotes/SPE_Dr. Livesey's gait.json"
+hash = "26aa7805fbc10b6bd3248cd7414e9d3945babd9b14e02adccb096ca5f2ae0a46"
+
+[[files]]
+file = "emotes/SPE_Dr. Livesey's gait.png"
+hash = "feb2b1b0cdf06208d88fdf444e4f5cef77066fedfe7140a763d1d41434804389"
+
+[[files]]
+file = "emotes/SPE_Draw on an easel.json"
+hash = "7840062d1e283e76c2f2f94a53a6d1db864057f83f6dd26b55c03e2f07413ba9"
+
+[[files]]
+file = "emotes/SPE_Draw on an easel.png"
+hash = "af4e80c89b3655a018a37c255595fa5c87b6df9b1712063814b45e23bb4bf436"
+
+[[files]]
+file = "emotes/SPE_Drink some water.json"
+hash = "c6d7f35d23981dba720d821cd0a7362b75c948f82d3540934996159e5f7731a0"
+
+[[files]]
+file = "emotes/SPE_Drink some water.png"
+hash = "7ea64e386fd0f13cd7fac8bd25d3e4173e779107d2238e6d290177119e470f87"
+
+[[files]]
+file = "emotes/SPE_Drive away insects.json"
+hash = "de3b5ea5456f8139d9b7d300cf945f3e7da405cf714434f80e364716f5508bb9"
+
+[[files]]
+file = "emotes/SPE_Drive away insects.png"
+hash = "023ae6e427b0883ba1c53672acb3f1d0a5eb1f684fc5f984a60c669950128aed"
+
+[[files]]
+file = "emotes/SPE_Dynamite.json"
+hash = "2428405c80eda5b94b696357561512dd7ca5646d9ddb6a559b6d3ef9508ca62d"
+
+[[files]]
+file = "emotes/SPE_Dynamite.png"
+hash = "099e6c873ba51f4d1d70cfb20a9b78ba62ba55863d0c2ce99f4e6ef46f5b87fd"
+
+[[files]]
+file = "emotes/SPE_Eat food1.json"
+hash = "1fe285ff4ca6799fbd0a52d4682a23788ecffb0d9bd617e2f4824d08cd328229"
+
+[[files]]
+file = "emotes/SPE_Eat food1.png"
+hash = "9a25c474e766b2d8ba1788d15a144809ad4a090375620dfe6bb865974df9d7cc"
+
+[[files]]
+file = "emotes/SPE_Eat food2.json"
+hash = "9c42509c75e8a2c647c3ce95047f7dfbece577fd37bbff2854e8dc433217af41"
+
+[[files]]
+file = "emotes/SPE_Eat food2.png"
+hash = "d77ac4a0fd4f81d7d084bd84a3378a60e3f3ca6f6275bfcad6ffe8bd97702be6"
+
+[[files]]
+file = "emotes/SPE_Embarrassing to sit.json"
+hash = "24c2965974db349ed660a982abd899cf6da2becc4ff33c0d8dbd082af71ed20c"
+
+[[files]]
+file = "emotes/SPE_Embarrassing to sit.png"
+hash = "f354f0ed807a4cebe903953f4233aef7fadab89b90cb8ac48e72c4bd0b89a0dc"
+
+[[files]]
+file = "emotes/SPE_Evelynn Stand.json"
+hash = "5e1b25800ad5ed8ea605ff02e1b57fb1e0f4bc198a5dfbaa1e24c0400f3a2f1c"
+
+[[files]]
+file = "emotes/SPE_Evelynn Stand.png"
+hash = "5434f0d44e7603481106dda4641593fceb306b547e839c26f11e0ec11747db0b"
+
+[[files]]
+file = "emotes/SPE_Expectation.json"
+hash = "9056426370549ae4f964a8ed060a78d0bfd33d97554730dfea8d7578212d0ac7"
+
+[[files]]
+file = "emotes/SPE_Expectation.png"
+hash = "8a7a1a6e42ce8fb7500808dad203a3fc5dd7fdb4618bb877eca7d2d6e5258c80"
+
+[[files]]
+file = "emotes/SPE_Explain near the blackboard.json"
+hash = "be71ec3fae3aad37ab7be17b9a5a10a51f4cf7333a58701d28b45e67b1ce047a"
+
+[[files]]
+file = "emotes/SPE_Explain near the blackboard.png"
+hash = "e69c891f967417d184a4485c5ef643133c2881a07ab21760f6aaeb9e9096c821"
+
+[[files]]
+file = "emotes/SPE_Explain something on the table.json"
+hash = "f0b7794baadd59f7a24d457a707c4b27655fed7f542a0d39ad0998770ec1cb2a"
+
+[[files]]
+file = "emotes/SPE_Explain something on the table.png"
+hash = "5f24f4a185b168ffae5d18fdf828ed0ab5982c99e8ece1165cfd086a0b0b98d6"
+
+[[files]]
+file = "emotes/SPE_Extend your arms forward.json"
+hash = "28d0f3641f525a3adc27a85f8ecc2409619d5a66404c74d7a41c07638bc2e78e"
+
+[[files]]
+file = "emotes/SPE_Extend your arms forward.png"
+hash = "60de8d785822b74eea65b8a81e0fed034b75eaf140797d927c76dca686bdc7a9"
+
+[[files]]
+file = "emotes/SPE_Facepalm.json"
+hash = "0c22540220c51fb86ef5bbdc56ed0fc8057e299bfbebec2bb64e2c01af97d3f5"
+
+[[files]]
+file = "emotes/SPE_Facepalm.png"
+hash = "3ca7fd7fa6be88b5c16593768acf28da6d0b0d74872e443cd24e3194500b17ab"
+
+[[files]]
+file = "emotes/SPE_Fall drunk.json"
+hash = "aa685799ed4c98308620c2fad6ef7446c00a60a8d9a683d0e022d816235ef3d8"
+
+[[files]]
+file = "emotes/SPE_Fall drunk.png"
+hash = "28b8df93fb7d016695b074e9bfa67e8fe42b08fdbb27f71abfef4f4fde581239"
+
+[[files]]
+file = "emotes/SPE_Fall1.json"
+hash = "856a7c2a8f7f55b0e9b42079d3e939845327a58644d88054da2f6a56c0eb4e90"
+
+[[files]]
+file = "emotes/SPE_Fall1.png"
+hash = "a63fd8d2fc7373371834b7f4c7109c1dcd768b04187832defe98d519575f7d7d"
+
+[[files]]
+file = "emotes/SPE_Fall2.json"
+hash = "8f5005376acdfd62c5cfeddd9a6901f9b9ed104de3c6480d221d37b12ddc3258"
+
+[[files]]
+file = "emotes/SPE_Fall2.png"
+hash = "d2c122cb20ed6a39d6db3c529ed4e8acf42f15492de6e27f025820f7b9ebbe64"
+
+[[files]]
+file = "emotes/SPE_Fear.json"
+hash = "26b716afc6b0a7862c478df9d6ab48fff1b1b040d03530e89b377aa9c4e98ade"
+
+[[files]]
+file = "emotes/SPE_Fear.png"
+hash = "366d2dd53a7e5e71fce7f956eaf820e3285ff756473ff0bc22e60ac8066bd899"
+
+[[files]]
+file = "emotes/SPE_Feel Special.json"
+hash = "9a2694e21809b065357a32b68a39fe86cad89306e890c3a5e20eb99a1d671b98"
+
+[[files]]
+file = "emotes/SPE_Feel Special.png"
+hash = "a9ad41a6600b8c9bfb95c87fe0b18c2f08436af2c3fa4a7b83c9974c92c378f9"
+
+[[files]]
+file = "emotes/SPE_Feels.json"
+hash = "12d145b4ee0d22fa37d028d070c8d64ae1d8a595015291e777507cf9fee6e6f4"
+
+[[files]]
+file = "emotes/SPE_Feels.png"
+hash = "3c238ef52a3ba17e9e1d1fcc4e26e1e42bd663bc7f9d965da7c1728dba3a43d1"
+
+[[files]]
+file = "emotes/SPE_Feet down.json"
+hash = "500230e483bd5c5fdbbe4d8ab26c347302d0398625e342c05ae453b4cc120268"
+
+[[files]]
+file = "emotes/SPE_Feet down.png"
+hash = "3310933efe068ff5c43522a9fb1d035b1df254c8b57d806dc6a7ff85fef981e0"
+
+[[files]]
+file = "emotes/SPE_Few halves.json"
+hash = "99ce41275259cd17eda94afcff8049170641407b1984efce8ecffbb103818ac5"
+
+[[files]]
+file = "emotes/SPE_Few halves.png"
+hash = "b08fc65287e25564a1d4c847947f19976863641001bcde28117ee15e33706440"
+
+[[files]]
+file = "emotes/SPE_Fighting pose with a bow.json"
+hash = "ba955bf99d61d3be27f0171092bd5f45f1cca3b8db882a8125c9408c9c7c8632"
+
+[[files]]
+file = "emotes/SPE_Fighting pose with a bow.png"
+hash = "20a3d744a7a4f3231228681ccf3b8de9a8af0fb45aa1913a51639b3f45c14811"
+
+[[files]]
+file = "emotes/SPE_Fighting pose with shild.json"
+hash = "1d9ceaf0347260d0203dd5f8453a2c362a0ea7c62a06e63016cce0caa104013e"
+
+[[files]]
+file = "emotes/SPE_Fighting pose with shild.png"
+hash = "38dfb54164af56027635f8c748378c4917a98ed7e804f48d7436f1f198a596f1"
+
+[[files]]
+file = "emotes/SPE_Fighting pose.json"
+hash = "b6e9df746f3130c5a7c371714bb5b24e5435c7f16ac12567438b309913e51b5f"
+
+[[files]]
+file = "emotes/SPE_Fighting pose.png"
+hash = "f35b2a55b435c366c25b5d48c84d0d79b035965ad0328aadfb5833c05e7135d3"
+
+[[files]]
+file = "emotes/SPE_Fighting stance with swords.json"
+hash = "151ed9a5cdbbab6d571940b93908fce81ed555304b8b431a5261d9153a582e16"
+
+[[files]]
+file = "emotes/SPE_Fighting stance with swords.png"
+hash = "95d3de6b1f4fcf9f56c0b4107111b7fd2c78fafc236490f039f01673040fd8f8"
+
+[[files]]
+file = "emotes/SPE_Fighting stance.json"
+hash = "64227bda4068f145f6652d22b00880b43d25596cdccfc227dee0ecf29624efee"
+
+[[files]]
+file = "emotes/SPE_Fighting stance.png"
+hash = "97febeddf47e08613fc9d2693a61240b7809d68539a24069b8978557f3a83604"
+
+[[files]]
+file = "emotes/SPE_Finishing.json"
+hash = "0cb4d1f7a711792297f98433e78804963c35bf55305df52b7bbdc819f8770671"
+
+[[files]]
+file = "emotes/SPE_Finishing.png"
+hash = "6bba7f75b993a818ea49d07355733e0ee51c9c37edf1233a11af45a75c7eb73e"
+
+[[files]]
+file = "emotes/SPE_Fishing standing up.json"
+hash = "5da3fb4fb14b69442adade85f6e28f2a9d91109b93eac1e596c1e74a114d84e3"
+
+[[files]]
+file = "emotes/SPE_Fishing standing up.png"
+hash = "f2f34aeb8a327fea8a008de61d81982ae3e554bd5742beef2056f38840ca8998"
+
+[[files]]
+file = "emotes/SPE_Fishing while sitting in a boat.json"
+hash = "4915a1564f8837e1d46015ab3d59d42812000efcb5592a42904ce8ac929a2e8c"
+
+[[files]]
+file = "emotes/SPE_Fishing while sitting in a boat.png"
+hash = "03db8d476a1f813db2ace7675aff393fa39339f5ad432ab85da760a4bbd65a74"
+
+[[files]]
+file = "emotes/SPE_Flight of Superman.json"
+hash = "a7dbbd79745f20ba96e94c2d256601bb234df86dd1360d14eb55c73ed5b2f410"
+
+[[files]]
+file = "emotes/SPE_Flight of Superman.png"
+hash = "c648e32fcc6d365e95dc9e7020e5af16873ec29887a58a29267500a83e9370a9"
+
+[[files]]
+file = "emotes/SPE_Floss.json"
+hash = "992f681d6cb88da8bd7ccac1764da38d32b376f1e8fe267408ebad1051b5dd7b"
+
+[[files]]
+file = "emotes/SPE_Floss.png"
+hash = "a96fd8fe85b0b543ef9a2f94ee9d19fe825f74c0f095378b8498302d9d68afbb"
+
+[[files]]
+file = "emotes/SPE_Flying face down.json"
+hash = "6638cbe40d1863c9c6ffb92fbdcd9ce7d2e7e4a430531f2cd8f834d9ade6d559"
+
+[[files]]
+file = "emotes/SPE_Flying face down.png"
+hash = "e74f19aaf9c8c503ee7db59f60924b23766b5a9866b117adb322c1dc348da57a"
+
+[[files]]
+file = "emotes/SPE_Flying on the sword.json"
+hash = "e969636224d85028ccd0dd97c8aebd1a5bf0aa22111dc33fa571cde881c51089"
+
+[[files]]
+file = "emotes/SPE_Flying on the sword.png"
+hash = "bb30e8a37379a2a09eec9ffbc515cb0c49c2a7469d818ad42f7221117d79eddf"
+
+[[files]]
+file = "emotes/SPE_Fold your hands in front of you.json"
+hash = "974a1814ecdaaa786cc010e1ba8190f22e8c4d923530037afa6bd62437de29b4"
+
+[[files]]
+file = "emotes/SPE_Fold your hands in front of you.png"
+hash = "a987c09afe790eedd96e3a676b222b6b2f8e653a741ad12606d0eb46ba1d0c62"
+
+[[files]]
+file = "emotes/SPE_Foot tapping.json"
+hash = "d1d36d249cd2c0191a6ffede306f7a3ea4ede29d32c1d411ff7a1a96afea99d8"
+
+[[files]]
+file = "emotes/SPE_Foot tapping.png"
+hash = "ee13dee90662684294afefbce28b47beee8b789e15f52012f9dfcf9b88e42a58"
+
+[[files]]
+file = "emotes/SPE_Footsteps.json"
+hash = "78c8588d5f95b1210b5aad31f75fc176d930f0d8600b3fadfecaa5488529345e"
+
+[[files]]
+file = "emotes/SPE_Footsteps.png"
+hash = "d88763de91b89bbbd900441c6527d5d006b9f9c908ce603b04f59fb28d78803b"
+
+[[files]]
+file = "emotes/SPE_Forge.json"
+hash = "f9749a6520be5e38393e5cb151da31926ac151771098b137177702dc3c2de165"
+
+[[files]]
+file = "emotes/SPE_Forge.png"
+hash = "a07eee76b38060f16620843c4efa61d304c3f06100ffb47121b852f4237b64b2"
+
+[[files]]
+file = "emotes/SPE_Fortnite Dance.json"
+hash = "7746b71c6f98ce259d8f8d054cef4098688b226d5be7fb0f198ad6a5fa10d5e5"
+
+[[files]]
+file = "emotes/SPE_Fortnite Dance.png"
+hash = "641452ac1a5e28c22a59f8db7fbc921e8a99e0c0ec83851409b6c412df1e24a9"
+
+[[files]]
+file = "emotes/SPE_Forward somersault.json"
+hash = "f42c5f1908b66106317b966582140cb99f7a1fa02620d58839ed7f8ddbdf1700"
+
+[[files]]
+file = "emotes/SPE_Forward somersault.png"
+hash = "939bafc385777ddff33cb5ca1309e54b855a81d93e75b678d77bb1348f396167"
+
+[[files]]
+file = "emotes/SPE_Freeze.json"
+hash = "738c42b0f13c4812f2e6f31c8aa3748fbea317dcd46112d4dfe0954fde4a1257"
+
+[[files]]
+file = "emotes/SPE_Freeze.png"
+hash = "447c3c5f67ffd384f598a261a46deae10353da727adf39e5addc478a0a74d05a"
+
+[[files]]
+file = "emotes/SPE_Fucking lying down.json"
+hash = "7472046a62e04fb714a09994d7fbc771d36fdfddfece4c569885b8c14bfac131"
+
+[[files]]
+file = "emotes/SPE_Fucking lying down.png"
+hash = "c23cc41499dfb25072b3fed0fa952f08b79e2c5861517a7ca6a70ff33b9853a2"
+
+[[files]]
+file = "emotes/SPE_Gait with a sword on belt.json"
+hash = "a38ea56a5fbc7d132d106b05d69086127302bfbbbbfdd92848efab58eb0ed1d8"
+
+[[files]]
+file = "emotes/SPE_Gait with a sword on belt.png"
+hash = "0e96becbe0ae6a1c17408cf6d3571b9596e3ab4909dc0995617921caed37d2aa"
+
+[[files]]
+file = "emotes/SPE_Gait1.json"
+hash = "b372ed86d1f415a4849623769c73809c2c0f89d90b58a617099f2943a703d807"
+
+[[files]]
+file = "emotes/SPE_Gait1.png"
+hash = "9b7ca9c62ee25b1050f6aeb75e047a3106fbda01db68f46fd8106a70f5f818c4"
+
+[[files]]
+file = "emotes/SPE_Gait2.json"
+hash = "3488db9f82b44c2c419ad0ef1a6b65527a8e7a595337acd68ccb3f80ac31f958"
+
+[[files]]
+file = "emotes/SPE_Gait2.png"
+hash = "1a385c063e596d064d1837083afbb371c5cd85ff5ebfaaa417522808d732f343"
+
+[[files]]
+file = "emotes/SPE_Gait3.json"
+hash = "57f09307f149a70077bc4f9fc613788b4f1835cef344a3cf1349137d912941e4"
+
+[[files]]
+file = "emotes/SPE_Gait3.png"
+hash = "becf90e739b67d932e176f1c2ea218b7e034c6fb920bf00a8663547c496d3759"
+
+[[files]]
+file = "emotes/SPE_Gait4.json"
+hash = "c71989bc4e70b62b2c0a65c723963fb9985e53301c5d00340bbcfdd3faabcf94"
+
+[[files]]
+file = "emotes/SPE_Gait4.png"
+hash = "6cbadfdb3c3a8014b034ae41def7d1089342bbfa1a100048be1583a849290c3d"
+
+[[files]]
+file = "emotes/SPE_Gait5.json"
+hash = "5a6ceacf1d81887e69e161b36009830dc1463480a080b398b76ac6434665ed5e"
+
+[[files]]
+file = "emotes/SPE_Gait5.png"
+hash = "7101ef42bdd152f7d5403d50d3197b8d06de52ce32b52c711da991bd5082d8a7"
+
+[[files]]
+file = "emotes/SPE_Gait7.json"
+hash = "09b671723b72b2ca5476f1b5a196d72494414769c3fa67c07191a412d8cc07d8"
+
+[[files]]
+file = "emotes/SPE_Gait7.png"
+hash = "d4b75804d13428efb0bda8165ca086e13be538c4535316291ff0379b8dcc588b"
+
+[[files]]
+file = "emotes/SPE_Gangnam style1.json"
+hash = "151ffe3281db63f3bb125f8dfd3d9d89c050af1baaac47d21b10b5a5760b4463"
+
+[[files]]
+file = "emotes/SPE_Gangnam style1.png"
+hash = "6e0d16af6c18b4d451b47900a62ef44fe0a4fcdaaee07100bb0dcd33e7abd5fe"
+
+[[files]]
+file = "emotes/SPE_Gangnam style2.json"
+hash = "4478c322c8c27cdf136c65715681c62616b1f98ed374d2a0e46a7ea29c8dbd54"
+
+[[files]]
+file = "emotes/SPE_Gangnam style2.png"
+hash = "d5b2b668c3c003fe48bd72df5c4c51fcaf10cd00adce1cd0573dc71ea615effd"
+
+[[files]]
+file = "emotes/SPE_Gentelman.json"
+hash = "a400b99b9a185100d7043e104bfe96575fbcb015e0104e6ab0d56c6924a9113b"
+
+[[files]]
+file = "emotes/SPE_Gentelman.png"
+hash = "60f169b629747fe4a26c52e7855724d5cc90ab6e6c6099e8a70245b0a0b89489"
+
+[[files]]
+file = "emotes/SPE_Get on one knee.json"
+hash = "569861c0725bdb6d785faa67a5685e6d8e5c9e1dc2627e25bde9770d53180d2c"
+
+[[files]]
+file = "emotes/SPE_Get on one knee.png"
+hash = "b8a3619d58727f5c721963eea77df8de24107349866e5e711d427199e675b8a0"
+
+[[files]]
+file = "emotes/SPE_Get scared.json"
+hash = "0faecde8acf5a1b2c6eb219d76b6aa920b6d897edb4a2f7b63fb3bc125297d90"
+
+[[files]]
+file = "emotes/SPE_Get scared.png"
+hash = "160ba80911b6c202bd4825fe651e85eb408bc2690e8d1846f1c7fd6629056f87"
+
+[[files]]
+file = "emotes/SPE_Giorno giovanna pose.json"
+hash = "a0c850085f3663900f5e4b972efa0e13771e20abdf6811b99bdb46487b04c86a"
+
+[[files]]
+file = "emotes/SPE_Giorno giovanna pose.png"
+hash = "3601a9598b7a856b4e08b9604946308bae1e3951f45f88a4d36e1c85af4b7f5f"
+
+[[files]]
+file = "emotes/SPE_Give That Wolf A Banana.json"
+hash = "26e7df407b970cb5bfc67f043db0cc0405be57c7944ddd837be869264f31232e"
+
+[[files]]
+file = "emotes/SPE_Give That Wolf A Banana.png"
+hash = "6660db2b726b240358d5bc076a23564674bc670bbe7d66015855338dfc632160"
+
+[[files]]
+file = "emotes/SPE_Give it here.json"
+hash = "0a51fe1975dd62837d00daa8e5bc3b90db0fc39305e8959f35d8b9ae040ca4ff"
+
+[[files]]
+file = "emotes/SPE_Give it here.png"
+hash = "fe2b60dad37601eb85afb069e2ac54c671b93f169a738a06702c0661942d8b09"
+
+[[files]]
+file = "emotes/SPE_Give money from the cash register.json"
+hash = "fd6c515cb7d1d4feed06dd60b8399de0e17a2e174adcc59ef8924dcf9972c18d"
+
+[[files]]
+file = "emotes/SPE_Give money from the cash register.png"
+hash = "14cee96185cc1b1e5e0f14d438aac67dcfeb19244574f91144205841b0cf4203"
+
+[[files]]
+file = "emotes/SPE_Go crazy.json"
+hash = "4e71146fd46fcbd316325755a770aa60aa89eba3bfda7247ea544f78fb04fcaf"
+
+[[files]]
+file = "emotes/SPE_Go crazy.png"
+hash = "b42e46053dc4a6384b40a26185426963192e18bc9c800b959ea4cb87b24d6501"
+
+[[files]]
+file = "emotes/SPE_Goat.json"
+hash = "5887e0f2aae61615d81435a48f059b6d4b894923ba046c5432a19d8e5ebb92d0"
+
+[[files]]
+file = "emotes/SPE_Goat.png"
+hash = "6369671692527e3792c76db59944428317d49852b4008e67daeef2b7ababac2e"
+
+[[files]]
+file = "emotes/SPE_Gopnik.json"
+hash = "695d682c22d4fc026e45f30a77bf4491f26268141ea683cb2c1fa3431e1d7937"
+
+[[files]]
+file = "emotes/SPE_Gopnik.png"
+hash = "77c6ca8ecdcd5e4d14ba97bac89f01e28c2d6b4c591297baac76db3427d78335"
+
+[[files]]
+file = "emotes/SPE_Gun Trick.json"
+hash = "181d0265c95d1da7265b169b2d35316452e0bfb70632f19b1980125d676679ba"
+
+[[files]]
+file = "emotes/SPE_Gun Trick.png"
+hash = "1c9cc53f72920bd30ddde7d7e71e60fe434c8e67824c370a95842755cab43efa"
+
+[[files]]
+file = "emotes/SPE_Gymnastic1.json"
+hash = "bfded3602cb70ec1af902a410cbd316df8afcb90c91a6a844b0151512d0e4679"
+
+[[files]]
+file = "emotes/SPE_Gymnastic1.png"
+hash = "bbeecfd39a0a035b6103b86ff690325b0960caba24311158ddfeddd7af984802"
+
+[[files]]
+file = "emotes/SPE_Gymnastic2.json"
+hash = "fe9bd86093f5d6fd4ad6943d035a7a7fa39731b091b7be1c733d9fe40cb6364a"
+
+[[files]]
+file = "emotes/SPE_Gymnastic2.png"
+hash = "81d1090ea63ec8f5308015076ff3174ba65c54ea494b72528bbc57130853f2bf"
+
+[[files]]
+file = "emotes/SPE_Gymnastic3.json"
+hash = "9b2491e7d498df58622922988e555ef21530ac48cbe8fd81299638ad4cc60268"
+
+[[files]]
+file = "emotes/SPE_Gymnastic3.png"
+hash = "739236b803bcf732e64203ba272c45a13194240f9fe7209b8a36035943872f5c"
+
+[[files]]
+file = "emotes/SPE_Hand on heart.json"
+hash = "9f429852d6efd8854a4f5881ef5ee3e7d3b9fb677b11664d93815619aaa1383c"
+
+[[files]]
+file = "emotes/SPE_Hand on heart.png"
+hash = "db2cedcde5c05658109cf71aa8200239b37681ba5d0e0bd7fe729f12bc2f1d71"
+
+[[files]]
+file = "emotes/SPE_Hand strike.json"
+hash = "af35d5b75b2e396c3edb39db2096c74814ca6ca4f60bdd647fb31bac1490cd84"
+
+[[files]]
+file = "emotes/SPE_Hand strike.png"
+hash = "3b07cb15defb0a41b20eb989c59b72cf30ae5c65352c741507a3beec7fe2b3cc"
+
+[[files]]
+file = "emotes/SPE_Hands behind.json"
+hash = "e1e0f2b1f96bfc1f1920e826e5999bdd55ad515190d67f75f206e4c1f22f4f8b"
+
+[[files]]
+file = "emotes/SPE_Hands behind.png"
+hash = "eafb0d141833480da76a3a7c589b59ef42e263ea18f82862fc5de2a45620220c"
+
+[[files]]
+file = "emotes/SPE_Hands on the belt.json"
+hash = "8d9a7c5b399456ac37899469a21946fe0d5e26209e3373cfca5035699fd9a6c2"
+
+[[files]]
+file = "emotes/SPE_Hands on the belt.png"
+hash = "72d1b87da64ec8a20598e2b67f4c444bd304a0a0397927fe458dcdad4db84581"
+
+[[files]]
+file = "emotes/SPE_Hands_Up.png"
+hash = "efb6933037d5080b6263ce422a4742120784d02ed47bd7363f936bb65ff31a10"
+
+[[files]]
+file = "emotes/SPE_Hands_up.json"
+hash = "f8d43fd546ee3bfcdc98a876977f0084f0e038c91d5cd7a4c3f3693da8955ff0"
+
+[[files]]
+file = "emotes/SPE_Handshake.json"
+hash = "a6da89b6634aa33fd5c9ccdb5f87002600afe4b486d358b3dd49f47fce8eaf88"
+
+[[files]]
+file = "emotes/SPE_Handshake.png"
+hash = "07eb49fbade79ee9d2762aad037b11d4c2b649a5a60bef2a49882c4c3de1a6ad"
+
+[[files]]
+file = "emotes/SPE_Hanging out under substances.json"
+hash = "1bd913703fa97ec95e08e937fa037d00b3271197cb8ef86977b7d6ef2d35aa8e"
+
+[[files]]
+file = "emotes/SPE_Hanging out under substances.png"
+hash = "40173e732a2c408aa498bbf1fd608055200df321ece7adc25ad5ed7e931a7bda"
+
+[[files]]
+file = "emotes/SPE_Hay harvesting.json"
+hash = "515148cb0e4e49960d9370ad5ae2fa6c34f3a8a98b9cdf850fc716bd9d3a9d97"
+
+[[files]]
+file = "emotes/SPE_Hay harvesting.png"
+hash = "b36474fcf6305e51daf7458532ab2b274b6ec4eb1b47c30e5db55a7e26144f10"
+
+[[files]]
+file = "emotes/SPE_Haymaking with a scythe.json"
+hash = "d00858f51b15325338c3e75c3463fa8954f7594518f675c763e4216d7f248b95"
+
+[[files]]
+file = "emotes/SPE_Haymaking with a scythe.png"
+hash = "4e32b342753ce2ca534bd20f19aee2d067b1248024c491a93394b01c36ef4d11"
+
+[[files]]
+file = "emotes/SPE_Head tilts.json"
+hash = "15301b8d4b1c073104999de649992a791d3771f6207a584678fe07e8c49abef7"
+
+[[files]]
+file = "emotes/SPE_Head tilts.png"
+hash = "dad21f6a9afeb58e72bcb007d2a4a4f63e790c139915af9e94be282daae08cb0"
+
+[[files]]
+file = "emotes/SPE_Headphones.json"
+hash = "13d89d22dace2852cf71f1cf5ce3b51265957aa8874462076f413f640c7bcbb4"
+
+[[files]]
+file = "emotes/SPE_Headphones.png"
+hash = "3756e2043d7efe90abe50025fb64a199a16c970392c6d11442fdccc5aece106b"
+
+[[files]]
+file = "emotes/SPE_Heavy blow of the stand.json"
+hash = "f8caceb55a36cac8ce27076e3a335383c89caee8ce4a07637089db3d3e3492f9"
+
+[[files]]
+file = "emotes/SPE_Heavy blow of the stand.png"
+hash = "b30aa4c10d77444fd25965e9c8cb7a9b2507e41491fccc96d703fc79e29f6967"
+
+[[files]]
+file = "emotes/SPE_Hello.json"
+hash = "392494ccc53b1b7802a747ea59ebd92822d4e4489f4f67a5fd52a66e5c28ba0d"
+
+[[files]]
+file = "emotes/SPE_Hello.png"
+hash = "beefb2ed94c23dcbfa5cf3b00f52ef693d0eec2d8d711d66d2a713d215beea91"
+
+[[files]]
+file = "emotes/SPE_Helltaker.json"
+hash = "76f12f5685a0490c6ade3225a5d6d7427256e4e0e2204f1989a7cba55b105623"
+
+[[files]]
+file = "emotes/SPE_Helltaker.png"
+hash = "ec4c04a9c4760d417b7fe01c79670f3c35ec566f82eb71bea6cf8f6da7b7a215"
+
+[[files]]
+file = "emotes/SPE_Hit the door with an axe.json"
+hash = "30dff3c1128484e7d6815afc1046c44ab26f1f48ef5c995d45018af3d7bcf732"
+
+[[files]]
+file = "emotes/SPE_Hit the door with an axe.png"
+hash = "dd6af84068de127deebfcf6c6e41c890e39c7d2673e89f2111f90e748f040054"
+
+[[files]]
+file = "emotes/SPE_Hit the ground with a sledgehammer.json"
+hash = "b6a1d07c9e5a124a64013fb4f6a534db4b4b5c714c7280b507ffe1b7a6f9e441"
+
+[[files]]
+file = "emotes/SPE_Hit the ground with a sledgehammer.png"
+hash = "4d2484efa964a5ee08ccedba7fd84aa064a1359bd9b9642f33d5c1dad1e2dbe0"
+
+[[files]]
+file = "emotes/SPE_Hit with a stick.json"
+hash = "1edfe628ce93d722755c37088eb6301ca07ff35433e5d7744e865e2fdb646e95"
+
+[[files]]
+file = "emotes/SPE_Hit with a stick.png"
+hash = "2345d43078305243f7b52de934b01e8ff4298ba6c5acc5b7933a694c7e2ac375"
+
+[[files]]
+file = "emotes/SPE_Hold the microphone.json"
+hash = "46c16a8fbf8c805e54ec5040a4e81e49c4399d783b7c10e2de4c318beccb2969"
+
+[[files]]
+file = "emotes/SPE_Hold the microphone.png"
+hash = "4a2c0347c137735822b36fbb4b3f29286088b93371fecbc23a103782f0641d09"
+
+[[files]]
+file = "emotes/SPE_Hold the microphone1.json"
+hash = "f2155fd490f52a72d13e1709ebacbd1d76f2b50748e6e555bc037ca14ba55637"
+
+[[files]]
+file = "emotes/SPE_Hold the microphone1.png"
+hash = "eea87bce2a7e474dc1c080ad4b18fbb09740c902bdd0c6404d40f538a6aef599"
+
+[[files]]
+file = "emotes/SPE_Hold.json"
+hash = "2cc8b31ff53995eeaeae49a6774a752ff3c3aa558fdfa3f48d2109a75a76884b"
+
+[[files]]
+file = "emotes/SPE_Hold.png"
+hash = "3c13856879c6fb4220ecab007bb555f3c3797de211cf151ff1f4861b26f80a7b"
+
+[[files]]
+file = "emotes/SPE_Holding hands.json"
+hash = "f78d0f4ab6b3bf3fbb3aae9c8dd895c9196c84545939b6a927ae1f4581d8eb30"
+
+[[files]]
+file = "emotes/SPE_Holding hands.png"
+hash = "3e0a8b0699582c837ab704c4a702857df29dbb43fae0fc2b3eb3ca361a5155c6"
+
+[[files]]
+file = "emotes/SPE_Holding hands1.json"
+hash = "6aca7461c746e19bddf9a9bb9eac0bdedcb730f5f254122a28e2a187851c78fc"
+
+[[files]]
+file = "emotes/SPE_Holding hands1.png"
+hash = "026e5e86645a49b2f60e65da35bfcb7ceb80691e765d0ec9851148fa5035463d"
+
+[[files]]
+file = "emotes/SPE_Hopalong.json"
+hash = "75e476beba8b0abaa6d0d8bf5990d14bd45f5c550ab1cb44ffc8b9ee9ae0e420"
+
+[[files]]
+file = "emotes/SPE_Hopalong.png"
+hash = "554356cecb2c5a17f786d02ce61ec83022f0b73c5c3ffda8d396346a0fc9795e"
+
+[[files]]
+file = "emotes/SPE_Hopeless gait.json"
+hash = "f693ef11773449a1ef246fde7259c7c935679e3dcbee750117398311c88e952b"
+
+[[files]]
+file = "emotes/SPE_Hopeless gait.png"
+hash = "2ac8ae088b68bf4831a028e4b0cff302453bb725c09592a0952853b7b41c4f40"
+
+[[files]]
+file = "emotes/SPE_Hopeless to sit.json"
+hash = "884b476557cf472d4f7a50a73094e3194c14bea377df9c9a39b6667f2676db97"
+
+[[files]]
+file = "emotes/SPE_Hopeless to sit.png"
+hash = "bc5d94fe87b910b9c93d21bf076c6cff995eb88c6900030f9a0c7b7f5f1b9c23"
+
+[[files]]
+file = "emotes/SPE_Hopelessness.json"
+hash = "f4c77dc87e01b679078339c353e487704c16d9d56ef8573b1dd55a4c3848574e"
+
+[[files]]
+file = "emotes/SPE_Hopelessness.png"
+hash = "5186f7dad270ed58fbf4898a4ac8e1faaade4ff40175a832e2870252df6116a5"
+
+[[files]]
+file = "emotes/SPE_Hugs.json"
+hash = "10eaaf2a19d3aa56cad44b0b6add94759757b269f6a6aa7b0b5b42fb766d8399"
+
+[[files]]
+file = "emotes/SPE_Hugs.png"
+hash = "12b6d12ded7fef32219f826bc0f0808b7b4369ce7c96e23527c9ad551fae7c36"
+
+[[files]]
+file = "emotes/SPE_Hype.json"
+hash = "125feb34c76f68aa057d16801179be114141f063ea2df967d7b26a214e784ce0"
+
+[[files]]
+file = "emotes/SPE_Hype.png"
+hash = "e52fd71cbcbfe1f18b3be2f2472c758eb9d670e0dac4e730ec8dd4489340af36"
+
+[[files]]
+file = "emotes/SPE_I lean against the wall to smoke.json"
+hash = "eb427abb87e141be967c4973c626297847af20496f04ee09b5042f3fec823ab7"
+
+[[files]]
+file = "emotes/SPE_I lean against the wall to smoke.png"
+hash = "56c2aad6a550c9235b687e10f1e22152a16114b27f5481a1cc3d09506dd54bfb"
+
+[[files]]
+file = "emotes/SPE_Imagine sitting down to work.json"
+hash = "dfe95939a55c320bd4a71eb09c67a7c01714b72e661cf954891dfb7a2624e3bd"
+
+[[files]]
+file = "emotes/SPE_Imagine sitting down to work.png"
+hash = "4562d2e0a0ec39d5c5ee1fc56246984d1a8642c508a7cf73546f65b8b5689cb0"
+
+[[files]]
+file = "emotes/SPE_Important gait.json"
+hash = "0c595b264209e766c698c01a55407a8987929fee7538b8cc382152213c04c095"
+
+[[files]]
+file = "emotes/SPE_Important gait.png"
+hash = "06f64d22ba1212beed63adfd8ea1264a0ad3aa736149d0b2992e5bbf9cf91501"
+
+[[files]]
+file = "emotes/SPE_Incomprehensible.json"
+hash = "d43bd4c58cf60f794a9d985fc5c64fab9f7e200ef0242f865a4a4272d8a4cb4f"
+
+[[files]]
+file = "emotes/SPE_Incomprehensible.png"
+hash = "4f2d16b5ed44e623164d1584033dfb026780a02bada8f9d6eab9eb9e595c792e"
+
+[[files]]
+file = "emotes/SPE_Inject adrenaline.json"
+hash = "1577c83fc9832bf9e27fe7acbf72e46e80bb3e332ed40a328f2b5e38e3fda2f3"
+
+[[files]]
+file = "emotes/SPE_Inject adrenaline.png"
+hash = "86372e2ab68e45df64a3f5e9bf48228b97c740b71ed57c05b25ebc86bc8d72ed"
+
+[[files]]
+file = "emotes/SPE_Iron Man Pose.json"
+hash = "8978ccb1ae53fde1b4552e2c13a9a5d9121584a198edc238ddaac5a6366d1c23"
+
+[[files]]
+file = "emotes/SPE_Iron Man Pose.png"
+hash = "82707981417e90dde263a916400935a506176d49d96abf6e40b07396cb01839b"
+
+[[files]]
+file = "emotes/SPE_It's time to shift.json"
+hash = "5ba7faa1075bdd12df788a712b1d7f71ddf8df1c6eafb649ecc1360f4a2d66f9"
+
+[[files]]
+file = "emotes/SPE_It's time to shift.png"
+hash = "d32c537790518909af2d5216b5a489e4a67983407b96f0ffa3764f6e50df1550"
+
+[[files]]
+file = "emotes/SPE_It's tragic to die.json"
+hash = "4d44311872977efb10e04fb5c019a3185369b1062b1b65ebf11fd8f5408c427d"
+
+[[files]]
+file = "emotes/SPE_It's tragic to die.png"
+hash = "cbba74249cedf4fdc0a159596b7f7737d251e582b45827b71d3f39a216305e3a"
+
+[[files]]
+file = "emotes/SPE_Jerk.json"
+hash = "bfe1fab3fb96166ca8620ff9edb5d9a2c6851070edccc90147856431821ce6fa"
+
+[[files]]
+file = "emotes/SPE_Jerk.png"
+hash = "732a4f00bbc6bbc5f971282652ac904b78f2492ad5e6e2c6b44043954408f613"
+
+[[files]]
+file = "emotes/SPE_Jinx Stand.json"
+hash = "cc4cf5e6be32ce172985c5e00cee741a4fdb35d3fb2bb4a039928c3732d57c52"
+
+[[files]]
+file = "emotes/SPE_Jinx Stand.png"
+hash = "63c41ae2f6678d6846352d25255d9579456739570070dfc977ea01297c591309"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose1.json"
+hash = "7f2cf3462351e5764d65180c0869aa064e2a48600ea4e777469689eafb8851a4"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose1.png"
+hash = "d70dcb59abd724023f2331fba21349b7dbb2557af465c75e787cde9f525bf254"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose2.json"
+hash = "6d9aa08bd4efdaafd9b7b17af9fb1decd0e28668545dcfd876446bbd2fe42c14"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose2.png"
+hash = "338f24411f3225a6bb79909ca94f122735b87a2eaafa45e917764860d199a044"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose3.json"
+hash = "2a054bf87a52f416a44eb4f9c2bdf42f287f3ded0a677a8b0d6ddcd082fdb736"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose3.png"
+hash = "22a8136a4a587ecad594898dbefa6c462a159b094772bc8c85b7646885f6d140"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose4.json"
+hash = "7d3b54cf9503501261706cd5a8dc7e36e492b1592a89a7c7fa63d86af15053e9"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose4.png"
+hash = "ceb15631ea0821e7bb557785aa9c89af90e8a38e24fb7aefa4f005150ae433f6"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose5.json"
+hash = "e90d9773c8d31bad0015405b9d1eb81c5235d457c9e1e5a8deb0f466344fb1f3"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose5.png"
+hash = "1b76a5b3a17049c3c651abe8ec7450d664eea1743702aa0595ea2965fa377c86"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose6.json"
+hash = "030975dff9e1eac68361b0cb417dbfa55f1249d84993440f65336d8ebbecc772"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose6.png"
+hash = "3d8bd9c77f0dbf9272b55f11d8ae62544af1a606c7e99d3fdfefa489c202b319"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose7.json"
+hash = "d95daa14ffc6c2441c89c7feb4674ab273c24f2bfd11cbeca18bcf53fa4965bc"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose7.png"
+hash = "fbd34095295b22f2c0101827576313cbde65824a237b24f32b715e4e334e3141"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose8.json"
+hash = "f14e5ac9fa5d8c9b722d53c738d3a13095fd0f9627747049947975f67966b7f3"
+
+[[files]]
+file = "emotes/SPE_Jojo-pose8.png"
+hash = "ef4a15ff93f5b59352e4dbc422e46bc7870a093accee6a62a1248808e43af242"
+
+[[files]]
+file = "emotes/SPE_Joy.json"
+hash = "d456092b20efac1a374f86051fbd51723082ee469fd3e9fb3956549b8b72cf37"
+
+[[files]]
+file = "emotes/SPE_Joy.png"
+hash = "4408e3b49ca39c17696a0256eedd9d44d37ab2e2aeca5bf6966db9ecc193e4a3"
+
+[[files]]
+file = "emotes/SPE_Jump on the spot.json"
+hash = "e3d65ebb725c8978f4b32afdb1911ad8c2cd60d89057db5411881a88a12ba1b2"
+
+[[files]]
+file = "emotes/SPE_Jump on the spot.png"
+hash = "21f89d2af3cf8dd50181bded2dd7b398feb0a54df957b8749cbe6080a2c31275"
+
+[[files]]
+file = "emotes/SPE_Jump over a block.json"
+hash = "c572873867da01f2d7a1e4360b71de14e700b5214340c1f8d8f6b039471c46ae"
+
+[[files]]
+file = "emotes/SPE_Jump over a block.png"
+hash = "ed123edc3ab60cc7e66a88a5234715034a91885f6400df3bf1bbf77ec799b51d"
+
+[[files]]
+file = "emotes/SPE_Jump shot.json"
+hash = "4355c067017fb66814e31024f9618842dcbf5828dbf9ed407a5e9ed40b0d06e6"
+
+[[files]]
+file = "emotes/SPE_Jump shot.png"
+hash = "6070414b4c9f50369b358d1eff912238cf8219cd07d13d78860a7136bca3778f"
+
+[[files]]
+file = "emotes/SPE_Jump sideways over a block1.json"
+hash = "6f017575b39f296ae3e735931918d21ef1ce47c4e5dd116651b5088e49c140ea"
+
+[[files]]
+file = "emotes/SPE_Jump sideways over a block1.png"
+hash = "4acf3567b4ea4714693422ee5125af943a1772f841b264caa825246eeb195bd7"
+
+[[files]]
+file = "emotes/SPE_Jump sideways over a block2.json"
+hash = "ee4529bfb373107ec1cdeb071d5d328025c016b13bf50c722be9564aa691a43f"
+
+[[files]]
+file = "emotes/SPE_Jump sideways over a block2.png"
+hash = "10357243ba341dbb6c6dd66467a3356a9e252c4cff501e4253d4a2a0aa7c9257"
+
+[[files]]
+file = "emotes/SPE_Jump to the floor.json"
+hash = "15ec2002c7669f965cac26e93dbe78099011b515e0093d4cf27d15281881a88b"
+
+[[files]]
+file = "emotes/SPE_Jump to the floor.png"
+hash = "29ce4fe72a40b8c8652b882d8c48f38b6246fd862de9c07986e4e4e0340ad703"
+
+[[files]]
+file = "emotes/SPE_Jump.json"
+hash = "adfc46011bf08f3ce5d2b0abe7c964d288a2a1910df4ced518f80bdc3fc80eeb"
+
+[[files]]
+file = "emotes/SPE_Jump.png"
+hash = "b97a49038649e82f1c25642b33d510ddbf81f2a93672c105091266a7ee97b4c7"
+
+[[files]]
+file = "emotes/SPE_Jumping.json"
+hash = "19f66cc794d641dffc7f23bf9b884bc49e7eab51ab3d3bb9c689d7516c014b34"
+
+[[files]]
+file = "emotes/SPE_Jumping.png"
+hash = "8b9162e08e6d3ab22b6448f9c57632e22ce6409d1c4534902f4faee7a5d03cb1"
+
+[[files]]
+file = "emotes/SPE_KDA_Popstar.json"
+hash = "d2ea8eb5f076b02b577ae5912419cf5a50a27ea6453650be1e50deb3b01f3033"
+
+[[files]]
+file = "emotes/SPE_KDA_Popstar.png"
+hash = "4dc4f2ad88cce2cf613f0b6ea04925fe73d38edc38705ffe8311b97523114b85"
+
+[[files]]
+file = "emotes/SPE_Kakashi Pose.json"
+hash = "8dfb67e79e378f0da734a32849814d18a91e5c02c4d649a9ecadae39449dc6a3"
+
+[[files]]
+file = "emotes/SPE_Kakashi Pose.png"
+hash = "c9cc1ffb324fb9a2f79b7be44e71ab54f1369d92918f81863e4d4f9d4b787c30"
+
+[[files]]
+file = "emotes/SPE_Kaoru Pose.json"
+hash = "00c2c941cb7e5285fa407a381b6babbe02d87d9dc28c5419f888345c6bb71785"
+
+[[files]]
+file = "emotes/SPE_Kaoru Pose.png"
+hash = "fb13713a64bd14552177a2b9b399fd8a7f05de65046430af9f4b136666dd5904"
+
+[[files]]
+file = "emotes/SPE_Karate.json"
+hash = "75ba7e2760b276ba3dfbad583a7fe71f8c2f257c57ff4bc4bbd164af1c53e2ca"
+
+[[files]]
+file = "emotes/SPE_Karate.png"
+hash = "e70e5a51b931d4dc1e06b9ee2695b71d946efff5ed6aa94eb5ea5491f5e1b3d5"
+
+[[files]]
+file = "emotes/SPE_Kazotsky Kick.json"
+hash = "f5aa24e21aad5ac51af911c876c698bcb7bfb432b7f146ac581b2c81887052e4"
+
+[[files]]
+file = "emotes/SPE_Kazotsky Kick.png"
+hash = "243eb551d242141fd50b69128d137891f090eeb0ac4073110756a2ee42081eaf"
+
+[[files]]
+file = "emotes/SPE_Keep the safety on the weapon.json"
+hash = "163a57e710ac40045058ee31222f844be167ff7be0885b36ba8fb8ee9ef691d2"
+
+[[files]]
+file = "emotes/SPE_Keep the safety on the weapon.png"
+hash = "5d1b6a9460693007cb3645d94b34a995be5e90404edeca072ee50ccaff743ab2"
+
+[[files]]
+file = "emotes/SPE_Kick out.json"
+hash = "9e0b24f001ac003b77e422eb411e7a378c24ae811a34538f85f3e45f6b281237"
+
+[[files]]
+file = "emotes/SPE_Kick out.png"
+hash = "870dabdf942179ed33d0d957985c9a107a3dc023529edb87fd63900a2c86a2c9"
+
+[[files]]
+file = "emotes/SPE_Kick.json"
+hash = "dc69ddadbab1c3999a7b1e727faa72bc1d4db5032dd7a54bee3aa36e5cf19dff"
+
+[[files]]
+file = "emotes/SPE_Kick.png"
+hash = "1bd1b450807e5f5f9050fc3f6eec0d14996f4a72e35949a520f397e69606976f"
+
+[[files]]
+file = "emotes/SPE_Kickboxing.json"
+hash = "f522a778d09eff86a03bed52789e55226294cfb0dc38f7cead559bdd1a0e080f"
+
+[[files]]
+file = "emotes/SPE_Kickboxing.png"
+hash = "96a24a48b092133c4cd1e1de460bd2b3094fe060bb96f689275e0353dbd2f7d6"
+
+[[files]]
+file = "emotes/SPE_Kill yourself with a katana.json"
+hash = "6b28e8db99ea525ec39846c88f1ec0e39b125c176d487f6838fef1cdf47b538b"
+
+[[files]]
+file = "emotes/SPE_Kill yourself with a katana.png"
+hash = "24d3aa4c7fdd91d4d1c9c5f1cdcca15a1bd397fb410c43a9420629d97e4a8f99"
+
+[[files]]
+file = "emotes/SPE_Kira Yoshikage 's pose.json"
+hash = "3aa8bbf8363dcabedb6420c99a2adcc09bb608927cc8f99c2a6ab3c74a9535ed"
+
+[[files]]
+file = "emotes/SPE_Kira Yoshikage 's pose.png"
+hash = "da565b4b1aff19bf69ccd5372ad13b7affc5fdad175c88021553d16a342c1d3c"
+
+[[files]]
+file = "emotes/SPE_Kiss your feet.json"
+hash = "42d773deb72578ed223e3a119be1950b6aa2b375a68e7ae926752a8685e46909"
+
+[[files]]
+file = "emotes/SPE_Kiss your feet.png"
+hash = "bcf42d75cd020d74579d74968443ed3f0d6b09a35c20de86bd883084869b6e2e"
+
+[[files]]
+file = "emotes/SPE_Knee twists.json"
+hash = "70a11a77e3b3877d3da0b384916fd505c150d69f210495927a23604b1ea638f3"
+
+[[files]]
+file = "emotes/SPE_Knee twists.png"
+hash = "b06d36a231187bd5ac8fe72e001111098a13cd1e154e001be2ab59fd60ecb42e"
+
+[[files]]
+file = "emotes/SPE_Kneel down with your hands back.json"
+hash = "2fec3c353edf831d32860ec2cd846e8397cb73e65d552254f91bfcf2233a486f"
+
+[[files]]
+file = "emotes/SPE_Kneel down with your hands back.png"
+hash = "63b4f206d1b09e8fc5d6cee66b7349dad2211b27a3e65cfbcbb54b7e3a30a8ce"
+
+[[files]]
+file = "emotes/SPE_Kneel down.json"
+hash = "51c6e21a1eaae6e2c139e94d817f314d2edd3467e7a40538c15b8fefa68f7f62"
+
+[[files]]
+file = "emotes/SPE_Kneel down.png"
+hash = "6cc69322abe3dd6125e09b88ede7a938e2700d1b9bdab0a715165c991cf82b2d"
+
+[[files]]
+file = "emotes/SPE_Kochak.json"
+hash = "d66ae7b209c48823c4f46778effe21d936b4d0914867ed0e7bc557ab131a30f1"
+
+[[files]]
+file = "emotes/SPE_Kochak.png"
+hash = "0b895d17aa526e3d99f0457e2442ea7bc4bed27d9b726fda336082febc2ce8a6"
+
+[[files]]
+file = "emotes/SPE_Koi.json"
+hash = "dfc6d9c082f92dcb07046258ff0c83eb8de57b7971be591997c242e1877614e3"
+
+[[files]]
+file = "emotes/SPE_Koi.png"
+hash = "f53de8f46dffe8885b180c38bf71a80e643bcb0ef70f760ad15002ebf13f6bef"
+
+[[files]]
+file = "emotes/SPE_Kotinash.json"
+hash = "ff6a8038acf5c7eede02fdd2db4303e895dedddf54ed5d356a3204ba8ef22f14"
+
+[[files]]
+file = "emotes/SPE_Kotinash.png"
+hash = "81a6c1f97cbb9ec766397ba8d2dd4802a26f4d6b096032b12dddeca6da9c13e3"
+
+[[files]]
+file = "emotes/SPE_Laugh.json"
+hash = "0b759d9ead33cdfdeb3d316d8bd229fabeff530289e0d614bd1851ec0cb6d097"
+
+[[files]]
+file = "emotes/SPE_Laugh.png"
+hash = "950fe4238c9c216b146f65de73ddc30c0e4b1f41034e6d89b6a4338df96bad74"
+
+[[files]]
+file = "emotes/SPE_Lay.json"
+hash = "c1b361c445200406bcc26683d9663424165df48909aeca7bc6c4350ea79146bb"
+
+[[files]]
+file = "emotes/SPE_Lay.png"
+hash = "38dd89ab461c94bc84a08b5bd4f00170a58f6d2579641aac51887e59877d3d6e"
+
+[[files]]
+file = "emotes/SPE_Lean back on the block.json"
+hash = "b25b46a0a48f4ed101a800d57471a75cb1be3ceebd461f397a4c22a32000f9fc"
+
+[[files]]
+file = "emotes/SPE_Lean back on the block.png"
+hash = "9b1e53d58d349ea62c91854441951ee0736343b2ce33cbd19715593c13a0613c"
+
+[[files]]
+file = "emotes/SPE_Lean in front of the block.json"
+hash = "357c8810631be454410c0f4b5fc33089725a8ff61a3dcc8b3f3b42e49b05f7ca"
+
+[[files]]
+file = "emotes/SPE_Lean in front of the block.png"
+hash = "1a1b57875a90663f72d1ff595b18b650da583fddb608b3c7d06fae0569788406"
+
+[[files]]
+file = "emotes/SPE_Lean with a straight hand against the wall.json"
+hash = "a5539a638558611001d2dc3f69ab194fd5383c21c8712cc4bcff9a81a9b0b5cf"
+
+[[files]]
+file = "emotes/SPE_Lean with a straight hand against the wall.png"
+hash = "a95bfbfa9aa42cb4928dac052fd91c6009578961261a34fb40b628a40acf1eb1"
+
+[[files]]
+file = "emotes/SPE_Lean with a straight hand against the wall1.json"
+hash = "2c1f5e0de2407fa0d54840def765fdfe1b117e8e43a78422f7be1b5c6ebb56b9"
+
+[[files]]
+file = "emotes/SPE_Lean with a straight hand against the wall1.png"
+hash = "fffa33d2c4ab20133d7791d299a25f2f8cb5d41ec1d5cbd2cefe6ff7f3c587c3"
+
+[[files]]
+file = "emotes/SPE_Lean your elbow on the wall.json"
+hash = "d7589f04e3809aff924c45b75ab495002baa31b0eb5507329a17aa818be97e63"
+
+[[files]]
+file = "emotes/SPE_Lean your elbow on the wall.png"
+hash = "800baef24bd6ad555d66e1e4df417a5751fdaefafc5196b1013ee11e900ecf83"
+
+[[files]]
+file = "emotes/SPE_Lean your elbow on the wall1.json"
+hash = "e9f3586fea9f03fca39f9319f22b8f6de8ec5999a388c251419684e32a58b945"
+
+[[files]]
+file = "emotes/SPE_Lean your elbow on the wall1.png"
+hash = "8fc0ae611438fde90be2d7ce7c012881195d7c2ec64bb26982673443e456a1ee"
+
+[[files]]
+file = "emotes/SPE_Lean your hand on the block.json"
+hash = "9350162a3c1f62a756d881077e491fe1abd9554a8c10d6f5fcc6f79973763fe8"
+
+[[files]]
+file = "emotes/SPE_Lean your hand on the block.png"
+hash = "6dd61d939fbb21c2f5f155277179b92bac4ef203ca5f5a40df1c605465de2619"
+
+[[files]]
+file = "emotes/SPE_Lean your hand on the block1.json"
+hash = "9362e4636717992134deb83f6b467ca8e2710fee6c4bcc946f36b2168ba214fc"
+
+[[files]]
+file = "emotes/SPE_Lean your hand on the block1.png"
+hash = "fdb083b5550eb35b319de6940f8445a96cb7585d0d2d8760bfad3906da1d26b6"
+
+[[files]]
+file = "emotes/SPE_Leaning to the sides.json"
+hash = "cdd572c7d435fb4834ed8b9d6c43e98225365e4bc8de2adeb35fe3bc5ed42845"
+
+[[files]]
+file = "emotes/SPE_Leaning to the sides.png"
+hash = "91d08fb30a487ee48d4df16afed123216c18897709833ebc54857e2a89707248"
+
+[[files]]
+file = "emotes/SPE_Levitating ecco stand.json"
+hash = "14dfb8b2ec40e558f140705cd53a9e74f7396dddd706dc09a4b0fd7a26e26f80"
+
+[[files]]
+file = "emotes/SPE_Levitating ecco stand.png"
+hash = "466ffb5981ccdec53042d2a4a7e937d71895daf13aa3a238d629852f1ad0bbfb"
+
+[[files]]
+file = "emotes/SPE_Levitation of the mob.json"
+hash = "df59c86a9348c2fdc2bcf592c5334bd536c5ae38fa1e2bb1e01966bfc9265414"
+
+[[files]]
+file = "emotes/SPE_Levitation of the mob.png"
+hash = "349e0ec734173af5a9217a2a63517a52278e52c3bfe34bc8ac9dd381352c7f25"
+
+[[files]]
+file = "emotes/SPE_Lie on your stomach.json"
+hash = "4b2d9468269752c4566d1fe9274e9df472b5f7e8b02ea3b7ac4dfc197829c297"
+
+[[files]]
+file = "emotes/SPE_Lie on your stomach.png"
+hash = "957a6c70aebf9e0a952cae84364f8157e5accf4cdb6d8262025d2dc6fd8ba644"
+
+[[files]]
+file = "emotes/SPE_Lifting the legs lying down.json"
+hash = "6845dd280bfad533698050bea96b4c80061621afd52293e9a15f8803f2f9d34d"
+
+[[files]]
+file = "emotes/SPE_Lifting the legs lying down.png"
+hash = "60330f88758acf7fe1c6261eefbf9b0eeb589cf4341f4a2100581d91d61e94d3"
+
+[[files]]
+file = "emotes/SPE_Little babijon.json"
+hash = "bc79133848e992b2087b98ba2c877949d25e8872565e9750c885e4c7731b3e35"
+
+[[files]]
+file = "emotes/SPE_Little babijon.png"
+hash = "0474b38fcbd16ffde0b07c245fdeab8aefcd322417d0c2c353ebf9eb86d53160"
+
+[[files]]
+file = "emotes/SPE_Look into the distance.json"
+hash = "489e130e559bc6f7cd569ce811e2584fff7d5549d5bf669145680ca438dff8b0"
+
+[[files]]
+file = "emotes/SPE_Look into the distance.png"
+hash = "1cef08681e4eab85ae4776ca6ad173cd313b6ea44ef487b6d4484bd4419471cf"
+
+[[files]]
+file = "emotes/SPE_Look through a magnifying glass.png"
+hash = "53dc7b32b148fab77277b123c79bc18ad62d02a3fc91afcc43d83e111245bbf1"
+
+[[files]]
+file = "emotes/SPE_Lublin.json"
+hash = "28ae90cb8e723cdaee9a0a29d63ef6317b96bb7a60f44f628dd63dcc95458581"
+
+[[files]]
+file = "emotes/SPE_Lublin.png"
+hash = "6ccfc2e1e0c26f426b451150d2445d9b00f884a7afd1924a2f7bd7c5569dee71"
+
+[[files]]
+file = "emotes/SPE_Luck.json"
+hash = "72a3fdaa2f0a427ec9dea8fb1e470cb22f05dbb22aa0bdfba2df44c298afdd82"
+
+[[files]]
+file = "emotes/SPE_Luck.png"
+hash = "8dbf239d15d820f05f698ce590f22b89dd866f87cb3bd86c4a11dbc9547f2b28"
+
+[[files]]
+file = "emotes/SPE_Luffy Stand.json"
+hash = "9d4bee9c79fa8140e2b0b1ded22b6a083a440e747a3eafdfe882c1426c6cb97e"
+
+[[files]]
+file = "emotes/SPE_Luffy Stand.png"
+hash = "d2c4765b954aeab8f5e7673bbfa10e359bd585125cbbe5dee1201fe0ff6a5f06"
+
+[[files]]
+file = "emotes/SPE_Lumbar puncture.json"
+hash = "d233146a0322354d36253a6ca6b8ba9861afd1a511164aa954177a183dbf67ad"
+
+[[files]]
+file = "emotes/SPE_Lumbar puncture.png"
+hash = "f36519957acb45ddc5be44e34669bf28d3223a473c1736cf7b02ac857fbea8b4"
+
+[[files]]
+file = "emotes/SPE_Lying in a boat.json"
+hash = "c48f02085e29f27a93dce727ce0aab74696d90f6cf7c67926857f563d6752155"
+
+[[files]]
+file = "emotes/SPE_Lying in a boat.png"
+hash = "f37197a24a9f9c8d11ee855d5c12887089c078238cdf95940f60a5887d29a4b9"
+
+[[files]]
+file = "emotes/SPE_Lying in a trolley.json"
+hash = "224eec0a8913e0e5fc895b02289787ab1f7bbd428a774b5a1497c6253c409956"
+
+[[files]]
+file = "emotes/SPE_Lying in a trolley.png"
+hash = "812eac3b6ba020b27f8b9871a1aec6860f86cce435baebcfb50d03957303e17f"
+
+[[files]]
+file = "emotes/SPE_Lying on a Hellish Baldezh.json"
+hash = "1f8b91b6f79d867678b8712754555c6f3099c2275db1eee880da57883928eda8"
+
+[[files]]
+file = "emotes/SPE_Lying on a Hellish Baldezh.png"
+hash = "306e65d031a2e43c06577535fb9251a33290aaf0d98b34bcd872ceb7b6890de8"
+
+[[files]]
+file = "emotes/SPE_Lying on a hellish baldezh1.json"
+hash = "dfa38a7c40b44305299f69142f3548e8d15cafbdffa61cafe3ac1e4461265d08"
+
+[[files]]
+file = "emotes/SPE_Lying on a hellish baldezh1.png"
+hash = "3c0d62dcecbcb0c3448466f58f5874f1e5ea9415a7dbae4a98eea46a4d7b5a7a"
+
+[[files]]
+file = "emotes/SPE_Lying sideways1.json"
+hash = "684d831369efc4ce34559f28a81e642820db8de6afa89ec04585efe3c9bb91d3"
+
+[[files]]
+file = "emotes/SPE_Lying sideways1.png"
+hash = "e4fd5cbcbae7f47675e1ced56ed5bb58d658252b570a740d0f097cdc29e3da6a"
+
+[[files]]
+file = "emotes/SPE_Lying sideways2.json"
+hash = "7965d5e6766ef9ce42057d952b0a3be93f3785ac8d7a6ad0339a79c3c951a952"
+
+[[files]]
+file = "emotes/SPE_Lying sideways2.png"
+hash = "0b2a56927bd91c67ffc5c5fcf1c53ed39e0a5aa0c99cece476e8d645396e1eac"
+
+[[files]]
+file = "emotes/SPE_Lying with your hands behind your head.json"
+hash = "8058bd494b329527f7a98025de3b35eba9c6bac7aa8ec4d6da5b59447ca85b61"
+
+[[files]]
+file = "emotes/SPE_Lying with your hands behind your head.png"
+hash = "95d8b504461e6f79de946e82b848d9992bf4360a9c35d38b7a32dfc120f5433f"
+
+[[files]]
+file = "emotes/SPE_Malicious refusal.json"
+hash = "b70aafa8f133ef6d6579c9ddbb3fe960c75e6540101d6e61351fa553540ec4c7"
+
+[[files]]
+file = "emotes/SPE_Malicious refusal.png"
+hash = "4230f4475743ed88ed4523a0ece948eb81410626350258c2dd9b31b528567f9a"
+
+[[files]]
+file = "emotes/SPE_Maniac.json"
+hash = "b168e2a84b4e181b2e46d9e18aea857e3dcdd3a85ede1b9c6cd8128889c5e2c1"
+
+[[files]]
+file = "emotes/SPE_Maniac.png"
+hash = "77616b60101f0614b82d6b49df3b5ec00779c9cf2d7ed37933f7b5cae5031ade"
+
+[[files]]
+file = "emotes/SPE_Manipulation of chaos energy.json"
+hash = "796113e1b9d2eb6b7e7cdb44b4763f9c1dfd013012fed7439b39267facace4ed"
+
+[[files]]
+file = "emotes/SPE_Manipulation of chaos energy.png"
+hash = "b8f8b3d572dd18b6b32783ade8629800335e8fd5c24658cf140a51c76fc7ef23"
+
+[[files]]
+file = "emotes/SPE_Manner.json"
+hash = "46724b170e8872db40320849776f18c6080c4be88f48630bb17b11dde8c0b313"
+
+[[files]]
+file = "emotes/SPE_Manner.png"
+hash = "d532aec45b3728a56e0ed056a9c2c1ad9fff3cf3aee081a2084e9fc281f2c341"
+
+[[files]]
+file = "emotes/SPE_March.json"
+hash = "52c9d7dc5d9d0e723d696dbf0317c964f12b51d21176ef7b1c066eb19dd4c130"
+
+[[files]]
+file = "emotes/SPE_March.png"
+hash = "8fa917f5c3be95fc5f6926b463244edb36e98f4a8ad05418a620eed0acc504cf"
+
+[[files]]
+file = "emotes/SPE_Marie 's pose.json"
+hash = "fa6841465f8ef89228493528ba468092d80e5f3dc1111b6256f797a4d1ca6cb7"
+
+[[files]]
+file = "emotes/SPE_Marie 's pose.png"
+hash = "f2b24d7ab0dc318e54eb08238688ad2c47772825a7e7443c439bb21141c5b847"
+
+[[files]]
+file = "emotes/SPE_Masturbate.json"
+hash = "1bca548905a018797ee7b74d2f5dd573ebdf9e2b0f0cc05c87408addb903b04c"
+
+[[files]]
+file = "emotes/SPE_Masturbate.png"
+hash = "e264d4785ec00812e035602308aa405cbf67c437280f7f92288f240510190353"
+
+[[files]]
+file = "emotes/SPE_Mine ore with a pickaxe.json"
+hash = "6fb1c6143fb5aa52b66de68a67f0196dc100b84ec00274cd6d1ef0aa39809e2b"
+
+[[files]]
+file = "emotes/SPE_Mine ore with a pickaxe.png"
+hash = "ec5bda8c6c42adb24f65b441c06293b743e4eb121a8e66efc94f11471ab80134"
+
+[[files]]
+file = "emotes/SPE_Mjolnir Strike.json"
+hash = "de53d0a0f8ceb2b1bc4295ab96d882efa379b580ae3161b9584fe4151183f73b"
+
+[[files]]
+file = "emotes/SPE_Mjolnir Strike.png"
+hash = "dbe2411a60c814dd9f4cdf108167b031734e1348fc8ab1f5af0e93c233bce58c"
+
+[[files]]
+file = "emotes/SPE_Model Gait.json"
+hash = "45e6ae439288bb84a94a70b9ddf2a4f364d72e2c52563b1ca5aea0facdae7c5c"
+
+[[files]]
+file = "emotes/SPE_Model Gait.png"
+hash = "54d8e755a2ba86b33b0f0f078c24e8e4deccbdbb47bdb99ad46f289d78c90442"
+
+[[files]]
+file = "emotes/SPE_ModelPose.json"
+hash = "d7fb2758adc6b4734d89177b10a548fd279213b1b3d03958477f3eeaf5bf30ae"
+
+[[files]]
+file = "emotes/SPE_ModelPose.png"
+hash = "b79b8fd6a8a711d40666f502f6e1f18c11d51cfc376f736c4f6027aec659ba74"
+
+[[files]]
+file = "emotes/SPE_Modelpose1.json"
+hash = "9ae98ed65b361036df5daa2bc82e306c8b35ea3bd13ecdab17fe8de2830204d9"
+
+[[files]]
+file = "emotes/SPE_Modelpose1.png"
+hash = "d0fa64661117932fc716f37eb71df4512b585eaaa780635a50c3e1d5f75015bb"
+
+[[files]]
+file = "emotes/SPE_Modelpose3.json"
+hash = "f7f261fdc3ff9de478b2c795e6a050dd45cc5c30ea53281af1e81118cfc173a5"
+
+[[files]]
+file = "emotes/SPE_Modelpose3.png"
+hash = "1602edf5edc05462008502c20f3b33917d935d1d28656be68b69ab36bd1dd56f"
+
+[[files]]
+file = "emotes/SPE_Modelpose4.json"
+hash = "ec99bf645450c14c8ccc847198a0c4edde42fca598770e55d70fa83585b44b6d"
+
+[[files]]
+file = "emotes/SPE_Modelpose4.png"
+hash = "0b83d71e61a1b7efb95a8ea2736539741a6f12f99fed016693adfda1453f18fe"
+
+[[files]]
+file = "emotes/SPE_Modelpose5.json"
+hash = "8f5794a6a31e42a63c255a7e724d2129fd4e20f2c9f51b30be3bfd8c146586ff"
+
+[[files]]
+file = "emotes/SPE_Modelpose5.png"
+hash = "05b393ae8004ee80c594abfb0dd61b256eb373c589aaa1d2400c42bf2e384426"
+
+[[files]]
+file = "emotes/SPE_Modelpose6.json"
+hash = "9d0d52c0792e268d19f18cc137a72049ddcb324ee143f6630b877e2926bcabe4"
+
+[[files]]
+file = "emotes/SPE_Modelpose6.png"
+hash = "27c5393d700d57e95a36fc926fbf1b9b1747918d749dc9b279918798e3fdfd62"
+
+[[files]]
+file = "emotes/SPE_Modelpose7.json"
+hash = "64d20282f6245b5cb46ab947514b0df451a3266d1dfa250cb6211c9afad0713b"
+
+[[files]]
+file = "emotes/SPE_Modelpose7.png"
+hash = "97fe3e12b79ca7616c0ced3a4f1b0d33742d2ca9668c46bb1cc4e45d9b6ecc04"
+
+[[files]]
+file = "emotes/SPE_Modelpose8.json"
+hash = "add000dd21592466eefe507b9d9e81a04b8dae13965d2b46765cd41440e6751f"
+
+[[files]]
+file = "emotes/SPE_Modelpose8.png"
+hash = "87ced27b4a16cc5691fa36f41e48bbf8498714cbe23aa1cecb13f7dc1dea35a1"
+
+[[files]]
+file = "emotes/SPE_Moonwalk.json"
+hash = "d1fe04348779a98dcc627b2632706ab847047db49d81358887daf3bad72651e9"
+
+[[files]]
+file = "emotes/SPE_Moonwalk.png"
+hash = "3d3e4a7ac43b0ebd43945df518b56803ad89baaf6a21d004f7d76987998f5eb1"
+
+[[files]]
+file = "emotes/SPE_Move sideways.json"
+hash = "6be461b86733e81b32faf866b5fa3c2b4724a020f7a447f94c0080e47f9eb796"
+
+[[files]]
+file = "emotes/SPE_Move sideways.png"
+hash = "2d09d6e4028da314bc38dd4a5c447666f83ea4140c737758f71e13ea2318eafd"
+
+[[files]]
+file = "emotes/SPE_Move your ass.json"
+hash = "6b904a4e230b838eb65e45acae301e1f42360450ae1be886234efc0dc5d60706"
+
+[[files]]
+file = "emotes/SPE_Move your ass.png"
+hash = "10b54a54598935819e1c89b603a573e5eedf01dc8f71adbf4a345e2c7f472ddd"
+
+[[files]]
+file = "emotes/SPE_Naruto Pose.json"
+hash = "7bc2414dc212046ca46758a4a944a4c55786a8ea948321fa3f94af98b465f3e8"
+
+[[files]]
+file = "emotes/SPE_Naruto Pose.png"
+hash = "029236830f7d10ae1248e51a58803dac344fc93bbe1fb9c660924d45a1640b81"
+
+[[files]]
+file = "emotes/SPE_NarutoRun.json"
+hash = "f91a3fab1695211bcd841d49613bd0db74588fee8abf7057e9778791b235e3a0"
+
+[[files]]
+file = "emotes/SPE_NarutoRun.png"
+hash = "f342f4fd43666b9222b5bd6a510e945da85beaea32ab9ac61cccdf26228a8a7a"
+
+[[files]]
+file = "emotes/SPE_Nice to sit.json"
+hash = "4d85b8329489342b990c6afe067d8031c4a5dcb003daadf12bed2c4a88a3c241"
+
+[[files]]
+file = "emotes/SPE_Nice to sit.png"
+hash = "3c56b77b3443dead1753003537aecffec2f88941ee4a1be2cc9cc9ab540e8006"
+
+[[files]]
+file = "emotes/SPE_No.json"
+hash = "ded5c688e2750342ad88301e425bcd3b2c40ebd8e28664cf10f3f5cfcc79860a"
+
+[[files]]
+file = "emotes/SPE_No.png"
+hash = "78b9f495cb30e3c3e9893091378d6139b3ab2a7322b3b06173bbcfcdfdca6c02"
+
+[[files]]
+file = "emotes/SPE_Obi-Van Stand.json"
+hash = "68bdb2f5c1583987c260fdaedb9d8df0c0aa71470ef13f9013e0e72d92ec5971"
+
+[[files]]
+file = "emotes/SPE_Obi-Van Stand.png"
+hash = "7639e9a3070a519925faad3656f812bcbb07f450b02cd21c300b3a53fb5612ee"
+
+[[files]]
+file = "emotes/SPE_Oddloop.json"
+hash = "ffe3fdc1a5b85986e10183c286ea45f644c800d67a5445e0b70eae032c0f3ad9"
+
+[[files]]
+file = "emotes/SPE_Oddloop.png"
+hash = "e46fffa57467ce4d6cacb3b458a4ac69f0482d083ce22f2365cac3624b3f5551"
+
+[[files]]
+file = "emotes/SPE_Outrage.json"
+hash = "16e0e4b4c8c25590415200630eab4e573ad3fe9d42203328a890a894867b7222"
+
+[[files]]
+file = "emotes/SPE_Outrage.png"
+hash = "0c6700feed29aa02adac131474bfa7956f8aa808312dc28897730980eb717dd8"
+
+[[files]]
+file = "emotes/SPE_Panama hat.json"
+hash = "a29788ca724b4bf3a7d08743fa3264789e98b9cae01af9b4e420be4defd43226"
+
+[[files]]
+file = "emotes/SPE_Panama hat.png"
+hash = "68aa8fc3eaf6ba4153d4856e379fad39bd7576b6eb944dc2cea29b72fa6f6077"
+
+[[files]]
+file = "emotes/SPE_Pee.json"
+hash = "9b653ce52c33e9e50db70209e394c638ae34e029d599ecedcd10503487bd13d9"
+
+[[files]]
+file = "emotes/SPE_Pee.png"
+hash = "5dc8e28b341f1b974902a951960d813a6f858059f09732cada9c825e79bc2cfa"
+
+[[files]]
+file = "emotes/SPE_Peeking out from behind the wall.json"
+hash = "9b6da9f000baa84f7fd5df714b1347ba44e3c5a84bd6aa0737d3b2ef928c08f4"
+
+[[files]]
+file = "emotes/SPE_Peeking out from behind the wall.png"
+hash = "ce8d697035ff5d0ce1f39c565cfa0bf1e2e726d72734cb9752236b48ee79a874"
+
+[[files]]
+file = "emotes/SPE_Peeking out from behind the wall1.json"
+hash = "999036f92896c1e671547871f50138725e0c795ba0a4a36db431f327831668cf"
+
+[[files]]
+file = "emotes/SPE_Peeking out from behind the wall1.png"
+hash = "19be7106a7ca470caa4b1744dee034ecaaf0a52fe4af41c666f0234f13bf743a"
+
+[[files]]
+file = "emotes/SPE_Penguin Club.json"
+hash = "6b56a41c4fdc74a8fd172cf3266b6196bf583826907d0c2cb353935904b60d48"
+
+[[files]]
+file = "emotes/SPE_Penguin Club.png"
+hash = "fc11758c3cb073e0f37bbac8fd826a2e3f654609e9777a79cd096f146437438a"
+
+[[files]]
+file = "emotes/SPE_Petting a dog.json"
+hash = "22d889714e3f78a1ebd6f58b52f82015f4bb2f3ca65324698490ebfcf0851c47"
+
+[[files]]
+file = "emotes/SPE_Petting a dog.png"
+hash = "c1cc4f50083bbe0c88c219f8bfea59e476e99ba45c4e4626baad516b13cd0edd"
+
+[[files]]
+file = "emotes/SPE_Phit hon.json"
+hash = "0c0bf21ab7883ea829a114e9b9e19ad7e236c9d99eb65529b52df4e8fc58c730"
+
+[[files]]
+file = "emotes/SPE_Phit hon.png"
+hash = "fdb1e6b359627889e8388c4a7e628ad2ec3fdb6033a3800195e96115897d4e19"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose.json"
+hash = "5eba7b9a43d8f7e80a116479fc421ca92b08a41cf211bc87e0ad80854849f545"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose.png"
+hash = "0078f3541ef2686f1a8e0e55bdea6fa55de7898110b0cdfb0683c447a9ca8d45"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose1.json"
+hash = "9a9bb842c62d290c938d46e769fdaa8cce4fe1e947b0f7178f062d0381866658"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose1.png"
+hash = "447c9aafd7a980831e7582f2681d0afe1decf01c173df1d05a4da65fe677e309"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose2.json"
+hash = "bbd0e26be2c98deb0f37bf6aa755a0953300dbe4709d51f6743528418a1479e6"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose2.png"
+hash = "0e8892a94c8cccfebe86441c4613416f37104d44a45def4fcf60851caead7f51"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose3.json"
+hash = "822406e02c2cbae22cc20efc6cee3658c711e2dca734c4bb70cb547c5d03dcb6"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose3.png"
+hash = "51308a07500ed2a453a1a4a9e7df8704e6e846caabd896ed648ff5df6892cf9d"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose4.json"
+hash = "31ad96585b42bc8cc0e232ff964996cc7030923d3e3201f19a80f4101e134258"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose4.png"
+hash = "77ed9a976011dfc80641e62e7aa73b2f2e0f369395ee1812d8461de2d3ae86d3"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose5.json"
+hash = "6cced91a84bc2af9e9951a634cf508ae2c31b66a2d8f23625663772a71e1e652"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose5.png"
+hash = "4fcf7f85d8c2265ee68540e52ef265ee0cdd63e81d9c7c71d246c30dbd0487f8"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose6.json"
+hash = "64c1377c738a5dcd71b0d59b271d45f4ac235ae2401a1e0dea85b41cc6eafaac"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose6.png"
+hash = "6cbf43e9d34912d535b10fdaba22ca5d0c0f1f599c31d0c6a8946bbac0daa617"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose7.json"
+hash = "670b9644c4008ecfd68fc785542bba31a5d59076ec576ae6f41833c69f58f3a9"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose7.png"
+hash = "154a826147f9ae6ec2636a6daa9564c4ecb489111a6a8efd911f55b255eb6950"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose8.json"
+hash = "b77ca6ec4eccc90c9a81361ac3753d3c8bcbd81e07549b78db42122aab842a0f"
+
+[[files]]
+file = "emotes/SPE_Photogenic pose8.png"
+hash = "8386ad7d87431a30b2d024a3754474d4d351f97f050fcd75445fb1ccda0d4d12"
+
+[[files]]
+file = "emotes/SPE_Pico Singing.json"
+hash = "4c2bd73896f32ef959ae2f09803383e47c25cb4bc6070d7179adc18911c3cc64"
+
+[[files]]
+file = "emotes/SPE_Pico Singing.png"
+hash = "d2cf85dfde6403786bd3f35db0e92eca456c9f70f88fede080a7b1ea39d5a988"
+
+[[files]]
+file = "emotes/SPE_Pinched back.json"
+hash = "9c151deec23f5fc5ed95833ca416a48b564d2937ccf05c74039216be70078410"
+
+[[files]]
+file = "emotes/SPE_Pinched back.png"
+hash = "12c8c41d531adb4d6044cac065df1e9c41d4658723ae2d38476004d70b6175fe"
+
+[[files]]
+file = "emotes/SPE_Pistol pirouette.json"
+hash = "c51dfbc7906b8b14fd375c58d13347e647c0e05be096a7472474ad79ed9f79f9"
+
+[[files]]
+file = "emotes/SPE_Pistol pirouette.png"
+hash = "6d3b7410500770c0012bca9f63033704275ec82f313488a16bde6219c71052ef"
+
+[[files]]
+file = "emotes/SPE_Plant a flower.json"
+hash = "ef1491ec3b5f8a7125ca1577756fb747723a54bcea6eab8a67cd367834bc7a7a"
+
+[[files]]
+file = "emotes/SPE_Plant a flower.png"
+hash = "b1ad8a89735326e1554afbf759bb5c6ed7abdc541a2e4aba399c3ae082813d42"
+
+[[files]]
+file = "emotes/SPE_Play the double bass.json"
+hash = "47157a2c3c123e8ace3ed8c068ca0c794d3e504d244daa8eaf5d980e5f4b988e"
+
+[[files]]
+file = "emotes/SPE_Play the double bass.png"
+hash = "36eb521467b03ddf2920448fd600d5dabe95f06e2d280b910e7e1d7d79da5996"
+
+[[files]]
+file = "emotes/SPE_Play the drum kit.json"
+hash = "573d875e2eab6a2fe9d377f7a340ce01625d0dfb105f77418b831924854030d5"
+
+[[files]]
+file = "emotes/SPE_Play the drum kit.png"
+hash = "295186e4b0540d36f0e31b5952d65c7456d7cc75b0f87f988773383949369f3a"
+
+[[files]]
+file = "emotes/SPE_Play the guitar slowly.json"
+hash = "43851e302e28cff2b47b80260c78791baec027d8ad1ba99063b4479c92e6e495"
+
+[[files]]
+file = "emotes/SPE_Play the guitar slowly.png"
+hash = "62fb41390d807a195bc9d61210bab53e6d11425635faba1c17a22dbc997f2f81"
+
+[[files]]
+file = "emotes/SPE_Play the guitar vigorously.json"
+hash = "dddaaf448cd4af7eefbb2d3af82e404b0122ae30e76b97bda11241b63f964d24"
+
+[[files]]
+file = "emotes/SPE_Play the guitar vigorously.png"
+hash = "923a30c69ce3636729f02d67f7b21321d83abfd1b228e35889bab7fb44072dc3"
+
+[[files]]
+file = "emotes/SPE_Play the synthesizer.json"
+hash = "4054b5da181df0d903bf77fc824d35bc076743fe04a966a2a571e6b0d3c9209f"
+
+[[files]]
+file = "emotes/SPE_Play the synthesizer.png"
+hash = "76b56550126804fab53b3718416883c5f18a22f138c924fae7c8a53dbe6f55d5"
+
+[[files]]
+file = "emotes/SPE_Play the violin.json"
+hash = "d49cb16c677b1498caee05db8893666cedd2b4906e4a2a2af1489a35cafc243d"
+
+[[files]]
+file = "emotes/SPE_Play the violin.png"
+hash = "ba786e70f52e46f63afccf92a17cc3ae94d6c8c89e9f0c328dd0fb1733452420"
+
+[[files]]
+file = "emotes/SPE_Point out.json"
+hash = "75158f544fe81c2b650ebb8884b533a8c748238f6d03280b8cfe30d34f596f73"
+
+[[files]]
+file = "emotes/SPE_Point out.png"
+hash = "a5ce514bde081a16326bcbb9b75d18ed761e197620789d5a12c067e934a48d55"
+
+[[files]]
+file = "emotes/SPE_Point with your left hand.json"
+hash = "f2cead490a94a7b3cb06279481d85faf586183654a5149a38750f8fd311b63bb"
+
+[[files]]
+file = "emotes/SPE_Point with your left hand.png"
+hash = "1f1c020a6661bbde82d7d9f3b8ac063998a78280aabd24d86df9ac6d8d422183"
+
+[[files]]
+file = "emotes/SPE_Poke.json"
+hash = "3db1dfa91b9134aee9935cef22a963936c52922e7449e464710cc41634566f34"
+
+[[files]]
+file = "emotes/SPE_Poke.png"
+hash = "ded64db704da658cf61bdba8679ea5e4f325a35d5e2b2eee919389e3006c3cb3"
+
+[[files]]
+file = "emotes/SPE_Polite hello.json"
+hash = "af14a32ecc81dddbb3905326f4d784219b457f466356758eeb2117762bcec3a1"
+
+[[files]]
+file = "emotes/SPE_Polite hello.png"
+hash = "96c8555d09eb0fbf3fb87fd8aa6dc9438d032720dd1988e49751d5ad331be902"
+
+[[files]]
+file = "emotes/SPE_Pomegranate.json"
+hash = "a0b8fe72953a6a87a43ee2423a0907308c58da9a578e0c55b8e1e99d30a1f253"
+
+[[files]]
+file = "emotes/SPE_Pomegranate.png"
+hash = "00c1abc720176fe73479d2402e7c68aa3df22886279f7bdcfc343ae0f8ad172f"
+
+[[files]]
+file = "emotes/SPE_Poop running.json"
+hash = "c31f28db5fa576f5b3561a947d70301358acce9ae764fb35aabb37233b7acdf7"
+
+[[files]]
+file = "emotes/SPE_Poop running.png"
+hash = "26a9228c1885f50c28bc2a46584bfc1c36f90dfdf4968a575803054a5e75e04b"
+
+[[files]]
+file = "emotes/SPE_Pose with a cane1.json"
+hash = "f9674e60162589823dd5eec39bae6197f98ebe402bdbd60fec51fbe711f7c1a4"
+
+[[files]]
+file = "emotes/SPE_Pose with a cane1.png"
+hash = "af1c4b6fcee8923e79620a439ce5207bf4b2a34d64ff24882ad1264d19df10db"
+
+[[files]]
+file = "emotes/SPE_Pose with a cane2.json"
+hash = "94649b22b759a5769cfa6b76a83dec19f8256acfdf877cbb9e17c8d59ec0b197"
+
+[[files]]
+file = "emotes/SPE_Pose with a cane2.png"
+hash = "61fb75b7ff91401391250631ca09ab606a8ac12e6e6ec7fe8137bb122b3c0e51"
+
+[[files]]
+file = "emotes/SPE_Pray.json"
+hash = "c27b0177c6f742e2fde757de7cce6a265eaa3126cf0cff97c8db921edc562370"
+
+[[files]]
+file = "emotes/SPE_Pray.png"
+hash = "dc014c1adf4fed76195767fb6be13d8d8f10f375f361d0b191f5dd1c0f454a05"
+
+[[files]]
+file = "emotes/SPE_Pull - ups.json"
+hash = "71a28b7386bdddc959875b8ac6bb84d1ab85c814f7f36136b0ac5bdc8353e320"
+
+[[files]]
+file = "emotes/SPE_Pull - ups.png"
+hash = "914561174f49910cd457078289cdb51438f76972ce625cba7c860974e201c69e"
+
+[[files]]
+file = "emotes/SPE_Pull out the weed.json"
+hash = "36dae7342b311a6b010856d2657c562a18f3f9144beb6bc741f9abb13852f21c"
+
+[[files]]
+file = "emotes/SPE_Pull out the weed.png"
+hash = "46e6ca7c0e6d1356fba7261e222ae8f501b17e169e924db9bc944f4ef2f57cb7"
+
+[[files]]
+file = "emotes/SPE_Push-ups.json"
+hash = "c64816e9f5d145928a6e518584e565e675463abb4c5e0b42ffafc9da706192f3"
+
+[[files]]
+file = "emotes/SPE_Push-ups.png"
+hash = "c6cc5f8b7c6b100afba717e5e54cd27f6996b07a60f40e78364efc83b278bfb7"
+
+[[files]]
+file = "emotes/SPE_Rasputin.json"
+hash = "0a83d84da2f3046c219f1cba455940062572dc9bf5ef74ebc56dcf3eb2b490b1"
+
+[[files]]
+file = "emotes/SPE_Rasputin.png"
+hash = "96088fa4a17c52d30f435d112e59410f2762fe7f920807084dc926cf3e06db55"
+
+[[files]]
+file = "emotes/SPE_Read a book sitting down.json"
+hash = "f21f881a81d62c07a482d2a3279e62f52a7fbac523593690fed82e3af2cbf7c7"
+
+[[files]]
+file = "emotes/SPE_Read a book sitting down.png"
+hash = "09bbcde03fc6ebefe333c0b7d4c5fc95b9bee23b18453a67af9db73ab01c0747"
+
+[[files]]
+file = "emotes/SPE_Reigen 's Arataka Pose.json"
+hash = "60dc0d28a2ef7d28b9f6c505d55c5af6c60de674cf173ef5d97789f0124473ef"
+
+[[files]]
+file = "emotes/SPE_Reigen 's Arataka Pose.png"
+hash = "03dc308b0424ccceb15c13c1f416e2e5ac319802fd3852253c3ee8a5fb0f2cd1"
+
+[[files]]
+file = "emotes/SPE_Reload your weapon.json"
+hash = "9d033d9c8aa5e9d202679e2093e63ca89ac8a6d1153cc502d00765686c91636e"
+
+[[files]]
+file = "emotes/SPE_Reload your weapon.png"
+hash = "322b2e2da72246b85153e71ccca68edc85700632abaf4bcf5f1cbc551aa34e8d"
+
+[[files]]
+file = "emotes/SPE_Repair under the plane.json"
+hash = "a3d9bcdba82378b0e50f90369a1833aab0149dc81020a2ef8fda7eb9379b3d5c"
+
+[[files]]
+file = "emotes/SPE_Repair under the plane.png"
+hash = "739e3de2716144b6632301472959f2bbba6f57b024d2a8f8d5526061088cdcfa"
+
+[[files]]
+file = "emotes/SPE_Rickroll.json"
+hash = "0f11c20278523f9c8c797a9c734b94455273fe158ce569ad46c30cf3b3cf416e"
+
+[[files]]
+file = "emotes/SPE_Rickroll.png"
+hash = "e5a47765fce31176baae934ecbe37c53a1585d4d2feaa8f585434d6ae605fb30"
+
+[[files]]
+file = "emotes/SPE_Ride Sanchez.json"
+hash = "7c9a81552fd6f6c58b8de1721283c7a3ecad598533f994daffe4d9236178a5b0"
+
+[[files]]
+file = "emotes/SPE_Ride Sanchez.png"
+hash = "c45d03439395efef0dce5d50afbae4777350c64a9e6979eb16670dc20774569d"
+
+[[files]]
+file = "emotes/SPE_Ride a Chopper.json"
+hash = "c779261a86e7d20fc3f35075f336fe1bca047f281e82f9fb110b0cff26faa030"
+
+[[files]]
+file = "emotes/SPE_Ride a Chopper.png"
+hash = "8defce70d4b64388355e731027e69c45e4aecccf2f82dd9bb5939e18550cf3bc"
+
+[[files]]
+file = "emotes/SPE_Rider.json"
+hash = "e0ab0d14e6c25f166155d6b12d7ffe62fa76d7b4b1b2cc8f5402534990edfb04"
+
+[[files]]
+file = "emotes/SPE_Rider.png"
+hash = "71e89164fb43703b3c12eefc440bf1608fd49bdf9fb6153321840593174cc5e9"
+
+[[files]]
+file = "emotes/SPE_Riding a horse with a sword.json"
+hash = "8df39da3edc09d12e5d6cc198bf7d71bc4278cf784ad51ae07c124e97e8f6c6b"
+
+[[files]]
+file = "emotes/SPE_Riding a horse with a sword.png"
+hash = "6817c2121e292b8a3840e1312c583ca5b9aa5755b159f1a87397c9a0a75702e8"
+
+[[files]]
+file = "emotes/SPE_Riding a pig.json"
+hash = "312daaad521cad625933b3bbfba1ce2c8eb465fd16819b975731d5724f45f212"
+
+[[files]]
+file = "emotes/SPE_Riding a pig.png"
+hash = "da919f216a41e62eeeb825b20276a5bad138cd9a42b66c65de1971be24f6cd5f"
+
+[[files]]
+file = "emotes/SPE_Riding standing on a horse.json"
+hash = "4d45b38b37705148a031113b8ee0e7b6f069432e49598a96e44fb98838b5f813"
+
+[[files]]
+file = "emotes/SPE_Riding standing on a horse.png"
+hash = "2b9119056e181b52c7869730e79f7cb207741889bf4ee418fe07992a59aa1202"
+
+[[files]]
+file = "emotes/SPE_Rock Climber.json"
+hash = "8e49c4f0ffa6a5f03786a86c255c249cf798c488d42b0334a66f406bf42a909c"
+
+[[files]]
+file = "emotes/SPE_Rock Climber.png"
+hash = "f61f409bc7cecb7a049bfd455643c8f68c14c3aff76549322c55e8104814648d"
+
+[[files]]
+file = "emotes/SPE_Rock Paper Scissors.json"
+hash = "874f13620e70a068948baab696086308e631ecad835caf532f3c20b925a7f4a3"
+
+[[files]]
+file = "emotes/SPE_Rock Paper Scissors.png"
+hash = "d63dd1fd507205953488514740ae1616c56bd6d2ac14cae6248e0a6aafcc4b3e"
+
+[[files]]
+file = "emotes/SPE_Run.json"
+hash = "c75973f473f67bcb4b0511449fdd78b6c9f8ef09ac8867ed76152921df43ee05"
+
+[[files]]
+file = "emotes/SPE_Run.png"
+hash = "66e0c4c6f8338ef694e82acdce710a65fc1152faa51f22aca720b50de481786c"
+
+[[files]]
+file = "emotes/SPE_Running Giyu Tomioki.json"
+hash = "46540da54d7e81a3868be024fd2fed96d6f51cd908e76903f7804a6eae61d848"
+
+[[files]]
+file = "emotes/SPE_Running Giyu Tomioki.png"
+hash = "4160b166255d82a55eabcd74781885b5e084767cac721b148d9073c00ec5f623"
+
+[[files]]
+file = "emotes/SPE_Running on the spot.json"
+hash = "79948540a925391d70f038740bb178da030a288de154a663a8587a159899a9ab"
+
+[[files]]
+file = "emotes/SPE_Running on the spot.png"
+hash = "f921d0ba9476a31b259cf2b5a840d428f55fef4e0bb0de292184e7a7649acbdf"
+
+[[files]]
+file = "emotes/SPE_Running on the wall.json"
+hash = "11bf47093e1b21fc96489512d293c8d8a56991a09fa9e74c5850402f0ef5f4d6"
+
+[[files]]
+file = "emotes/SPE_Running on the wall.png"
+hash = "375c1f6f7dd431792846bda3d803bd9319c3d7aca4c51c0c9b57933f792d2e96"
+
+[[files]]
+file = "emotes/SPE_Running on the wall1.json"
+hash = "33faa85cd6b8d3803545d75c8f338e70da488207cc0692f91fc308cfe7e32375"
+
+[[files]]
+file = "emotes/SPE_Running on the wall1.png"
+hash = "ea5cd0411925f1b7ef7714c5fc6cce2010a27eeabe3776fba00716eb81bd381d"
+
+[[files]]
+file = "emotes/SPE_Running with a briefcase.json"
+hash = "3a2fecd2a314a5895ca9b14f1db92bd2f25af4acf3af9231ec400e4b2c5802f3"
+
+[[files]]
+file = "emotes/SPE_Running with a briefcase.png"
+hash = "48f6960e5a381259e3a0916fd05b9a65d5ec67e76bec879bef39371857c50eb8"
+
+[[files]]
+file = "emotes/SPE_Running with gun.json"
+hash = "241b9d643619ab036ec965519bfdc9b2f44d8c2b7e0f9e7a6488d79d04516d71"
+
+[[files]]
+file = "emotes/SPE_Running with gun.png"
+hash = "533f0668ecfbddb0f4d604f13f96957130499de8609943062424b36303f8e769"
+
+[[files]]
+file = "emotes/SPE_Running with gun1.json"
+hash = "8666b00221c14573e7562d7abc44fe4b17621b1c6545ac634a5da7700769206b"
+
+[[files]]
+file = "emotes/SPE_Running with gun1.png"
+hash = "f62c6c1093099df44f85297381ca222d64d9609d556c3431303e5df99d9796fe"
+
+[[files]]
+file = "emotes/SPE_Running with swords.json"
+hash = "150f848c9e8c6de5309e67de4de612ccb455ad4b96a35750ac678a2f85ea0b12"
+
+[[files]]
+file = "emotes/SPE_Running with swords.png"
+hash = "9c72483eaf04189896cf1af3cb41ba569cd5c39e35d4d67fd73fbe5bcc180e70"
+
+[[files]]
+file = "emotes/SPE_Running.json"
+hash = "f4a9e6c35657289cf62ee8d366b6d5f669415e36cb28fb6f42b5d727fb01131f"
+
+[[files]]
+file = "emotes/SPE_Running.png"
+hash = "465e1fd20494627a4450e946ec3d9b47bc45efa57e78ad3f4466591d6974b444"
+
+[[files]]
+file = "emotes/SPE_Sailor Mars Pose.json"
+hash = "063e15aafabda577a3905e75a2b5e7bea0d69f6c87d3b3e2774a1a27699b1159"
+
+[[files]]
+file = "emotes/SPE_Sailor Mars Pose.png"
+hash = "e667e82cafb649d2c64d5922b7e41eb6b11a0266f5dd78f8c080ceeb3021f2ec"
+
+[[files]]
+file = "emotes/SPE_Sailor Mercury Pose.json"
+hash = "13aac4173bc36edf5d34b8688534a9dcf418c9f104d1e640ac31e15ce5e039b5"
+
+[[files]]
+file = "emotes/SPE_Sailor Mercury Pose.png"
+hash = "e9f13f95d3686c42a5d75787a0312216c934e3125982b1343e1ba4e68f19b52c"
+
+[[files]]
+file = "emotes/SPE_Sailor Moon Pose.json"
+hash = "de564d6529c8f7df807cab44221621cb622043d3343bfa216e92ffeae70204ab"
+
+[[files]]
+file = "emotes/SPE_Sailor Moon Pose.png"
+hash = "2a4199dc1e3e16d48221bc2067eb8fc33bbc0043107476ca113520b47ed6dfcb"
+
+[[files]]
+file = "emotes/SPE_Sakura Pose.json"
+hash = "740cec9220bcb0aeba9341622bf4a494a5956081fece948a1ced80b56d34ef5a"
+
+[[files]]
+file = "emotes/SPE_Sakura Pose.png"
+hash = "8681d72c1c5e44c17579b513f31614f7dba2c4a2dbbee6d6592d5a06b26bbb6d"
+
+[[files]]
+file = "emotes/SPE_Salute.json"
+hash = "5d7fc176c77c02f061c30dd09298329eb3a06b2f56a83d6728c4ed9b3187c90a"
+
+[[files]]
+file = "emotes/SPE_Salute.png"
+hash = "695181a8898c5d2f0d69a91a10a3f02ed0aa8348bb2f1df91c39cea6607d0422"
+
+[[files]]
+file = "emotes/SPE_Salute1.json"
+hash = "c8a0fb9bebab58c851bc3c96345153f91931159cf70b72e8a5712657017734ab"
+
+[[files]]
+file = "emotes/SPE_Salute1.png"
+hash = "c9feabd0d70ec2d7f5e7da8c62737e44c58ed61d22e52327b0a87a100c49a181"
+
+[[files]]
+file = "emotes/SPE_Sasuke 's pose.json"
+hash = "c640b7fc816a62d6ed1ce111a6c5ecd960e70be8763809d47310574e664a4f05"
+
+[[files]]
+file = "emotes/SPE_Sasuke 's pose.png"
+hash = "dbbdb828df9384284b23b5489559a4a6d1b5ffa5aa630eb2a6954934db5a6c44"
+
+[[files]]
+file = "emotes/SPE_Say so.json"
+hash = "50cdb8221f5eadadb7be5b0dd28d77a4ad29c0136d3496e5a0d30947a4f0737e"
+
+[[files]]
+file = "emotes/SPE_Say so.png"
+hash = "f1eec5024e4c9bfddbe8756ef27ff3d411cddce21a9f76c4766129f13a5e9d61"
+
+[[files]]
+file = "emotes/SPE_Scenario.json"
+hash = "245e0dee377caa635f3aefc6305ba5fc9894612b317fe1e9d2db2e492d45fab2"
+
+[[files]]
+file = "emotes/SPE_Scenario.png"
+hash = "c4f470da681770b128c5cf156ac896e0f72c7aab65b145b3a6ee1af4d05901d0"
+
+[[files]]
+file = "emotes/SPE_Search for information in the tablet.json"
+hash = "a9ef75c69bc4e7fe3009e7b09742ba6f24c818c87ff86e940113466ab22f6389"
+
+[[files]]
+file = "emotes/SPE_Search for information in the tablet.png"
+hash = "faf0c9e8fc4401f758931773fbc474e8bd2b39391dee707a3ac75c109897bb4f"
+
+[[files]]
+file = "emotes/SPE_Search.json"
+hash = "9b00527569c6c30d5d583d6181926eff64878f9eafa5dac6c7663a032f1d5ee3"
+
+[[files]]
+file = "emotes/SPE_Search.png"
+hash = "dffa571632b323f06bb3bf515a5beb3d331852b4462b0d3d90b5eb428a902043"
+
+[[files]]
+file = "emotes/SPE_Selfie.json"
+hash = "8fcc052264e9fd3cca8481b5cb9fe1b3c5a76dcf6c42150d9afb78b18d432f81"
+
+[[files]]
+file = "emotes/SPE_Selfie.png"
+hash = "a0a8f5447627242ef99d6495dc3846c00643986fa8112286037e1da3f689d5bf"
+
+[[files]]
+file = "emotes/SPE_Send.json"
+hash = "96f9e1368e969f459eab2f973f1ac550148b0382bde2f5a910633c5d4797ba4a"
+
+[[files]]
+file = "emotes/SPE_Send.png"
+hash = "94259a2b6830a4fd2253c55042e1f6d4316b5d5fcc43288a0d2f1bfa38d18fc9"
+
+[[files]]
+file = "emotes/SPE_SexAct.json"
+hash = "e084e3df09de72e0d51ea488f0d00d073474a32deeb120b229dd426053a518d3"
+
+[[files]]
+file = "emotes/SPE_SexAct.png"
+hash = "69d255bb1c29c917a0a301fb727a493846746364924aa764a4d4afcbf66c6cd4"
+
+[[files]]
+file = "emotes/SPE_Sexpass.json"
+hash = "bb5e969bf83a467c0808d536b0d6c186d4c7197f1eccba68028f2aea9b99fa4e"
+
+[[files]]
+file = "emotes/SPE_Sexpass.png"
+hash = "c4292890ae34f4794c4d374345aa26a32d6baf4497b7c2062922ecdf422ebcd9"
+
+[[files]]
+file = "emotes/SPE_Shadow Cloning Technique.json"
+hash = "b9bc202369712d923fb0b7f503747fc1fd4feca69736797777781d626c62f602"
+
+[[files]]
+file = "emotes/SPE_Shadow Cloning Technique.png"
+hash = "97ffb59b1e379bb6f55ab01a767c7c1aa9db4a06e732a2c853f5991aa57c1b14"
+
+[[files]]
+file = "emotes/SPE_Shake the dust.json"
+hash = "a8e4210b2875d8d86cb36f9732856fba31b09113c11da9b11f3d50d8a1c3faf4"
+
+[[files]]
+file = "emotes/SPE_Shake the dust.png"
+hash = "571bcb476319b09ccf01287b35dbe6b772a0aa185147e00d8d75d706f375c4bd"
+
+[[files]]
+file = "emotes/SPE_Shaolin.json"
+hash = "eca0b853e6aa2232e6d9c74814eb7a6d3b0b137684a0eb2f954d435d1ed050a8"
+
+[[files]]
+file = "emotes/SPE_Shaolin.png"
+hash = "9aad6cfba3ccf67218dd9609456ca2484644af527f19b5154a1fe60390907194"
+
+[[files]]
+file = "emotes/SPE_Sheep Ritual.json"
+hash = "acc972840a0cbaf2a9189c17e6074a80beee9c5f3614a03038ec3833a86f5b15"
+
+[[files]]
+file = "emotes/SPE_Sheep Ritual.png"
+hash = "29f9a7c0893299da9fae9d20a291ebee5c1d4ad5dc3f117019cc84aedd9c0e65"
+
+[[files]]
+file = "emotes/SPE_Shigeo Kageyama Pose.json"
+hash = "ca9505f74cf4dc2622220c3c7e0e4a9392fedb708ce553514025435233ceeada"
+
+[[files]]
+file = "emotes/SPE_Shigeo Kageyama Pose.png"
+hash = "84878d12584a5ca54fea0051de423ab291453f4db65fbafe24ac5597ac3cfb83"
+
+[[files]]
+file = "emotes/SPE_Shinji Pose.json"
+hash = "c91ce86602a7f7e7b2d89c0cb87b76a189339fb23f80f33a3d2c966c03d6ffc2"
+
+[[files]]
+file = "emotes/SPE_Shinji Pose.png"
+hash = "87b84028c80077ddb4b1d8abaa38213460dc716e3b1e09bead53239068621bfa"
+
+[[files]]
+file = "emotes/SPE_Shit.json"
+hash = "57112d46bfef88b645c315281a108fd36e76f86a465cb56bd60e2360ec1157d2"
+
+[[files]]
+file = "emotes/SPE_Shit.png"
+hash = "7e65ce43f27c2d5e374fb0bd49ae4fd387b7ce5f33f95615cfb9ef927782cc56"
+
+[[files]]
+file = "emotes/SPE_Shock.json"
+hash = "b595249f3becc1158022de67d6db83ff397d236c02c0122e0514c0a596c2c2f3"
+
+[[files]]
+file = "emotes/SPE_Shock.png"
+hash = "42e38ea0b0f64cac81fc74e60a03ceed702e2bf9f7d7d39491f4be5647af37f7"
+
+[[files]]
+file = "emotes/SPE_Shoot a bow.json"
+hash = "44d646b31be2187a448937988ee378a6710d4ce724cb31213726fd771804de69"
+
+[[files]]
+file = "emotes/SPE_Shoot a bow.png"
+hash = "29f60d20e4c6419df28c49572ef3703ff3da63d1fc398dda2af38620a04c0cf3"
+
+[[files]]
+file = "emotes/SPE_Shoot a bow1.json"
+hash = "16baa2bfd1a6a516d6e0d427e3c59fefc13e37eb1fdd16cb5bc574dbd56ac83c"
+
+[[files]]
+file = "emotes/SPE_Shoot a bow1.png"
+hash = "cf6fef83527c1af0639c9e8750161851e1d3f006d57c1dc096dcc152374dcc0a"
+
+[[files]]
+file = "emotes/SPE_Shoot a bow2.json"
+hash = "4d7a00164ffc5f3b87e8b5a1969baae105fa8e8fdd073ef48a7c90d91d520341"
+
+[[files]]
+file = "emotes/SPE_Shoot a bow2.png"
+hash = "8d66e3e76fdc7e3c87193ea0414670ef730a39bb6af07434f7ab601085ac6ceb"
+
+[[files]]
+file = "emotes/SPE_Shrug your shoulders.json"
+hash = "87a07ecc5e1f27111332f3e49295cc034969360c3f506b21fea4df300f791430"
+
+[[files]]
+file = "emotes/SPE_Shrug your shoulders.png"
+hash = "236956b4a63f475df9a3749c2bc610a854572d6e2cd1df0a50f217254717b532"
+
+[[files]]
+file = "emotes/SPE_Shrug your shoulders1.json"
+hash = "e371b1e2d3c7360d4d2516edaabc1ecbbc659903ce79119b32761f84c998f66d"
+
+[[files]]
+file = "emotes/SPE_Shrug your shoulders1.png"
+hash = "41b5b5298fc1f46dc1c897a8f9a06d9f8041b1a6fe827b724a129736097e721d"
+
+[[files]]
+file = "emotes/SPE_Side scissors1.json"
+hash = "d1486d9c90a1c972e6e017659b8d98cd728009852c6bb511eb591042787a391f"
+
+[[files]]
+file = "emotes/SPE_Side scissors1.png"
+hash = "cac4713c016758423b5c527e3eda075e488a7f8962cdb3ebaa7dcac0080b74ea"
+
+[[files]]
+file = "emotes/SPE_Side scissors2.json"
+hash = "0a1f633d5c2dea1eb34a753f4c77874848cdd3d3e8b0d885cb4d4e2859a6a000"
+
+[[files]]
+file = "emotes/SPE_Side scissors2.png"
+hash = "6a8d1a9c0227d3b3c19a6ba631cea5276fbf0aac559d368cc06538fd2429e19f"
+
+[[files]]
+file = "emotes/SPE_Sing into the microphone on the stand.json"
+hash = "4153c2d74c52c0789863e07636c46a1c52ff11cd11b5f66892e603ab4f48296d"
+
+[[files]]
+file = "emotes/SPE_Sing into the microphone on the stand.png"
+hash = "c3d18de2a12ce7cbf559876c5e06b89dbd478b6846f16f79a4a24b01e3c4340f"
+
+[[files]]
+file = "emotes/SPE_Sing into the microphone.json"
+hash = "5d160e5cc469424a99c5a8fd7ef54727fc342b599cdf20ff2676a4afe0cc7b30"
+
+[[files]]
+file = "emotes/SPE_Sing into the microphone.png"
+hash = "af5c599b9038c71fb5b8f724f61a1b74583427d39a5a2c889151a236c9235d13"
+
+[[files]]
+file = "emotes/SPE_Sit by the fire.json"
+hash = "231c6c47c149017a48938450bf821b1799319c030cb65680961f6ab09797c958"
+
+[[files]]
+file = "emotes/SPE_Sit by the fire.png"
+hash = "0d7ee7cfb5a4fb53426adcd336cca68a2b10f02dece788b8a167bc672f3bbaa6"
+
+[[files]]
+file = "emotes/SPE_Sit cross-legged.json"
+hash = "686031d71c078c686ecbaa3479c8663340557e5dcb9edea9dda5f7286cd970a9"
+
+[[files]]
+file = "emotes/SPE_Sit cross-legged.png"
+hash = "1d4ac241dcec87e54e00d4b10e7e2a2e9ce6538b330b1546fb0884f3b860f486"
+
+[[files]]
+file = "emotes/SPE_Sit down like a genius.json"
+hash = "c3a8b93b6582d7e262c7b95ac442c2ef2846690de9f75b2d199b0989c368d063"
+
+[[files]]
+file = "emotes/SPE_Sit down like a genius.png"
+hash = "04424c45e00be7b069acb044071a94b03cd75aec624ca049b1062ea9dd80a154"
+
+[[files]]
+file = "emotes/SPE_Sit elegantly.json"
+hash = "ee51bb5d470a386bdbb83042060d05813b4e0a2605c2b1cffdc4ce171d41cf05"
+
+[[files]]
+file = "emotes/SPE_Sit elegantly.png"
+hash = "f6d666aff0e2228531ad21a63498ed3a2fa67fb3fb7e8933a7110a713a3e9b3a"
+
+[[files]]
+file = "emotes/SPE_Sit on the raslabon.json"
+hash = "55f513f593008636afeea65ea161fdd40fa2256fb1ff43f1b03f7be3cc82c5d8"
+
+[[files]]
+file = "emotes/SPE_Sit on the raslabon.png"
+hash = "826d2522dcbb67bc048a44216bd6fcd92ed7dade002ce4e8bf2b698e315fdeb0"
+
+[[files]]
+file = "emotes/SPE_Sit thoughtfully.json"
+hash = "916a437bd765d4facefc11ac0903b5aad8ef021d3ad1505193b21fac55755afd"
+
+[[files]]
+file = "emotes/SPE_Sit thoughtfully.png"
+hash = "3602993dc1bc234a670f2189efc0cee82c52d2e544fa5805cf1f794dd0df3114"
+
+[[files]]
+file = "emotes/SPE_Sit thoughtfully1.json"
+hash = "ad4d7c3458aa8dc274e8df5122cd0c66151a4883c0a79695ac817190b432febb"
+
+[[files]]
+file = "emotes/SPE_Sit thoughtfully1.png"
+hash = "f2cbc8c717fe0f10ff1d7d735327e6a47dc77ef6fd32fae6029d3d13178e168e"
+
+[[files]]
+file = "emotes/SPE_Sit with swords.json"
+hash = "7251a0e8a81c97782d7d1d76cb042b93bdbc154abb39c6ae54cd1945e97be001"
+
+[[files]]
+file = "emotes/SPE_Sit with swords.png"
+hash = "d5c0bdf6a13727e9057b345ea6fec927181fa39a769422bb16de29dfb8187916"
+
+[[files]]
+file = "emotes/SPE_Sit with your hands back.json"
+hash = "177f755a39645483ac81cd335474b0045829f1e4b86cca1ed147a51854a18f51"
+
+[[files]]
+file = "emotes/SPE_Sit with your hands back.png"
+hash = "3b0b4c0856b423aed36fe8a164dc914545bea2f5c0112b4d205b1841c0d76da8"
+
+[[files]]
+file = "emotes/SPE_Sit with your hands on your knees.json"
+hash = "52e46a1b06200a003c1cf121e3c734ede95de6002b6cd6676d01c73873f53f4d"
+
+[[files]]
+file = "emotes/SPE_Sit with your hands on your knees.png"
+hash = "c67eed48da6d53635681bc87fb88580e33bde54eb4f79bd346465d7cd86e9a13"
+
+[[files]]
+file = "emotes/SPE_Sit.json"
+hash = "36b7971398600d91f593c404a4387c4d87c2f2a9c8893ecffd50e1b8161dbc68"
+
+[[files]]
+file = "emotes/SPE_Sit.png"
+hash = "5bafeccad2e974d530ffe8a56b8c170739b5dc295d8f218e2bd1945261520f55"
+
+[[files]]
+file = "emotes/SPE_Skibidi.json"
+hash = "ec9a9fb2b99064091a56543b5729ae70602f6686967972fb457344fa159c263c"
+
+[[files]]
+file = "emotes/SPE_Skibidi.png"
+hash = "9d309615ff48abe9d304e4c61dde2f95ee47fa228a34fedf61578b7565f82696"
+
+[[files]]
+file = "emotes/SPE_Slam.json"
+hash = "32aefce69621501c505dd049f841a4d18e25a5c3170c33a559deeee536b8b7fd"
+
+[[files]]
+file = "emotes/SPE_Slam.png"
+hash = "5b40ee1c309626417ec140c4f6e7ed342c3d42a17e444807b28917f65bf7193d"
+
+[[files]]
+file = "emotes/SPE_Sleep.json"
+hash = "5df1dd29026d586d3a91cac040ae3fe3457cac8fb8b0da7070e480fd508ac3d7"
+
+[[files]]
+file = "emotes/SPE_Sleep.png"
+hash = "d733bb21dad8c952a59f2c569f92cff262312b1258b1d5d4cdb7bf6a2b4ed1a6"
+
+[[files]]
+file = "emotes/SPE_Sleeping on a pig.json"
+hash = "d82a810065f65d7709b192613a89aa7fb7f6329fff1ec9ea59ec7bc87198aa1e"
+
+[[files]]
+file = "emotes/SPE_Sleeping on a pig.png"
+hash = "69857b515936c4766cf906800920088243dc598b2319b8ca1cfc32694c47c948"
+
+[[files]]
+file = "emotes/SPE_Slip up.json"
+hash = "60c789b4bf60f6081cae700cd7dd8500660de5a66112edb300a9082e10d57210"
+
+[[files]]
+file = "emotes/SPE_Slip up.png"
+hash = "11b9f0ebe12e9a9a7da17c7371d64f6b471b92db9c1e695aa7c8b17feb50817f"
+
+[[files]]
+file = "emotes/SPE_Slip.json"
+hash = "f60c350fd7cc0816c717977e8e3b106a73aed4d480a42fbbd9d1a4e5ba29fed4"
+
+[[files]]
+file = "emotes/SPE_Slip.png"
+hash = "90be66f6e8003d2cd54d13b2c8eea2869c23bc9f4cfbda3c5581e21a2a44713a"
+
+[[files]]
+file = "emotes/SPE_Sloth.json"
+hash = "7b52f3575f086e6d190a1f91b6eee04c266dd3017d12c90785b06f9d6e6240b5"
+
+[[files]]
+file = "emotes/SPE_Sloth.png"
+hash = "cc8ebcc8aaf3cb32e37ffeead5ba50635369d312c48589be93d67d34560bfc07"
+
+[[files]]
+file = "emotes/SPE_Slow hands.json"
+hash = "546a7b6c2c788e4be9f30b987c2d950851cf1afe82dcd833585bfafc2b9ef2db"
+
+[[files]]
+file = "emotes/SPE_Slow hands.png"
+hash = "30f53398cb90a09287542e8a41a5009307f3d90d615ee0feccb2b9f0bfb5f132"
+
+[[files]]
+file = "emotes/SPE_Smooth movements.json"
+hash = "ba532fdc5a8440d3e0eebf38a77627f210b0516b5d5927c95b7b7466427f2514"
+
+[[files]]
+file = "emotes/SPE_Smooth movements.png"
+hash = "0c3ba5785d37a55b44a09064e113bf9b015093f80ad9e47298037cbf3f33b34c"
+
+[[files]]
+file = "emotes/SPE_Sneak around.json"
+hash = "238c98452d07d8960d510a7e36a33a6bfa7e2ee0c90ca85412781e0a10c35d2e"
+
+[[files]]
+file = "emotes/SPE_Sneak around.png"
+hash = "61cb4e29e09ec07eeeea09d6aef1a6342c58e1a28dd203f3649ed068b5248f07"
+
+[[files]]
+file = "emotes/SPE_Sneeze.json"
+hash = "516afced4779449002dd8291bc5279d9c53f9032f9af2c81f1747b2d5cf376c3"
+
+[[files]]
+file = "emotes/SPE_Sneeze.png"
+hash = "530bc6e21d32a5e0fbc87e9ff62e411ba58a69b7e5451da4236e157e9574d731"
+
+[[files]]
+file = "emotes/SPE_Snow Angel.json"
+hash = "c683899eb77ad585c85009dfe150fa73ce2e3b94b8d7f66cd9ab704faee05c66"
+
+[[files]]
+file = "emotes/SPE_Snow Angel.png"
+hash = "8752cf13a5bfa1d7a36f7a70146f6860e958455b8530ab078fc45443aeae46ff"
+
+[[files]]
+file = "emotes/SPE_Somersault forward.json"
+hash = "ae4fb8770e3137ad76ce2d23ec346ca9832b4a3348740b9da4d139f6ebfb4f71"
+
+[[files]]
+file = "emotes/SPE_Somersault forward.png"
+hash = "e06bd1e8c04bb580b389550909f6333e092a7bdf66a8d1fa93fdc023a77a5b96"
+
+[[files]]
+file = "emotes/SPE_Somersault.json"
+hash = "87b4991583b93dde894a122c202f2542b82845572f40154af77b4526f956c63b"
+
+[[files]]
+file = "emotes/SPE_Somersault.png"
+hash = "e5dff21a257730c253a81c5d675d6809b91e7bee1f51ecab12d2d82dd9f26ef3"
+
+[[files]]
+file = "emotes/SPE_Spider-Man Pose.json"
+hash = "d583398a9e66ac5eeb8d07647abfb0d732e6d465c1c2b3af75f37d713574c550"
+
+[[files]]
+file = "emotes/SPE_Spider-Man Pose.png"
+hash = "b5282e40c34da6cc90a9d77dfd9048a8e3c697d62780d68ea2ef682541854d17"
+
+[[files]]
+file = "emotes/SPE_Spider-Man Pose1.json"
+hash = "56802fb6c62c5696df8cbed56a2f1aa77f4fc8a917cc530e58ee6c2a5b042699"
+
+[[files]]
+file = "emotes/SPE_Spider-Man Pose1.png"
+hash = "1b640bdbd0c0213da2d26a455bfebeace757335a785457669bfb4ca0bc2add4e"
+
+[[files]]
+file = "emotes/SPE_Stand on your hands.json"
+hash = "4aaf5c2a82513a499e2d1e6ca385448d3ff268422f95cbbbdc5b3719d736f246"
+
+[[files]]
+file = "emotes/SPE_Stand on your hands.png"
+hash = "5a5708d89bd03fcda1a3de69370ca7c507468c3faa28775655462d76d506d921"
+
+[[files]]
+file = "emotes/SPE_Stand under substances.json"
+hash = "bf893dc95384d3ccd4482a9830742c11727681c33ad4d6b6c38e16cb1ad562f8"
+
+[[files]]
+file = "emotes/SPE_Stand under substances.png"
+hash = "bf8f3d109fa45eaccb17f9d374fbcc5f2677db8514153c2ab5da1216feb6b17f"
+
+[[files]]
+file = "emotes/SPE_Stand with a katana.json"
+hash = "e2f54a1a44faeeae8fbc16eba64f34ca953ac4d4971f61d9fceae47b4a7c7778"
+
+[[files]]
+file = "emotes/SPE_Stand with a katana.png"
+hash = "018916377bcf2cbbba49f5cc9df89d0e589700160ccc26bebbcb6ffcb6d35c13"
+
+[[files]]
+file = "emotes/SPE_Stomach pain.json"
+hash = "025efc18f5a3345bdcd2356f141d155252a8d90e2f6420a0f33233ac2ec2fab1"
+
+[[files]]
+file = "emotes/SPE_Stomach pain.png"
+hash = "fa73986f23d4bf1d6f53968109f69a7e23c4ddc1044eede99d1106c8b0bf1645"
+
+[[files]]
+file = "emotes/SPE_Strange Dance.json"
+hash = "c35030e323a47f31fa68aa3cb1e2f4d86a8042c3afac2ba97f0cdec78a44feca"
+
+[[files]]
+file = "emotes/SPE_Strange Dance.png"
+hash = "67411a80d6217d2205eb182f5e6183182c48675fa3607e8f89c4a64d6a6ecd18"
+
+[[files]]
+file = "emotes/SPE_Strange to shoot.json"
+hash = "68504fce626e54cc752b1da83325ea8e02e9979e78eab12e430c486bd084c7d3"
+
+[[files]]
+file = "emotes/SPE_Strange to shoot.png"
+hash = "c77640f8c9a28fc0672204890a5a49483fc762e8a387b2cf79e84cfb7a0b99c8"
+
+[[files]]
+file = "emotes/SPE_Strike with a sword1.json"
+hash = "1aae54b3e8818ba1acbc20574941da864938c7b062f8f7c2806932222de34723"
+
+[[files]]
+file = "emotes/SPE_Strike with a sword1.png"
+hash = "456cf12072b55d74fd42c8ea4c70b3e5011d531d33621c439c31e386488fa439"
+
+[[files]]
+file = "emotes/SPE_Strike with a sword2.json"
+hash = "fbf7ec0587e9ed32fb3746cfd5161b90663b55fb440e8c5932028f76276bc450"
+
+[[files]]
+file = "emotes/SPE_Strike with a sword2.png"
+hash = "a8632bf2bbf5dc21ee2344a5dc3d8385c006e46657f953d68ef1d1f506297327"
+
+[[files]]
+file = "emotes/SPE_Strike with a sword3.json"
+hash = "854a55c4681e02f379873b3b9db01f01d05f6214aa9ce1ce0093a714ea2f2dc4"
+
+[[files]]
+file = "emotes/SPE_Strike with a sword3.png"
+hash = "02a591595c6555342b316e31736b6cd23f68e6511899d22b8742d7241f0f86f4"
+
+[[files]]
+file = "emotes/SPE_Striptease.json"
+hash = "59717fcf7a9b721c48182080ecc4b55dd07a0510e097c202e316124c88a63ac4"
+
+[[files]]
+file = "emotes/SPE_Striptease.png"
+hash = "bb13b726487ed308f6914d3ba1bd6ed0a639842bec72fd7d1125f45236cb20b5"
+
+[[files]]
+file = "emotes/SPE_Stytsaman.json"
+hash = "99f7c844a09b8f0519b5b46872630a3f3f0def777d9e222207a2fef730086a54"
+
+[[files]]
+file = "emotes/SPE_Stytsaman.png"
+hash = "a9fcd78e1359a184ee7bcfca4c3b7b2b8713868b512eddf6e40ff1a345212015"
+
+[[files]]
+file = "emotes/SPE_Successful pose.json"
+hash = "1e5a2ebddf831fd02131ae5307cdff1d5e56b36eaf4a35b25ba532e5d8011532"
+
+[[files]]
+file = "emotes/SPE_Successful pose.png"
+hash = "cba7129ab2315650bc6f192f9b3a589f2321f6cebb686e47cada1d9d8955ae02"
+
+[[files]]
+file = "emotes/SPE_Swallow.json"
+hash = "ea7c7118b5803eec3d5e923b35beb570134636ab69fd0b7327847bee5277bf7f"
+
+[[files]]
+file = "emotes/SPE_Swallow.png"
+hash = "44a0cce8a97c64e1fb54ed7cab50919da6eebae0957bf82276f972c62c788c3b"
+
+[[files]]
+file = "emotes/SPE_Swim.json"
+hash = "737c2b64ed9942442c662c2cb7518a71a5058ff9a9523a35b14badd45f1ee26a"
+
+[[files]]
+file = "emotes/SPE_Swim.png"
+hash = "287cb92520904f988a9ab3708587b38b142498880acaa2666934acdb71c05c89"
+
+[[files]]
+file = "emotes/SPE_Swing the sword.json"
+hash = "b737080b7b890087e2fea116c97bd82466da6e2cae2ca8a371c6ccd40d8b125b"
+
+[[files]]
+file = "emotes/SPE_Swing the sword.png"
+hash = "c621ed69e0f6de84128cdfd85ba5eeeffd2cf1dac16b6f9fbb4ff5d7201752b4"
+
+[[files]]
+file = "emotes/SPE_Swinging a katana.json"
+hash = "d177c0671a4d266f2df78da46cd6c6de8cfe5650b6b8110b0e87ed348dd62c19"
+
+[[files]]
+file = "emotes/SPE_Swinging a katana.png"
+hash = "c93a12ef3f1d13f65eab16b1aa057dd3afbd883f3f54442609d54bc735e287e8"
+
+[[files]]
+file = "emotes/SPE_T-pose.png"
+hash = "0305319d5798172bdaf966321c3ab13604ee141159c14f20c53197da1381adbf"
+
+[[files]]
+file = "emotes/SPE_Tackle on knees.json"
+hash = "9a2d95efa6cf7bf8d9765cbb5155f9ba8e85eb073a918384ab37f2425a71c577"
+
+[[files]]
+file = "emotes/SPE_Tackle on knees.png"
+hash = "31c63266f0086ab2ac081960d196509d65052dd0bebcc7ca8d6aeff4de937f6e"
+
+[[files]]
+file = "emotes/SPE_Tackle.json"
+hash = "b85b51af015841566dd9c2b1ad3dcf1bc44453d10d1cd285fbde432c2c4bd616"
+
+[[files]]
+file = "emotes/SPE_Tackle.png"
+hash = "4f0b78462aeeb38f0b7b76e70558f7cf55fa594a3e3ab83886a44e2e86ccf244"
+
+[[files]]
+file = "emotes/SPE_Tadam.json"
+hash = "bf9d6f21870b781f54966fd867da46699ab2827c0076c29ec02105ad79531719"
+
+[[files]]
+file = "emotes/SPE_Tadam.png"
+hash = "e9774449f94f88bd3a2defb284311bc91c91a4c41d5af7697d19e69001e424ca"
+
+[[files]]
+file = "emotes/SPE_Tadam1.json"
+hash = "e0d1919fc5c7c3ad4f3022a5f8a55987906450c2832afd8f4b2e4e4e35c2f2bf"
+
+[[files]]
+file = "emotes/SPE_Tadam1.png"
+hash = "beb688b41267d88e270fa0a0cbd12bbee4bba4266b211eb7fa85739478245f47"
+
+[[files]]
+file = "emotes/SPE_Take advantage of the Peep-Boy.json"
+hash = "ad1ada27e31763df88fbbd09f1d1052a429f892e0ce31f04409a1fc7c58238d5"
+
+[[files]]
+file = "emotes/SPE_Take advantage of the Peep-Boy.png"
+hash = "ffbacac2c7f806616b6ac9884a31de4d2cbd4c23c567c31fec51d51e16b46d20"
+
+[[files]]
+file = "emotes/SPE_Take on me.json"
+hash = "7550ef64e9561bf35fb1c0c0747bc0725392f705673b8dfe46fc04020ced4072"
+
+[[files]]
+file = "emotes/SPE_Take on me.png"
+hash = "d32574966ec9ae08ce9a5c13182b076e8afb16f715b66f341ea50c1dd8e953ee"
+
+[[files]]
+file = "emotes/SPE_Take pictures with a camera.json"
+hash = "6b67e6c8f23bc14300bc167f806aefb41493f3e008ca1c7c93833eac6ef35018"
+
+[[files]]
+file = "emotes/SPE_Take pictures with a camera.png"
+hash = "fb35f7e98ee37f72eb3f39c8f914eb7fa9fcd705e03083eb9d2e71e377822eaa"
+
+[[files]]
+file = "emotes/SPE_Take pictures with the camera.json"
+hash = "86dc8529e129de9ed112a28450b653a149935f0db20fe50cc195003ee7dc39ae"
+
+[[files]]
+file = "emotes/SPE_Take pictures with the camera.png"
+hash = "ac11136c3580c6a4b06080e98b9262c2b76f1b65bfa6537ecdc695ea98a3a83b"
+
+[[files]]
+file = "emotes/SPE_Talking at the bar.json"
+hash = "b6a9fc1ef4f35e155aa1a866b6bb205590c7c1a23eb8049b4b1fd264db5aad20"
+
+[[files]]
+file = "emotes/SPE_Talking at the bar.png"
+hash = "ff307013ad4379ea9698fd510bf098df4b1fe6d4aba34036c81fc9be631e6911"
+
+[[files]]
+file = "emotes/SPE_Talking on a phone.json"
+hash = "d82566c8cc5bb08bdacf9ca3e81eb2d61de97b909258e787eeaf6995dd0174fa"
+
+[[files]]
+file = "emotes/SPE_Talking on a phone.png"
+hash = "ee5dbec66737597e2089164cb224d1baf0c5e370c911cf2eada55dbe2f9af6bd"
+
+[[files]]
+file = "emotes/SPE_Talking.json"
+hash = "7a6620875393aff78e9f39b9524cf7e48dc08b16fd63baba65b86c8f2fcffded"
+
+[[files]]
+file = "emotes/SPE_Talking.png"
+hash = "55c894676ae952406d509ab6d0270bcf036af01278b5ca829616ddda84f1126b"
+
+[[files]]
+file = "emotes/SPE_Talking1.json"
+hash = "6a8e583ccbe3587648ab12212ad90b6867d5bd0bab0d4f3c2250e739e282ea3b"
+
+[[files]]
+file = "emotes/SPE_Talking1.png"
+hash = "27baff84e73f031138d21b5b687e8f1a80e1273168e39960888b80adef754688"
+
+[[files]]
+file = "emotes/SPE_Talking2.json"
+hash = "7f4dc97d96686174bfb4ac526ca5f2305075128e480f750fb50ab49f53809221"
+
+[[files]]
+file = "emotes/SPE_Talking2.png"
+hash = "39fcca050715b4e8fbba6f56361ef9ff30ee84076aa8c1809f61a312d885e81d"
+
+[[files]]
+file = "emotes/SPE_Tectonic Wave.json"
+hash = "c9e78e1f9c663838743aa6dc836dbe694e2b2fe4f03150240efeb696e594328d"
+
+[[files]]
+file = "emotes/SPE_Tectonic Wave.png"
+hash = "b6a83775543d3f4478012116cb8bfa9fc832d6ab43b78c7aa139e77e035caadd"
+
+[[files]]
+file = "emotes/SPE_Tedious to sit.json"
+hash = "c1daa084d0cc180c2795493fd57f88bc4a7ef6556878a53c7acf5395e1a770f0"
+
+[[files]]
+file = "emotes/SPE_Tedious to sit.png"
+hash = "e5c73a39368f9e3d11c603e6c0d882c44abe5cdbc9c0e0e17e0db00591f69429"
+
+[[files]]
+file = "emotes/SPE_Teleportation Tracer.json"
+hash = "18dc34d2988141120c92c18229b5b9184bd8a9b826c5d34e2c2485ac8dbc5290"
+
+[[files]]
+file = "emotes/SPE_Teleportation Tracer.png"
+hash = "02b4a8744a22b003c7f14836c2c57fb8faddcde7d2c9789bd8f0acc54229b7ca"
+
+[[files]]
+file = "emotes/SPE_The Deadly Leg.json"
+hash = "8dc52fb2dbd654362b0b93bcb8757c2904f1ec7925505ab111dd2e03c5d08d5f"
+
+[[files]]
+file = "emotes/SPE_The Deadly Leg.png"
+hash = "5ddb4bcd760e7480f18822e5cf6de1680485a8ea0b28f284d401c5178df4b010"
+
+[[files]]
+file = "emotes/SPE_The Gats Pose.json"
+hash = "90434bea46c24c392e51f2c768e75d975393f6f9eed0bf96d01d6213b72f901f"
+
+[[files]]
+file = "emotes/SPE_The Gats Pose.png"
+hash = "14934cdea0df8cad5e75b653c297db0a75898c815c708b23835d86ed77d357f0"
+
+[[files]]
+file = "emotes/SPE_The Harley Quinn Pose.json"
+hash = "7cf440907668e27fe5330f19620e67dff5336919d8992f2997ef438eb3812168"
+
+[[files]]
+file = "emotes/SPE_The Harley Quinn Pose.png"
+hash = "a0bf5ebb7abbe983a853d4563b7ec4d25132948498f7a31040508efd004434cd"
+
+[[files]]
+file = "emotes/SPE_The curse of Vecna.json"
+hash = "df26ba9a93a205e0f1950937faecb275e44c0b5d61d6692cc173da2d261997d3"
+
+[[files]]
+file = "emotes/SPE_The curse of Vecna.png"
+hash = "71ccbb346336a6e81848bd3e8567f7f5f3dcd70776f0aba8e7b28cc5b37fbe6b"
+
+[[files]]
+file = "emotes/SPE_The curse of Vecna1.json"
+hash = "cda07062ed19efa5b6e3dded182d5d640f5ba69652c5a2ad266caee90136c6ff"
+
+[[files]]
+file = "emotes/SPE_The curse of Vecna1.png"
+hash = "1e8e41237cb8bb1452a0a17017c0d6413e8aa2217c63ea25c50e2c480db22676"
+
+[[files]]
+file = "emotes/SPE_The worm.json"
+hash = "4dc9f6f1f34eefff4b6d570a0242806b63537fd009e01ec6d6f3e73535223e55"
+
+[[files]]
+file = "emotes/SPE_The worm.png"
+hash = "077edbf7ec4002d121cfdefd211772886959869b607ea5bb25e4f2b93401521e"
+
+[[files]]
+file = "emotes/SPE_Think.json"
+hash = "f6fb553ee14447ca3c937a7a4b627c52a83f35e95e3728959e90ff081d447317"
+
+[[files]]
+file = "emotes/SPE_Think.png"
+hash = "bb05cfecd09de21b6fef6af34f4d6260b17b61da90a4fa4a6a831b7c7ed38de7"
+
+[[files]]
+file = "emotes/SPE_Throw a grenade.json"
+hash = "33ae4645044b246e9edec8fe8bbd31509b2b10ec8e51ab21bdfd5d2977cadfd9"
+
+[[files]]
+file = "emotes/SPE_Throw a grenade.png"
+hash = "c1a677e5ff7238f5b19ccb2b04afe5f6e3c3dcf6ce1cec2ff78a5106436a2427"
+
+[[files]]
+file = "emotes/SPE_Throw a snowball.json"
+hash = "dd3c33a5364857d5a929faf9337e30138b7ce9156af42aeb250a90573a89d66d"
+
+[[files]]
+file = "emotes/SPE_Throw a snowball.png"
+hash = "6c0ff7112af59e2b6c32d2705847152f97cfe6b3576d6e5a003263ad4e53f8bc"
+
+[[files]]
+file = "emotes/SPE_To die with my arms crossed.json"
+hash = "aa09829ec492441f6bfdbe697928c171875080dbbd85e3abbde7c9253952145f"
+
+[[files]]
+file = "emotes/SPE_To die with my arms crossed.png"
+hash = "b1a781c754896964dab197eebd5bb628176b1336ad1aa38c578d15d65f1d0260"
+
+[[files]]
+file = "emotes/SPE_To smoke.json"
+hash = "21d4ac9ae756823db1e8ea990b07250f3dbb307ecdb5e5a0ca231c7b9b5f9dca"
+
+[[files]]
+file = "emotes/SPE_To smoke.png"
+hash = "873108a9a24c18b1fc0f1ae68317239792c43cefb588de9ef689ec419cd457e6"
+
+[[files]]
+file = "emotes/SPE_Torture crackdown.json"
+hash = "c486759bf9b78d66ac182de35c36de016094a1db715852757c099ee2ed4f03a2"
+
+[[files]]
+file = "emotes/SPE_Torture crackdown.png"
+hash = "37c62c3870bb1287ab599987195b70b76f2633a9fa9a4320d5219dfd4b6230f2"
+
+[[files]]
+file = "emotes/SPE_Tumbler.json"
+hash = "1f56c685cc3a292acc7c0720ee979897b957b01b314d7f84dac1791c554e6678"
+
+[[files]]
+file = "emotes/SPE_Tumbler.png"
+hash = "e02e020cd996a2591cf2e7647370033d32119dc0552c8e7dcb7d00e81adbc8cf"
+
+[[files]]
+file = "emotes/SPE_Turns to the sides.json"
+hash = "c5c220c23c42708c578629797b8b350bad33a9252242cc48e27aa3d1b34ad800"
+
+[[files]]
+file = "emotes/SPE_Turns to the sides.png"
+hash = "a6038ae348d2d289b9978680783c4fb409ee57a30eb75443b5be62ab001be904"
+
+[[files]]
+file = "emotes/SPE_Tverk.json"
+hash = "6bf31ff93eabb2692944e75b2f8c39257af18c97bac3e4fab3ba040e4308e9c6"
+
+[[files]]
+file = "emotes/SPE_Tverk.png"
+hash = "90e8c977e4687d96d6fc8725bbdf96f2d659715f38d2afa3076154d4f8feef37"
+
+[[files]]
+file = "emotes/SPE_Twine.json"
+hash = "69e9f3d1cb44e595380e7f9917f39cf72e77a63eb21a25ee90c98ca167a15a65"
+
+[[files]]
+file = "emotes/SPE_Twine.png"
+hash = "1d36cbd8bae966b19a8b844ad6879801946b13a9e22febc923d158c2288326fb"
+
+[[files]]
+file = "emotes/SPE_Twist the sword.json"
+hash = "de210c224c2abdd24909bcf1c9fc5ee40bbc8a7878c82253e1aff807ac8358d2"
+
+[[files]]
+file = "emotes/SPE_Twist the sword.png"
+hash = "d2c189c9959103a93a27dd4363285fee1f2339e3455b02072a56d045251ea6df"
+
+[[files]]
+file = "emotes/SPE_Twisting.json"
+hash = "e4f0f5c56c1d8773e7fd43ceac8c2359f10974e85b2fbfe5d96a9fcce1fc3a77"
+
+[[files]]
+file = "emotes/SPE_Twisting.png"
+hash = "cdf4d7dab8e1395107178765ef703c33d3a67cd6bec536f7b04bea492c356b03"
+
+[[files]]
+file = "emotes/SPE_Typing on the keyboard.json"
+hash = "7425f96d8a4ffdd27983723265406bd500e529e020137ffdd13c365b30e26599"
+
+[[files]]
+file = "emotes/SPE_Typing on the keyboard.png"
+hash = "ee2ce876d809655f7cae85d0632a8767990607e93795e5d286140ce4f06bf81a"
+
+[[files]]
+file = "emotes/SPE_Unsuccessfully feed the animal.json"
+hash = "55fc754ad92ee452311c3e0398cb20be2bdfd4a817d1af5a913afb8be5c27fd4"
+
+[[files]]
+file = "emotes/SPE_Unsuccessfully feed the animal.png"
+hash = "3d9d628deecd005545a066c693e5b39e9f32be9090b5033aaa8c8d17096fcec2"
+
+[[files]]
+file = "emotes/SPE_Vai Stand.json"
+hash = "4f7c539bd3066b599bf5d24d7b730842701733cc4450e7dbae1bfe7f45be7b76"
+
+[[files]]
+file = "emotes/SPE_Vai Stand.png"
+hash = "89c9e1fd1e753ea93f92448ab3d8720e3d1b6a49452a0709797beb64a32b4e17"
+
+[[files]]
+file = "emotes/SPE_View flowers.json"
+hash = "c983f11e46768a3a4598eba497fd1041e663e3f5300c7c6bf014b732ee9894a4"
+
+[[files]]
+file = "emotes/SPE_View flowers.png"
+hash = "75add0448b11779d898b05022ec080c4c125f6d3a18a8e145a2a7ca1fba18023"
+
+[[files]]
+file = "emotes/SPE_Vindictive pose.json"
+hash = "48bb906cf15cca3c3eb9e5737656686b42bcf2b79e17ed9313899383e8210472"
+
+[[files]]
+file = "emotes/SPE_Vindictive pose.png"
+hash = "65b54718eeaa9defa260f010337566ad1fa309136acb9e911c5a17eb97f7afe3"
+
+[[files]]
+file = "emotes/SPE_Wait at the wall.json"
+hash = "281c6e453a3093a1dca9e577d293536fc9f1f6391b4549f66703c0349713ee44"
+
+[[files]]
+file = "emotes/SPE_Wait at the wall.png"
+hash = "b440fb7c5fe902781fdd416a794ab472f85ad7b9679a4a574207207bf52fd8d1"
+
+[[files]]
+file = "emotes/SPE_Waiting for Pico.json"
+hash = "311345dcfabfb81ddc50f5716c11d8fe0e972534701718949b32100927f705aa"
+
+[[files]]
+file = "emotes/SPE_Waiting for Pico.png"
+hash = "be275c20b95a8df66c2a0a0f60f205284fb3efa6862bf3c8f286c515ca63d75d"
+
+[[files]]
+file = "emotes/SPE_Waiting for a Boyfriend.json"
+hash = "2087a6e6080a872b824e873225d936b25f8b69d811b1922e17ca64d79a9f9c5a"
+
+[[files]]
+file = "emotes/SPE_Waiting for a Boyfriend.png"
+hash = "cec481adb8b482373ebdb98236e2b4e58fbcd4cc353358fd446d4b62ab8e2efc"
+
+[[files]]
+file = "emotes/SPE_Waiting for the race.json"
+hash = "d044294bf0245a5685326fa6137caef7ee98f7b091ca761c9f5df503d648915a"
+
+[[files]]
+file = "emotes/SPE_Waiting for the race.png"
+hash = "9484ba39e9bdca8a36014e4f556df47929b211457acc0943814c7408e0229af0"
+
+[[files]]
+file = "emotes/SPE_Walking Head Jump.json"
+hash = "67e5c60629b80b9197092756d564ec9cf004cb3f795721d28e2f9d7c01d71f99"
+
+[[files]]
+file = "emotes/SPE_Walking Head Jump.png"
+hash = "a612eeaf84b5016f6f7493bd3c430e89e95282696746e50ed54f4d38a3cd1c53"
+
+[[files]]
+file = "emotes/SPE_Walking Head Somersault.json"
+hash = "6b24816729f0be3e6ef9046a0e60493d93e64d7a1987abe8632969b6506967ae"
+
+[[files]]
+file = "emotes/SPE_Walking Head Somersault.png"
+hash = "17533012593bfac95484048ed70942acc6c87b0c341d2272678a8b9bf0e0ed50"
+
+[[files]]
+file = "emotes/SPE_Walking Head Tackle.json"
+hash = "275bad0455c036d32dea5d1f208f89107d99302ffaef5cbc64cb93854a11f520"
+
+[[files]]
+file = "emotes/SPE_Walking Head Tackle.png"
+hash = "1927459f3d125ee9409c9f37d55923f1613d36365b2dce42775b4ce6da2fe0c0"
+
+[[files]]
+file = "emotes/SPE_Walking Head dance.json"
+hash = "11ae8ce25fe323d002600321b96d66b4cac26216aa506d2df69c038e1e64317a"
+
+[[files]]
+file = "emotes/SPE_Walking Head dance.png"
+hash = "266ed8d634448035ed1a3e6ace9695b8ef1655c5a171c9b1075e6c5fdcc5fece"
+
+[[files]]
+file = "emotes/SPE_Walking Head hit1.json"
+hash = "8d90a339e78451ab479411588fffdc2c9bdf268fee7dad01f334c37fdd4d07b6"
+
+[[files]]
+file = "emotes/SPE_Walking Head hit1.png"
+hash = "e2322a05ac8f04cd628fe7e85ebbaa8f840c6dad32e4fa9da3fbbb25dd0ca5e7"
+
+[[files]]
+file = "emotes/SPE_Walking Head hit2.json"
+hash = "9af07f973b4012da691d34acda98fee686c0f665ede369f093361fa986d3ce2c"
+
+[[files]]
+file = "emotes/SPE_Walking Head hit2.png"
+hash = "d4af2b714b4f78cf3c44758d75ff60fb13e0c1984ec475a39d082c4725e5b4f9"
+
+[[files]]
+file = "emotes/SPE_Walking Head run.json"
+hash = "61c3702e160fd41834de7f4e0fe18df463d9f74c65ba1bac5d246de2f6c05084"
+
+[[files]]
+file = "emotes/SPE_Walking Head run.png"
+hash = "f23ba8444be775f4266935224f72fefd0fd85cc96bc40487d4171f35e9cbb875"
+
+[[files]]
+file = "emotes/SPE_Walking head lay.json"
+hash = "8df71c8a703f8fc3e2bcedd3a21b1634409b21eff708cd4119e9a4ebb5866748"
+
+[[files]]
+file = "emotes/SPE_Walking head lay.png"
+hash = "c7f2396bda5d8c96d349b5ceabb245dc0401d00d57b78a451b1d0b624d8afc3e"
+
+[[files]]
+file = "emotes/SPE_Walking head sit.json"
+hash = "6f98602472047545d67e1073706f859e18a209882edb179ee4fcf3ee6d0c6053"
+
+[[files]]
+file = "emotes/SPE_Walking head sit.png"
+hash = "775e83e417555ba243ef5be1607c88428f33b3aa341b4b908680d859050fda83"
+
+[[files]]
+file = "emotes/SPE_Walking head waiting.json"
+hash = "7915b676e0d6b9aa17b0dd6eeca9cf6eb89337265dc0ef89aa9a9dcda8c36851"
+
+[[files]]
+file = "emotes/SPE_Walking head waiting.png"
+hash = "929442875370daaa7fe6a9d3a21cd2323b68b1e9012de7adf3a1c8eee4944ccd"
+
+[[files]]
+file = "emotes/SPE_Walking head.json"
+hash = "d6cbd7d98a6b2b0315587986bef3ac8ba0e334f35c55dc3373d0c9cc5bcc951a"
+
+[[files]]
+file = "emotes/SPE_Walking head.png"
+hash = "ea0664abe38517bf38b3383ae6abeffdec1dcf065ba6edc423bf127aa1f2c3b8"
+
+[[files]]
+file = "emotes/SPE_Walking on crutches.json"
+hash = "91597b7ada531ae5c57c2383d7af2b43b274ab1997bd4f7da35ecf7dea846762"
+
+[[files]]
+file = "emotes/SPE_Walking on crutches.png"
+hash = "3e6665ee68684de19efb827438af0f8dcedd2c682969b03cfff494958e88cd50"
+
+[[files]]
+file = "emotes/SPE_Walking with a cane.json"
+hash = "0b4c5fa74641bae1bb802c1d28392e3951501023fc86b12f95d79405b1a0d078"
+
+[[files]]
+file = "emotes/SPE_Walking with a cane.png"
+hash = "99cd56c9ca5bfa91b6ac386c9bf3179a78485e0055b8c18077ab2efdf6f890fd"
+
+[[files]]
+file = "emotes/SPE_Walking with a gun.json"
+hash = "410724305ec8f40addb3e182cfa6f251972586c878209d7db1e7294e54b58d7b"
+
+[[files]]
+file = "emotes/SPE_Walking with a gun.png"
+hash = "9d210c5cab7726eb79331e3630906dfde6ea638f110d67d34adf39f7ece77183"
+
+[[files]]
+file = "emotes/SPE_Walking with a gun1.json"
+hash = "3c288e637dec240f834d656d933f68a851bac90303981b3567dd13db1d811c95"
+
+[[files]]
+file = "emotes/SPE_Walking with a gun1.png"
+hash = "8d4a32a4e0e712259135c3261e7f0d043962525c2ed610100b4422d1de380493"
+
+[[files]]
+file = "emotes/SPE_Waltz1.json"
+hash = "be0840ede3bf26fdfb621804bf09d16454815a67840f67042ba0fa455c7a552b"
+
+[[files]]
+file = "emotes/SPE_Waltz1.png"
+hash = "959e498f949482dbd7f26641c50457c253be11cc1583e9b6635c9975adbc4d28"
+
+[[files]]
+file = "emotes/SPE_Waltz2.json"
+hash = "7eb2a5b809595e150ee27f06a1c47cc9a74832d0c92b627fb7ac11f20c444781"
+
+[[files]]
+file = "emotes/SPE_Waltz2.png"
+hash = "375ccc6a8ab72348310245dece5479cebcf8a228934f9bf02429cc04744ca156"
+
+[[files]]
+file = "emotes/SPE_Wash up.json"
+hash = "b9ad6c88c4df51e0415fae0ca26807404a01396c069c55d753498f2edf7a6f41"
+
+[[files]]
+file = "emotes/SPE_Wash up.png"
+hash = "472293f07595b666256b3f9431fdd5f3973f18887cde13e3f097d0dec12ee26e"
+
+[[files]]
+file = "emotes/SPE_Wash your hands.json"
+hash = "feb5a6eea2e15a0c3027065c60a67ba62086222a2ab75154255488d06c84592d"
+
+[[files]]
+file = "emotes/SPE_Wash your hands.png"
+hash = "3f1a40d0b4b1c01e62eb90ac616d5a21f47bfac570be7f569b2cb07c6b092fe4"
+
+[[files]]
+file = "emotes/SPE_Wave your hand.json"
+hash = "6d2c2528882e6163096a613c6b486dee01cac7ef515e1d65d4ef7de5bda08571"
+
+[[files]]
+file = "emotes/SPE_Wave your hand.png"
+hash = "e97b7545d4350efdaa44c26bf83bf50488987c996b11b559f27af40d5aece397"
+
+[[files]]
+file = "emotes/SPE_Withdrawal.json"
+hash = "7c447a0dfb1a0dcf0cdb6ddf5b1041b1c3d32cd557712bac82905441dc8d6dfc"
+
+[[files]]
+file = "emotes/SPE_Withdrawal.png"
+hash = "ce382c2e3e853c4993ed7d981c011b227513a5d5661225ade87495d05420eeee"
+
+[[files]]
+file = "emotes/SPE_Worried about sitting.json"
+hash = "feeab98db8b201511457a806344df0c508dbd1fb8f55a94f25639837da0cea56"
+
+[[files]]
+file = "emotes/SPE_Worried about sitting.png"
+hash = "cb03419892df5174e7400b1ba963e3ce7f6890b45a3d621832fdbc1fcbfc1260"
+
+[[files]]
+file = "emotes/SPE_Worship.json"
+hash = "9870b27196ace9dca20541e5b5d3955e210bf373f525adbaa2d5d4c116b866c6"
+
+[[files]]
+file = "emotes/SPE_Worship.png"
+hash = "45202f5ac6a765ee81e3a9a8be04289e2cb91d3169c74b26f9045a469615bc8d"
+
+[[files]]
+file = "emotes/SPE_Wounded Running.json"
+hash = "df4a55731f838318719486835b74d45488c56cf747078ddcb4f2612e4291d029"
+
+[[files]]
+file = "emotes/SPE_Wounded Running.png"
+hash = "4b41a0325ada6583f0e7f9a0ce00d32858f4711a621f906dd5c0d669c74cd0df"
+
+[[files]]
+file = "emotes/SPE_Wounded gait.json"
+hash = "0c37a3d7fdb7a6a802de1cda99447a312a799c4328d1226fe49ffd05190c9220"
+
+[[files]]
+file = "emotes/SPE_Wounded gait.png"
+hash = "f330207685c348c5e2938a4c9d8e098c3a5a0a8ab552c7d21ad8b71ddc930080"
+
+[[files]]
+file = "emotes/SPE_Writing a book.json"
+hash = "e6852a4e9266868f4f9dd8c27c96d6c6b2fda6e43660f11a8ec26c12d43db486"
+
+[[files]]
+file = "emotes/SPE_Writing a book.png"
+hash = "bfc45c8896760e835eae57608d8d7568063a41a3923f63d7782754d61dfa02ce"
+
+[[files]]
+file = "emotes/SPE_Yes.json"
+hash = "a874e6c883e05a8fb40ee8e8de8c656f09664435ab7f8743df3169424f5e75c6"
+
+[[files]]
+file = "emotes/SPE_Yes.png"
+hash = "721103f40168bf81b9ef951f896167e2c450874af018440ae4f05adf5c766b9e"
+
+[[files]]
+file = "emotes/SPE_Zoro Pose.json"
+hash = "d050522cf54fcab8c1d393d3a353b4a1e78061088d5647f5241440cfae573289"
+
+[[files]]
+file = "emotes/SPE_Zoro Pose.png"
+hash = "83970c278ce251a25811197fc6b589763921eb679d377ff146154b6f355c064b"
+
+[[files]]
+file = "emotes/SPE_Zweihander strike.json"
+hash = "1574e5254207db45e2c559c4529386121b0b0a0a19c4cc22593939a8938fccea"
+
+[[files]]
+file = "emotes/SPE_Zweihander strike.png"
+hash = "0201dbc71e8b61341d1987e305389a40f1baae0b6850b2def01f322efab76fce"
+
+[[files]]
+file = "emotes/SPE_aim lying down.json"
+hash = "a67cd7b9d3bbdc018fc625314ba8ae7676a996cd9a9d448cd2221e92f8a54675"
+
+[[files]]
+file = "emotes/SPE_aim lying down.png"
+hash = "7119dbbd207d4ac7b6b20c05dbf1f0c1b77ffbd0964af280a0214837b85138ab"
+
+[[files]]
+file = "emotes/SPE_crouch.json"
+hash = "34deae874469f54bd916f90f111f644edcc46f6a391ce9e88478bcfa8b87cada"
+
+[[files]]
+file = "emotes/SPE_crouch.png"
+hash = "0b74a7097c4c1a055417d3ee8727a39a2d1e66a3bf009f73d843dc61050298a3"
+
+[[files]]
+file = "emotes/SPE_look through a magnifying glass.json"
+hash = "58abbb18992575eee3e6f6ab1078aabffc1579514a7ac17a6f9bdf8fde2204de"
+
+[[files]]
+file = "emotes/SPE_look through the telescope.json"
+hash = "0ffa210743090816ab647a51d756eb5a3d9cb8a4b7a51f630d26f87030eab6ea"
+
+[[files]]
+file = "emotes/SPE_look through the telescope.png"
+hash = "7e1724a9ee10379aedeb482f6a9737968baea6749bfb57a2dce17082f6e38860"
+
+[[files]]
+file = "emotes/SPE_lying with your hands tied.json"
+hash = "07e2ae4bbd6c87d35cecfe8db759dd54fd5d40f9b7b9243662cd166da97c3cc2"
+
+[[files]]
+file = "emotes/SPE_lying with your hands tied.png"
+hash = "949c070be00213289f0d4ae173907a762fbeb1713e84abaeff5b29a11d6be21c"
+
+[[files]]
+file = "emotes/SPE_modelpose2.json"
+hash = "1c84c424a7010925bdc41b069a64fcfe29530cb6e05ec3a14adc8aa8a2d3498a"
+
+[[files]]
+file = "emotes/SPE_modelpose2.png"
+hash = "6dc3cd62fd509ca898cc1e7e7c77bfbcc86140545772bef7005bdc60d1815d7c"
+
+[[files]]
+file = "emotes/SPE_sit down like a boss.json"
+hash = "097168f6d1640088f27fb79a4f84640cad435a9b811b64575ff4cc824fdb3282"
+
+[[files]]
+file = "emotes/SPE_sit down like a boss.png"
+hash = "06ca7a660616123ca358835e9f1f0147ce42332bc40535adfdd93e7ff68ea393"
+
+[[files]]
+file = "emotes/SPE_sit2.json"
+hash = "c4c608228f0902ce5676b3856e3ba1e1b5567f6ff17f18b5db76cfe9d41d5cc4"
+
+[[files]]
+file = "emotes/SPE_sit2.png"
+hash = "7921078c26f6e64a6d9f71ea14b4a0919a2e1f5aa36f7469baccb64fceacf785"
+
+[[files]]
+file = "emotes/SPE_t-pose.json"
+hash = "97a76c6b205032014a94d95f62ddc8effab978c2171ff668537c44d70a1974fd"
+
+[[files]]
+file = "emotes/SPE_the bar1.json"
+hash = "a8dc4554ea2998190a0ebf658896b7dded63e1c7233bef962c4108a092fcce7f"
+
+[[files]]
+file = "emotes/SPE_the bar1.png"
+hash = "f9eb300ec7f3e02ade9ffe65d04057cc10100565a8b87dfbbb735926548eb5ce"
+
+[[files]]
+file = "emotes/SPE_the bar2.json"
+hash = "928b5b0847084070467b1b616776307a5836f1887235240e17b5470ee0a144ab"
+
+[[files]]
+file = "emotes/SPE_the bar2.png"
+hash = "59bc205a97ecf2af0dd4b4d2fb2aafa9834d412e6efabdcba834bf53dbfd980d"
+
+[[files]]
+file = "emotes/SPE_to die by hitting the wall.json"
+hash = "dab2bfc5cc2c87bb3bfb3faf1e14868b425cfff443332384f88ff8725e220650"
+
+[[files]]
+file = "emotes/SPE_to die by hitting the wall.png"
+hash = "fc7630611bb31298d5cff83a0a71ea9926a2fa72f5094d3301a5d82f7691a0cd"
+
+[[files]]
+file = "essential/config.toml"
+hash = "912c6bd23ccf4e1319b91f4d4a8518d8303b9a1cd32f117fd29f5dca1f09d50b"
+
+[[files]]
+file = "essential/onboarding.json"
+hash = "1302281304e327a3a0fb72ea1bf865ecf899eabad686cc98f07131853d8c614c"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "6f4b7e267811112a7d5283ad01b561bf03b18b7aac242dd25d8c899adec5cfec"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "3fcfac5d726612226828b5261d4a1065f7cf9933b18d129705ef64ef39f3352d"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "e856608bb1c26f49e9ebcab20b3ff0d8114d5d9fd961e78b7c26bf767ffe0c63"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
+file = "mods/emotes_replay_compat-1.0.2.jar"
+hash = "f9994d6039c491694f28b4831c7c36c767083d2f344fe32061066a71c46fb85f"
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "79f1b115272dda60974bf0f16379308a673184fefc973a598a1a2f84e261b19d"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "58911d03dcdd03583efa113656167fb08dc71bf251043a71854011fafbd02553"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "894d979ff26d8c7ee75d47a318f41873974a25f232c323980c0a82fa5999e93a"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "ee5a909c285c26dbf347fb2c9d9d40e761c3feb076ad7e62733973bf6554b579"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
+metafile = true
+
+[[files]]
+file = "mods/freelook.pw.toml"
+hash = "b96430867193b941ee1253e97c0e7a5ddea5f0fe17a0944dde3646f559f9626e"
+metafile = true
+
+[[files]]
+file = "mods/grass-kiss.pw.toml"
+hash = "2423579aee7ca46b560d4ec542fa4820e5c0bd39302618252ad325dd5753e956"
+metafile = true
+
+[[files]]
+file = "mods/horsestatsvanilla.pw.toml"
+hash = "4e3f1786c9f45db3b136ff179efd6df6653d0cf460bb37f7b0992c92450ebed2"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "0fd43bd49d07facbb6f984add2e5de937575f2f049955fde256b3a5f28e00866"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/ngrok-lan.pw.toml"
+hash = "3ed30b8a39402c2abad6832668d8b219c1d12769d78569123655a0d6947bdadf"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "d57003b9b0f720ea31a1ee4faf958f0448f7bc25f0f3cd410a6efd0d81a47e0a"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
+metafile = true
+
+[[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "63902c5682a7f5c09022dc0883306c0c89221fcc00072ac46030f84c9ee24fa9"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
+metafile = true
+
+[[files]]
+file = "mods/rp-renames.pw.toml"
+hash = "21e721c57d9d978c24059e74d70bafa8b95d0c183ce24da603a6f5dcf37b5d4f"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "1b9b1cdbacfeeb97f21981d5859af497bc5db6aebeb7e320f874111787d67c3a"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "00f9b2440c115b26b38b8477a7481f27d20966e6b9a95d1908e68a07336bedd0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "28886fd5471a7a5cc215f155991e1628aaa86224da1cf46e1c2d12cef88118f4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "adcc3a873b6e2df8fae283797f15a859a1c389b1fb2cf24fd6525dbb6a3b4792"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "25e06cef7f90b76f57e5c5bcb3f1c19d2df850caf07f35d9eb4c14ab6fe79e00"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/BACAP Language Pack 1.16.0.1.zip"
+hash = "adc2bb002e28bd484006278aecb219b0499800b3affb9a2744802a98ba3863da"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode-1.20-2023.7.0.zip"
+hash = "a702cd6ee540406307b162d7a6f8ddc2b38c2f18510a81474d10d5fad60ccdf4"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.8.1.zip"
+hash = "05140649a4b712119582172b035695394511d344c81a96da622e300d94845f5a"
+
+[[files]]
+file = "resourcepacks/Fully_Aged_Marker.zip"
+hash = "506707617a79403db59519c28f2044e046c4cda2e9890e0db108c031b0afd195"
+
+[[files]]
+file = "resourcepacks/Icons+Menu+(Put+Above+Icons).zip"
+hash = "fbc09c9a0a6b818012b02bb789b556ca2c7a39f9976a8e273cb51636055d82ff"
+
+[[files]]
+file = "resourcepacks/Icons+v.1.8.zip"
+hash = "c3d46dcf1ab98af0dbad9f80196524d36421e886ca86190808cb480079de96cf"
+
+[[files]]
+file = "resourcepacks/Islana's+Armor+Accessories+1-19+No+Rename.zip"
+hash = "8b57b5862a60da157b9cb7723e70b81cde907e539a2c755cb2021e33f6d5eb2e"
+
+[[files]]
+file = "resourcepacks/KSEPSP+v8+2+cut.zip"
+hash = "cc29468dc46cc66ca1d772df6b36dfaf7754003425f10811c7741765b440a60d"
+
+[[files]]
+file = "resourcepacks/Nameless_Poker_Club.zip"
+hash = "8b56669d947467a9edee4d7f09c23b46fec1655fd84cb91c6c3398e694737cb7"
+
+[[files]]
+file = "resourcepacks/Ore_Borders.zip"
+hash = "f404078adad43a72285b3d2a8e7ef7e0c84a650e73f10f3aed633ca8f3a0db20"
+
+[[files]]
+file = "resourcepacks/Peace_And_Quiet.zip"
+hash = "15579be4277034127f753adc4814035a8eb45eb0eaaee430945eda307e74ca3d"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "1e938c61d4f9abfbf8da69569fa641e0a9967d9d8f49bcdc78e2d6f1817e8a01"
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "b216023831fd1e7b385bff7f19fa43fcafe24f50bd573215ae1c0e9d0ddb7634"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mc-paint-resources-v0-8.zip"
+hash = "819145fd440e719489a7d2863e045a402d9e9a0e90d8c751a6a22f1c109bb066"
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "fd69795065aab95d4a0bb311b20377956a2394a7f3d73a2fc46226ca22229678"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-spawn-eggs-v1-5.zip"
+hash = "dab1a51dd2b745b9f04363faf8ae851f73a702a00c804443686f946e61dd879f"
+
+[[files]]
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Nameless"
+author = "CatRiX"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de524c83b24c14ca3ff4ff7c93ed8a0726ebe8ae22eb8c5d0ee3aba5415b5988"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"

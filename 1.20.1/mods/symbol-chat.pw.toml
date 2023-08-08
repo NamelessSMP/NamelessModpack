@@ -1,0 +1,13 @@
+name = "Symbol Chat"
+filename = "symbol-chat-1.20.1-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKvLVQMc/versions/dcB32SMC/symbol-chat-1.20.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "d0d71525cabcaaf3d1305981b783549ec91c7845"
+
+[update]
+[update.modrinth]
+mod-id = "NKvLVQMc"
+version = "dcB32SMC"

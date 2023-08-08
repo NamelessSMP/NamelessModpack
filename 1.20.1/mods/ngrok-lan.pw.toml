@@ -1,0 +1,13 @@
+name = "Ngrok LAN"
+filename = "ngrok-lan-expose-mod-1.5.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oTa1qz6R/versions/6UdNtOyj/ngrok-lan-expose-mod-1.5.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "80d9f5f613c4e8a86bab708fb687ae38c776a34e"
+
+[update]
+[update.modrinth]
+mod-id = "oTa1qz6R"
+version = "6UdNtOyj"
