@@ -10,7 +10,7 @@ renderDistance:8
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","black_icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","rprenames:default_dark_mode","file/VanillaTweaks.zip","file/Fully_Aged_Marker.zip","file/Ore_Borders.zip","file/Peace_And_Quiet.zip","file/Islana\u0027s+Armor+Accessories+1-19+No+Rename.zip","file/unique-spawn-eggs-v1-5.zip","file/BACAP Language Pack 1.16.0.1.zip","file/Icons+v.1.8.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/FreshAnimations_v1.8.1.zip","file/KSEPSP+v8+2+cut.zip","file/Nameless_Poker_Club.zip","file/mc-paint-resources-v0-8.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Icons+v.1.8.zip","file/Icons+Menu+(Put+Above+Icons).zip","black_icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","rprenames:default_dark_mode","file/VanillaTweaks.zip","file/Fully_Aged_Marker.zip","file/Ore_Borders.zip","file/Peace_And_Quiet.zip","file/Islana\u0027s+Armor+Accessories+1-19+No+Rename.zip","file/unique-spawn-eggs-v1-5.zip","file/FreshAnimations_v1.8.1.zip","file/KSEPSP+v8+2+cut.zip","file/CEFI_2.1.zip","file/Nameless_Poker_Club.zip","file/BACAP Language Pack 1.16.0.1.zip","file/mc-paint-resources-v0-8.zip"]
 incompatibleResourcePacks:[]
 lang:ru_ru
 textBackgroundOpacity:0.0

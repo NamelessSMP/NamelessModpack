@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3921d35bf475f1e6844637d0016bc4a3dcbb1f0ed2a9889fa874f578cd6b1355"
+hash = "74853d8ef8a0b3b245d9b3577dc59f1719d9e53aa07aeb10eb4f425e574e20b3"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -41,12 +41,20 @@ file = "config/yosbr/config/capes.json5"
 hash = "6fb8bbd7341fa85726598733bae35af64a85de66199016a48b15c40301d318e3"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "a6a12e0833ce83b1b9b04a9361d65649e2bcb322f80a38433b0e0a07e8c65145"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
+
+[[files]]
+file = "config/yosbr/config/deathlog.json5"
+hash = "4977c05968dafebdba49f5c2e1c7d45a7d2b7277babcaec68027e391a8a95e1d"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -58,7 +66,7 @@ hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
-hash = "af43f1398f26976a46221c31b1da58f5d8744446048aa6d7e91cef5bd8dd8b37"
+hash = "66ca0d40ef66ebe16e6e6fb184b5ad78475b19ff1b66d2984b280438faeda1c2"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -73,12 +81,16 @@ file = "config/yosbr/config/freecam.json5"
 hash = "91948d78040bccc75743bbf73676e634c8b9930ed4566cfd405f377838dc5e71"
 
 [[files]]
+file = "config/yosbr/config/horsestatsvanilla.json5"
+hash = "3691f39f9f3fb8c45c7c9d59f02e6ee6ad203ee5ce59dcf0012225591247d04c"
+
+[[files]]
 file = "config/yosbr/config/inventoryhud.json"
 hash = "e896084ad79a1cf9f1d62e130935fdc3252477bc50c84c97a53458e903b66e05"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+hash = "52de9a254f0e083c2d5612cd8870742e464ca1dfa76b626558479299c1a2c8d0"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -94,11 +106,11 @@ hash = "827db35c92f132f5cb066a092dc48abcd5a409aefa41862794bc1ab731115119"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "2bc1ac8341b8de9bba700b2349b40138fcff18944c55e0520ad21e28eb6a4c1d"
+hash = "4aa44bfd19521e426560ec3c18f02762f180a05b07584d844db129251cc7600b"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "38f553f340707b020752e1bf9bb0ba95e597f545a01ed2abb253f9ebdd7bed3f"
+hash = "97cbbf115285a9ab821a0995208dd7299e8d72fb1a6fc8fd59ab68ad440bb011"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -118,11 +130,15 @@ hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/apple.json"
-hash = "9a23d7c29ac6419587f6af069baee263abc126c6b6955340914b052165515120"
+hash = "6fe40df8bef7a5d8203b070070a65620dd8265a8b957e021c9cde556234be056"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/arrow.json"
 hash = "fa5a3063d0770b9c9f2eda96e3702304009973d87186fcf631925c7419e72391"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/baked_potato.json"
+hash = "6ab8da8d7f07a9120946816b02f6499b6ec0cd8604edbba9b8bac2c273867f82"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/barrel.json"
@@ -142,7 +158,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/black_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/blue_banner.json"
@@ -154,7 +170,7 @@ hash = "1b7d05d0a82d1c834ca0518cc965a30ea6b415deda9f0e76bd1327a7657f19d5"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/blue_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/book.json"
@@ -162,7 +178,7 @@ hash = "22ef7ae09cab226b59fc0b004245f15472ddf6dce0cedcc5d0babf647435e2a3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/bow.json"
-hash = "2a63296a6b28289cb2d4ba19bbf1326dd4e44c8c96960761963b688ed9b115c8"
+hash = "3c3d99954af6f3105c17e96f3f3597f8919668dee779770bf78c8f4faee0f127"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/bowl.json"
@@ -170,7 +186,7 @@ hash = "684083af5180472f4ae883df2dd918c417965b0b7401b191d00e3dbb002c134f"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/bread.json"
-hash = "aaab71c77699741d8c54b5a483d61534e09a3bc7ec66265049c54111b195e5fa"
+hash = "16e1c54632dc60c47bcc98b2cf18f1c0aa23c512331a932d09a9c26019342232"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/brown_banner.json"
@@ -182,7 +198,11 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/brown_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/brush.json"
+hash = "714697c4df1e439e4b72580f6e623b4a60406dd7e6a89bb76e627023d9387f67"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cake.json"
@@ -194,23 +214,23 @@ hash = "79389258dacdda6c43a08216bc0a7daf9010fb11be3c209033789a06884f800f"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/carved_pumpkin.json"
-hash = "4be31e62405958f38ab4085a176459c4d9fd7f0832987d7dae9c5fc52d702755"
+hash = "34c64199f43aaa6b2893fde816ebf3613ec0b4321b92764cbcebfcb061e8e0c2"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/chainmail_boots.json"
-hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+hash = "4d876bb6c56dc7c4bc458ac4aa288c5e83910c44509695f7378b37cfc5101cfa"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/chainmail_chestplate.json"
-hash = "e1eba9cae1f62845810f33dc02ba5ccbc1726b61271ec344ba10c969aeb07367"
+hash = "acd7f329dce2457e42e9280dfff6988ea2a2913e60df32b17be99136afa1e456"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/chainmail_helmet.json"
-hash = "61925f6f2ba47cd041370d283f9576a0fc1bd44b81b5f27dcc780a273ef22076"
+hash = "f1bf36cc182ac7ffcf30090d94f036175f05772cea40d509487a9e8115591cd2"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/chainmail_leggings.json"
-hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+hash = "0c9932aa015ba4a9db631f8c9a6c37e7e5aeefd3f33ebf0a6881016a68d56bf3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/charcoal.json"
@@ -234,15 +254,15 @@ hash = "d00d135e2fe7a76c0343bb465446ca5dd5ea25d772a1636634bcc88df40cf47e"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cooked_beef.json"
-hash = "ffd0a2fbc3834133783eb23433bcb5d8e273393c6399a3c842ebafe07969c1b5"
+hash = "d9fb92e13f382898ea4594850c86352471fe9df3be6485f4fe4a6670af6d3a51"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cooked_cod.json"
-hash = "07217ef55f9b5461866f7995db4861aada28b34615feb1309e4af4a9af67df43"
+hash = "4b9e4f83cf1d3c0895563f3a92c0c2844a1ca4a9b5df510eeec9406f6b149271"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cooked_porkchop.json"
-hash = "1aabaa8ef9765085a25c47c901d814a1e93173f36466858d6de98cc18c972d68"
+hash = "3af4d5a930399934c29ec7adbca189220d86af8e58db4f70493bb743a5479f49"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cooked_salmon.json"
@@ -250,7 +270,7 @@ hash = "aa93bb0cd8b6ed1ae704ad2971f82374fc6151ec046cb4bb29f6c1b18edb21aa"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cookie.json"
-hash = "751eebd2210663aeafe1966d99eada74fa278ba0829782f10b1e086c5d212636"
+hash = "eb6284653d967d3ed95a48ebaab15b7d3a900b2234cbdd1e8deeb62d22a8e3d8"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/copper_ingot.json"
@@ -270,39 +290,43 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/cyan_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_axe.json"
-hash = "112e789c22997742a83d2f72b6a364225365be6b34021fab8423a773a9c4051a"
+hash = "cc92e9dec9d3a22e1905316b440c28ac845dadb8cbee0065b070a88b811c8214"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_boots.json"
-hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+hash = "4d876bb6c56dc7c4bc458ac4aa288c5e83910c44509695f7378b37cfc5101cfa"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_chestplate.json"
-hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+hash = "cf641a2a34949b56c499205173512d9811eb622b8f34c88beec4985d50af8732"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_helmet.json"
-hash = "61925f6f2ba47cd041370d283f9576a0fc1bd44b81b5f27dcc780a273ef22076"
+hash = "f1bf36cc182ac7ffcf30090d94f036175f05772cea40d509487a9e8115591cd2"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/diamond_hoe.json"
+hash = "7c7872478b3fc88a28aaeb8088082768cff4ed826316a8663f5820e56d08aa4d"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_leggings.json"
-hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+hash = "0c9932aa015ba4a9db631f8c9a6c37e7e5aeefd3f33ebf0a6881016a68d56bf3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_pickaxe.json"
-hash = "3d992469120f904ae1d1f8445f65ea2276590ef16803b639156879199ea3f667"
+hash = "aab3074054db9080bcfde7d35f3448adbb69d46c6b4d0ed80a72973a74c02874"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_shovel.json"
-hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+hash = "c1f1d134af20be8fca1b97b07caf8e3dd72318d16111e9e6841bc112c5ea9a82"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/diamond_sword.json"
-hash = "494f59df88000a16d55fb05d8273910e40775f56084581ff89d3f2cdc2fe96e4"
+hash = "9b5fedec35198f8410230e660b17a33ae722cd7b7d02c5398611e5d30b9a5824"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/dried_kelp.json"
@@ -318,7 +342,7 @@ hash = "e4d2fd5b540e531c11fefa39ab7ffeb9d245d105c328b7d2c5a9b78b75e631fd"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/fishing_rod.json"
-hash = "a5a6fa2a990170dfad1a276086e4996ee29e0fd376e7e40bee1ced58d1cca331"
+hash = "69ea38678c7ce9039078ecb8c101f2e43fbff641eeb790786362f70dd767c5e9"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/flint_and_steel.json"
@@ -330,43 +354,51 @@ hash = "90ad54bb7f39017a434eaaa6c34a55c1a8b8accd915c6f9409ac5c525bfd1979"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/gold_ingot.json"
-hash = "1bfec367d48283bf559fdebe7ba40563854143e2d4fb326d83131154ae752538"
+hash = "68d043fb99b6771f2a46daaf515ea824f845a900fb7d01227d56eb026f71032d"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_apple.json"
-hash = "4b25521338799bfc7adcf147f82bb75c2f47360612962bae3853325ae85e15e0"
+hash = "eb9511ef9a03e799329c87752a3e4f7dc1082b9c571fdaa36f41fce55c064b1b"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_axe.json"
-hash = "112e789c22997742a83d2f72b6a364225365be6b34021fab8423a773a9c4051a"
+hash = "49d830c0c2ba367c4531e2638a1dfaf3edcd892e897071bb8f40fca27761941b"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_boots.json"
-hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+hash = "4d876bb6c56dc7c4bc458ac4aa288c5e83910c44509695f7378b37cfc5101cfa"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_carrot.json"
+hash = "4b533e0a37234c99fab62c5e65174221c7a674bc796df3d1263446a2b522cbb6"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_chestplate.json"
-hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+hash = "cf641a2a34949b56c499205173512d9811eb622b8f34c88beec4985d50af8732"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_helmet.json"
-hash = "61925f6f2ba47cd041370d283f9576a0fc1bd44b81b5f27dcc780a273ef22076"
+hash = "f1bf36cc182ac7ffcf30090d94f036175f05772cea40d509487a9e8115591cd2"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/golden_hoe.json"
+hash = "7c7872478b3fc88a28aaeb8088082768cff4ed826316a8663f5820e56d08aa4d"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_leggings.json"
-hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+hash = "0c9932aa015ba4a9db631f8c9a6c37e7e5aeefd3f33ebf0a6881016a68d56bf3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_pickaxe.json"
-hash = "89909abeb6de2556e16fb8aeccd21c26c9ed92e81ff8ad308b85e16ff1ebb00c"
+hash = "cf87adafda7d3bbe05878b31781a634ebd079f151229caf9d84c3e3d520b87e8"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_shovel.json"
-hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+hash = "c1f1d134af20be8fca1b97b07caf8e3dd72318d16111e9e6841bc112c5ea9a82"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/golden_sword.json"
-hash = "c987993eb50411807999dcc51f8c5bafeeed7ace9114c6cec6299e1aa155ea89"
+hash = "2bd9400b30ef3fd0f1b4f3412f0413789c25b12950a5e75d232f1fdc4976738e"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/gray_banner.json"
@@ -378,7 +410,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/gray_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/green_banner.json"
@@ -390,7 +422,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/green_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/heart_of_the_sea.json"
@@ -398,7 +430,7 @@ hash = "719f900f4519181200432c341b7298693158cb0176736754edca001955f74549"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/honey_bottle.json"
-hash = "4238b045068c4e1d75b0875aec410d484ec5e018b7203ae344be167215580784"
+hash = "15b9543ddf9d8583ed435161583755a3d745bf98370218f8ca7cb51682b32204"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/ink_sac.json"
@@ -406,39 +438,43 @@ hash = "fe9e78b5385b6f990bc4c427906a348380856f9db63a1fe91095cfb8357a7f51"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_axe.json"
-hash = "1504708798df2a06ec3cdb2063629129fef7ceee36a5461623c2b171d1841efc"
+hash = "ef1c57d89bb495cc9ccc216f21fd915fd9ef786e34b5830c8a6b1d2e366386d5"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_boots.json"
-hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+hash = "4d876bb6c56dc7c4bc458ac4aa288c5e83910c44509695f7378b37cfc5101cfa"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_chestplate.json"
-hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+hash = "cf641a2a34949b56c499205173512d9811eb622b8f34c88beec4985d50af8732"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_helmet.json"
-hash = "7c2db9d1dd314211518f68cb09ac54f6fd13aa0e5979c80d71c669d07896e771"
+hash = "1a2f35ef95e0b4e8982cb86d372c9bdbbd611d951a30c1c8048adf171ec534e3"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/iron_hoe.json"
+hash = "7c7872478b3fc88a28aaeb8088082768cff4ed826316a8663f5820e56d08aa4d"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_ingot.json"
-hash = "359de5d22a5ae43492e6608029e115e97c7a6cb17a5f111757db84dc89dcb24c"
+hash = "e1fb40bd731aa4c0797d0434383c168bbc9d1d99fd5fe212efc5642e34e19162"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_leggings.json"
-hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+hash = "0c9932aa015ba4a9db631f8c9a6c37e7e5aeefd3f33ebf0a6881016a68d56bf3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_pickaxe.json"
-hash = "c6b140040ee300b59ddf781282e725bee286872fbe84ac5440a6f116f37a5649"
+hash = "0a6a36cac1e99437ec5b08a0e56fe37b843302eea1b0bfffd3db9875083785e3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_shovel.json"
-hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+hash = "c1f1d134af20be8fca1b97b07caf8e3dd72318d16111e9e6841bc112c5ea9a82"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/iron_sword.json"
-hash = "494f59df88000a16d55fb05d8273910e40775f56084581ff89d3f2cdc2fe96e4"
+hash = "9b5fedec35198f8410230e660b17a33ae722cd7b7d02c5398611e5d30b9a5824"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/leather_boots.json"
@@ -470,7 +506,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/light_blue_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/light_gray_banner.json"
@@ -482,7 +518,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/light_gray_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/lime_banner.json"
@@ -494,7 +530,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/lime_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/lingering_potion.json"
@@ -510,7 +546,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/magenta_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/map.json"
@@ -594,35 +630,43 @@ hash = "f412c503f095ea50ac5cdc6f6c34ab1bfd049790fc5d6729bc3deaba57bddf20"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_axe.json"
-hash = "112e789c22997742a83d2f72b6a364225365be6b34021fab8423a773a9c4051a"
+hash = "cc92e9dec9d3a22e1905316b440c28ac845dadb8cbee0065b070a88b811c8214"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_boots.json"
-hash = "b5860af208a51ac5f9cdc58eb34f46b29e57c3f6b083e3d293855a2f204be5ad"
+hash = "4d876bb6c56dc7c4bc458ac4aa288c5e83910c44509695f7378b37cfc5101cfa"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_chestplate.json"
-hash = "ef7fb0e244bcfd94220654afd24d2b0cdaed34e578efac217cc47cb0017bb29b"
+hash = "cf641a2a34949b56c499205173512d9811eb622b8f34c88beec4985d50af8732"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_helmet.json"
-hash = "7c2db9d1dd314211518f68cb09ac54f6fd13aa0e5979c80d71c669d07896e771"
+hash = "1a2f35ef95e0b4e8982cb86d372c9bdbbd611d951a30c1c8048adf171ec534e3"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_hoe.json"
+hash = "7c7872478b3fc88a28aaeb8088082768cff4ed826316a8663f5820e56d08aa4d"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/netherite_ingot.json"
+hash = "c569c974fcb566a5095c8fa1bb5cdf113bf0798c575913e830fa3aa21e64114b"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_leggings.json"
-hash = "e9ca81d08862d7bfa29980a822e498eb3e44d5f51db1a847f21b62287d3c8214"
+hash = "0c9932aa015ba4a9db631f8c9a6c37e7e5aeefd3f33ebf0a6881016a68d56bf3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_pickaxe.json"
-hash = "0c51413b5776ded90a246c908d88d910f10a6169c3df834d5b9853ec659e5019"
+hash = "c24bbc02233d10db386ddcfb7615789c61bb9b2aa710ba314a7e56c2496db5b7"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_shovel.json"
-hash = "1db8f7e5dc6a7d7c1890750004ba201375b118cc72e70ab8bbce887c1a8f21d2"
+hash = "c1f1d134af20be8fca1b97b07caf8e3dd72318d16111e9e6841bc112c5ea9a82"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/netherite_sword.json"
-hash = "f6acff310cb3059b7141ae1dc6836db0ce8a54436752436b7ba528631093107d"
+hash = "f9cc5309ed65c61064dc8c7dbe81ee511df03beb88b7b9cac39cea6d4b327ef2"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/orange_banner.json"
@@ -634,11 +678,15 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/orange_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/painting.json"
 hash = "e87b9b0e1626e2fe20f3877a59984d66191f12fad20f38176862dea026ee03a8"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/paper.json"
+hash = "502ec05c6a8f0079e1bc96084ffb41fa8353027909db0ecd475e8c8b44a614f1"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/pink_banner.json"
@@ -650,15 +698,19 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/pink_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
+
+[[files]]
+file = "config/yosbr/config/renames/client/all/poisonous_potato.json"
+hash = "7c6d47cf3dafef7ad7318e32621825a39915eb7baef00219596a4b26aa27e3b3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/potion.json"
-hash = "672e68d18d224bdfe46857b291a8a3b56cfb98c47925ee6538c1391574ac3f2d"
+hash = "aad01067ed5a50d76921b2249c8305526a4051090e5cf49ecf507db366efc3f2"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/pumpkin_pie.json"
-hash = "49f25e1128cffc8bcc03e44e04f2b3bc2207d4afe8f559b1b8e8b64d53de984b"
+hash = "c7677ff267379d8e5604753b0681344d656d7647d0e359f45e8cbd06a29861c0"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/purple_banner.json"
@@ -670,7 +722,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/purple_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/red_banner.json"
@@ -682,7 +734,7 @@ hash = "8a07b99ffbf0232f2d17c8081df0f01b755ee8689cbe9e8ad891bbfee03e2648"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/red_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/redstone.json"
@@ -690,7 +742,7 @@ hash = "de05ace976564a697f8c52b124778b987beb3ea7f4b3b5623e33bb8b910caa78"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/rotten_flesh.json"
-hash = "4cd6667ea78acb33cb91ab654017452939b7711e881c9347aaa2d3650a5ee46b"
+hash = "bad259f45d8d6029ea420379e94ade16c5cbbf2932aaf1ace4666b81df60e71c"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/shears.json"
@@ -702,11 +754,11 @@ hash = "470e253c35bc10cc2de60c5f1ba1bcab393dffae2a821b1f2005695a1c6c9ab3"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/snowball.json"
-hash = "0eb06e1bec1240c8199a1e40cd8bae65afe21c5e03de213add8523c9ae131001"
+hash = "c64a51b5e6df6bd6b2c97d4c7dc90eb714b48f0463a6c3edbf66e2d9bec2a188"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/soul_torch.json"
@@ -722,7 +774,7 @@ hash = "603c38a5d595d40183aeec02cd303220fd9bef0b72d1bfd00524167155a8aecc"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/stick.json"
-hash = "d4dbb428427d83ce2f56947aa1ec01bda325084368d81ed08fd655fa3aad731e"
+hash = "1c47118e849959b244ba185f1f1d995ddea119fa152c6c63dbe07964da74187e"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/stone.json"
@@ -754,7 +806,7 @@ hash = "d1eb11b8e0251554e1b1053b58d0f17c4280e505252d71b93cf7bae0f6181797"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/totem_of_undying.json"
-hash = "b5ee898daa2eef8c77c7885cab3aded0a10eab7c2f109323ccfce12a4f626f4a"
+hash = "665d39eaad656ab928beb0535be503010cbe919574770d840218d3db64e0e21d"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/white_banner.json"
@@ -766,7 +818,7 @@ hash = "e22428ec1072e64aaa68e7c0ddcc4d4e864802a199f29fe52ed58cdf28dc881a"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/white_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/wooden_axe.json"
@@ -782,11 +834,11 @@ hash = "9689a46f05a713aa42802c6411bd8b0efda10b16f4c581b52f99b7945e4c745c"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/writable_book.json"
-hash = "d818f4448a9b6b5b177fb37ce74e569051f105a8b3be2a9563a045050ac36e28"
+hash = "b6fbaad3799275ec839c96cb9b312137e05e7c6357d9169b41daf344d7aeee51"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/written_book.json"
-hash = "2a51b7192d9cc829be99dc24b8f9a895e944441ff430a02a852ec1dd1983b9be"
+hash = "fdfce8491132e2b9158f3ce6e9a554e6d9a102a21188609d66e958a55546e855"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/yellow_banner.json"
@@ -798,7 +850,7 @@ hash = "9ece09c47e361325f13ce842ce2a79dcfe3f9f575836a8e9cc578920bb8f22a4"
 
 [[files]]
 file = "config/yosbr/config/renames/client/all/yellow_shulker_box.json"
-hash = "9c2c5e5699a38da037d996f6f29c7906bf948c9bf8d289bf230ee2452bbb5e81"
+hash = "2fb991cc4bb5d5fbbe81deba7b72f0d0bead3c1bd1a48662e42d131525ef9deb"
 
 [[files]]
 file = "config/yosbr/config/renames/client/models/skeleton_horse.json"
@@ -817,26 +869,6 @@ file = "config/yosbr/config/rprenames.json"
 hash = "87433cbd7aa7733f7ec29072662ca2a7ebe4a6b2875af01d24c88936e0e6eb86"
 
 [[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "f90bc1087f576f48c9d51e58057524e96bb6d80f36695ea5cd49df4a9fd294e1"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/server-entries_ru_ru.toml"
-hash = "91d9b785497772f2fec4d5d627fb69608fd20fa7f317dbb5d1fee460ee8a3661"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "072ab565de02a3c7b6fab339ca55f95fdb39193587031cdefc30a68fc2d9033d"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "f23631d944e442c811e2741074b90bb9cfabebd805bf7bf459367e61a1b43a30"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc_ru_ru.toml"
-hash = "fafb1e0ac3d31e8b121d2a964e89df3e1701e485eb2f9c75ea83453565e2c73a"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
@@ -849,8 +881,12 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "2c993397003afdf5aed19c66ea33dad93f9d6ca4481559f36d1e0b53de96742a"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "efd8dddd95cc3d4f81677946dc33f45da0b581459d695f67781c5849cfc6eafc"
+hash = "2da29a60fb27af75c4d2599f4b976b9aae3cb82eddae01ae6232255e2f925545"
 
 [[files]]
 file = "emotes/SPE_A hammer1.json"
@@ -4850,7 +4886,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "3fcfac5d726612226828b5261d4a1065f7cf9933b18d129705ef64ef39f3352d"
+hash = "a6e80b3f938a4173b8909a89e8981ce3b29570bb64433275c0ed66c00e7cdbc0"
 metafile = true
 
 [[files]]
@@ -4860,12 +4896,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
+hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "e856608bb1c26f49e9ebcab20b3ff0d8114d5d9fd961e78b7c26bf767ffe0c63"
+hash = "5d05ff6a4ce3ad876d26a23bbc609bf0089a3bbefd5f433fbbccd6ac00aed8e9"
 metafile = true
 
 [[files]]
@@ -4885,12 +4921,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
+hash = "8852812ef007ff8afcfbd949533f2124f0aaee4cbb068ce8202217614aebea58"
 metafile = true
 
 [[files]]
-file = "mods/craterlib.pw.toml"
-hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+file = "mods/cupboard.pw.toml"
+hash = "8ceb7aa6264ca643bb9cb9f5c347f271eae6e5195c929d9264d1ccda50ac547d"
 metafile = true
 
 [[files]]
@@ -4944,7 +4980,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
@@ -4974,7 +5010,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "ee5a909c285c26dbf347fb2c9d9d40e761c3feb076ad7e62733973bf6554b579"
+hash = "8be4312708fbe5e7b9e2dba0c932bec348d0790300aa10db0866558346e54f03"
 metafile = true
 
 [[files]]
@@ -5009,22 +5045,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
+hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
 metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "0fd43bd49d07facbb6f984add2e5de937575f2f049955fde256b3a5f28e00866"
+hash = "5119a0543adb0568199f56f22c883e797f78078a4f8544a3cdf3207f00bf10c6"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
@@ -5075,6 +5111,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
 metafile = true
 
 [[files]]
@@ -5134,7 +5175,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
+hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
 metafile = true
 
 [[files]]
@@ -5154,7 +5195,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "1b9b1cdbacfeeb97f21981d5859af497bc5db6aebeb7e320f874111787d67c3a"
+hash = "d6df523cc504146a9d96b6bad4e379f364c7bc889d8d17b48ebcda53bdea6d5e"
 metafile = true
 
 [[files]]
@@ -5168,28 +5209,23 @@ hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "00f9b2440c115b26b38b8477a7481f27d20966e6b9a95d1908e68a07336bedd0"
+hash = "d1fd60244620ca922e5c356679f49e126bb91620d58fd771983d7e6e631fcba9"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28886fd5471a7a5cc215f155991e1628aaa86224da1cf46e1c2d12cef88118f4"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "adcc3a873b6e2df8fae283797f15a859a1c389b1fb2cf24fd6525dbb6a3b4792"
+hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
 metafile = true
 
 [[files]]
@@ -5222,6 +5258,10 @@ file = "resourcepacks/BACAP Language Pack 1.16.0.1.zip"
 hash = "adc2bb002e28bd484006278aecb219b0499800b3affb9a2744802a98ba3863da"
 
 [[files]]
+file = "resourcepacks/CEFI_2.1.zip"
+hash = "bed330af5cc99fa7d8f53fed1384545d554591f799e3ed304df5fa88448a647a"
+
+[[files]]
 file = "resourcepacks/Default-Dark-Mode-1.20-2023.7.0.zip"
 hash = "a702cd6ee540406307b162d7a6f8ddc2b38c2f18510a81474d10d5fad60ccdf4"
 
@@ -5239,7 +5279,7 @@ hash = "fbc09c9a0a6b818012b02bb789b556ca2c7a39f9976a8e273cb51636055d82ff"
 
 [[files]]
 file = "resourcepacks/Icons+v.1.8.zip"
-hash = "c3d46dcf1ab98af0dbad9f80196524d36421e886ca86190808cb480079de96cf"
+hash = "f689a8c4992a76b841a65056fa5b028e00ea684a7cdfa07cd502748528f0740c"
 
 [[files]]
 file = "resourcepacks/Islana's+Armor+Accessories+1-19+No+Rename.zip"
@@ -5276,12 +5316,17 @@ hash = "819145fd440e719489a7d2863e045a402d9e9a0e90d8c751a6a22f1c109bb066"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "fd69795065aab95d4a0bb311b20377956a2394a7f3d73a2fc46226ca22229678"
+hash = "a9604ba3c6b84749564098f2627a1eee237a2a34511a63014048f526f95a9050"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unique-spawn-eggs-v1-5.zip"
 hash = "dab1a51dd2b745b9f04363faf8ae851f73a702a00c804443686f946e61dd879f"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
