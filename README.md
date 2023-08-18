@@ -4,7 +4,7 @@ This is an official QoL modpack for playing on Nameless and other servers.
 
 <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
 
-## Downloads
+## Download
 
 ### 2.1.1 (Minecraft 1.20.1)
 
