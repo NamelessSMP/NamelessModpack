@@ -1,4 +1,4 @@
-# Nameless modpack
+# Nameless
 
 This is an official QoL modpack for playing on Nameless and other servers.
 
