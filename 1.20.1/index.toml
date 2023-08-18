@@ -5050,7 +5050,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
+hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
 metafile = true
 
 [[files]]
@@ -5060,7 +5060,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
@@ -5220,7 +5220,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
@@ -5279,7 +5279,7 @@ hash = "fbc09c9a0a6b818012b02bb789b556ca2c7a39f9976a8e273cb51636055d82ff"
 
 [[files]]
 file = "resourcepacks/Icons+v.1.8.zip"
-hash = "f689a8c4992a76b841a65056fa5b028e00ea684a7cdfa07cd502748528f0740c"
+hash = "a38d422bb8b40a6a884ad95914b208e681600cb6bb4d0d44bd9a9b5a7354cae7"
 
 [[files]]
 file = "resourcepacks/Islana's+Armor+Accessories+1-19+No+Rename.zip"
