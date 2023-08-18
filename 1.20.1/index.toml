@@ -110,7 +110,7 @@ hash = "4aa44bfd19521e426560ec3c18f02762f180a05b07584d844db129251cc7600b"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "97cbbf115285a9ab821a0995208dd7299e8d72fb1a6fc8fd59ab68ad440bb011"
+hash = "7d4b4b81448c2fe09f6d13e56add076e4fd80033b5775a3ed7d811049b83baa4"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -867,6 +867,18 @@ hash = "9a22de214213b314ef1ad3389592191c4854a4191f49db11f9feadb65c930485"
 [[files]]
 file = "config/yosbr/config/rprenames.json"
 hash = "87433cbd7aa7733f7ec29072662ca2a7ebe4a6b2875af01d24c88936e0e6eb86"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/server-entries.toml"
+hash = "25fe37a59c10f167a83eed24418d2bbd7d5fb9b561dc1191e15122465806d307"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "cbf8bf8224fae0b7f446713093dfb28641994449f459f3a1e1406c3b1e948096"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
+hash = "d896942906c6c57dc2a9f25fed1815067a5bcb05fe77ff968ffe2f47c1519fea"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -4925,6 +4937,11 @@ hash = "8852812ef007ff8afcfbd949533f2124f0aaee4cbb068ce8202217614aebea58"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "8ceb7aa6264ca643bb9cb9f5c347f271eae6e5195c929d9264d1ccda50ac547d"
 metafile = true
@@ -5039,13 +5056,8 @@ hash = "2423579aee7ca46b560d4ec542fa4820e5c0bd39302618252ad325dd5753e956"
 metafile = true
 
 [[files]]
-file = "mods/horsestatsvanilla.pw.toml"
-hash = "4e3f1786c9f45db3b136ff179efd6df6653d0cf460bb37f7b0992c92450ebed2"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
+hash = "cdfba6239ea3dd9c111ebdca03626c3f179f7794ee146d0f043a82064ea39be1"
 metafile = true
 
 [[files]]
@@ -5209,8 +5221,13 @@ hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d1fd60244620ca922e5c356679f49e126bb91620d58fd771983d7e6e631fcba9"
+hash = "26f4d730e6876aaf57d8e00bfb401f50178b83d91fc62d974b1b350e19a62bfa"
 metafile = true
 
 [[files]]
