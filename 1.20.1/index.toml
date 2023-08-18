@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "74853d8ef8a0b3b245d9b3577dc59f1719d9e53aa07aeb10eb4f425e574e20b3"
+hash = "f249c17718ea3eb6f0902f7d32e22fc582e442e2ee60b957c8508947b2997e6b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -870,15 +870,15 @@ hash = "87433cbd7aa7733f7ec29072662ca2a7ebe4a6b2875af01d24c88936e0e6eb86"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "25fe37a59c10f167a83eed24418d2bbd7d5fb9b561dc1191e15122465806d307"
+hash = "f8f7a601e4b281f8099148f9fff9934d1305b013b4d8a2f41a463cfbc64ceb56"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "cbf8bf8224fae0b7f446713093dfb28641994449f459f3a1e1406c3b1e948096"
+hash = "fb1862b4afd2ff2b0005c09cb92f181adb81a55b6cb14318539cb44c3e9c2a3b"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "d896942906c6c57dc2a9f25fed1815067a5bcb05fe77ff968ffe2f47c1519fea"
+hash = "8e525decd79aa44fe390ff68ad5340e5df3abcb6625224e57fe5580e76d97fb0"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -5127,7 +5127,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
+hash = "9851ce3c96c4c2e3485aaf94ce9c0d3f60e90c606e1029119e092504987c7fdd"
 metafile = true
 
 [[files]]
