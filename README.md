@@ -8,8 +8,8 @@ This is an official QoL modpack for playing on Nameless and other servers.
 
 ### 2.1.1 (Minecraft 1.20.1)
 
-[![1]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.0/Nameless-2.1.0.mrpack)
-[![2]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.0/Nameless-2.1.0.zip)
+[![1]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.1/Nameless-2.1.1.mrpack)
+[![2]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.1/Nameless-2.1.1.zip)
 
 ### 1.3.2 (Minecraft 1.19.4)
 
