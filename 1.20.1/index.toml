@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f249c17718ea3eb6f0902f7d32e22fc582e442e2ee60b957c8508947b2997e6b"
+hash = "db21bbef52ff12ecb9405b0a6f358ca1245f3775b360801fdbe28c7701a2e9da"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -870,15 +870,15 @@ hash = "87433cbd7aa7733f7ec29072662ca2a7ebe4a6b2875af01d24c88936e0e6eb86"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "f8f7a601e4b281f8099148f9fff9934d1305b013b4d8a2f41a463cfbc64ceb56"
+hash = "2eafeda1086e75fb03d6e23723f2e957b801ad20687681360cf7dc018aa73129"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "fb1862b4afd2ff2b0005c09cb92f181adb81a55b6cb14318539cb44c3e9c2a3b"
+hash = "bd6e8082effea32eb687971dd2765168201f26b26496517fe0bd93c5e25a3826"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "8e525decd79aa44fe390ff68ad5340e5df3abcb6625224e57fe5580e76d97fb0"
+hash = "80bc043d0b8d41fd061ec8232c42ac874e7724473bdd3b6341860af59426eae5"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -4842,6 +4842,11 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
+file = "mods/advancement-screenshot.pw.toml"
+hash = "4519c8d3290ddd1555ec954ca67f151ecd24bcbd5dbc545a32effa93d1af2ff8"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -4927,13 +4932,18 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "8852812ef007ff8afcfbd949533f2124f0aaee4cbb068ce8202217614aebea58"
+hash = "a10e9b8d3794518c6a1cc3f27a5624ab2f28a0ff9bde0bb0bf2aa4e16569b6b2"
 metafile = true
 
 [[files]]
@@ -5211,11 +5221,6 @@ hash = "d6df523cc504146a9d96b6bad4e379f364c7bc889d8d17b48ebcda53bdea6d5e"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
 metafile = true
@@ -5296,7 +5301,7 @@ hash = "fbc09c9a0a6b818012b02bb789b556ca2c7a39f9976a8e273cb51636055d82ff"
 
 [[files]]
 file = "resourcepacks/Icons+v.1.8.zip"
-hash = "a38d422bb8b40a6a884ad95914b208e681600cb6bb4d0d44bd9a9b5a7354cae7"
+hash = "dc3faaf2c3042fb07f0c0e40518338b38fd0336c0f8c7d84286dadc57c5a5fa3"
 
 [[files]]
 file = "resourcepacks/Islana's+Armor+Accessories+1-19+No+Rename.zip"
