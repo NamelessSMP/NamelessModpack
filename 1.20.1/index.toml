@@ -2,7 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "db21bbef52ff12ecb9405b0a6f358ca1245f3775b360801fdbe28c7701a2e9da"
+hash = "cd60aedde86ed52ec4d6eb86bf740b2776ceb5b7e1f594934170a8fbef369f8f"
+
+[[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "df50cee6cc91d64e3281eefd8120c3e5eb995087302ce5c7db923944a9f07616"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "3456d60d42a4b0484af26e5237396abc71e1d0122a36961c6f7fde43234e43ff"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "05be78cbb4930152e1be2cdd654a50529fe1b5b8a1df69b8cfd030a32ff67940"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -867,18 +879,6 @@ hash = "9a22de214213b314ef1ad3389592191c4854a4191f49db11f9feadb65c930485"
 [[files]]
 file = "config/yosbr/config/rprenames.json"
 hash = "87433cbd7aa7733f7ec29072662ca2a7ebe4a6b2875af01d24c88936e0e6eb86"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "2eafeda1086e75fb03d6e23723f2e957b801ad20687681360cf7dc018aa73129"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "bd6e8082effea32eb687971dd2765168201f26b26496517fe0bd93c5e25a3826"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "80bc043d0b8d41fd061ec8232c42ac874e7724473bdd3b6341860af59426eae5"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -4842,11 +4842,6 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
-file = "mods/advancement-screenshot.pw.toml"
-hash = "4519c8d3290ddd1555ec954ca67f151ecd24bcbd5dbc545a32effa93d1af2ff8"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -4929,11 +4924,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
 metafile = true
 
 [[files]]

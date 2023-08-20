@@ -1,12 +1,12 @@
 name = "Nameless"
 author = "CatRiX"
-version = "2.1.4"
+version = "2.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d6df5b53c178a87672b7087e7a2d2f82dc58256fb34358e83119ffd17fb13df5"
+hash = "c960584e584c655f41643fc3aa462b3f06005f374d429d76774c8ed7e1109541"
 
 [versions]
 fabric = "0.14.22"
