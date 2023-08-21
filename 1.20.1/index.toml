@@ -2,19 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a3ed3e7262d36c18d6e584cbef9e58ffbe05e2aee2fa59a2e57ffb0ff92dcc84"
+hash = "f11300a4ff165220f3a6a552b4b67b0b923a01d75a5d319cfd053a031c217e14"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
-hash = "c65b14d489fbb840ca9f7913a6247ad5f2e24d25c9c1c8b4a2e535aacaf24014"
+hash = "a0468e803c6e90f989312feead8870823f0a9ccbaf43e903466f58b236ebd3be"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "ecd1f88ef75aa68dc1b8fffbb0a3c4cca9778467f2e6d1bc2019d3de7d5fc287"
+hash = "d1c8febef4d528ac2ffa63e469a3f9574117d563b30f2ffdca5dbf75eaf0c51c"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "56e328ada498ffcd28085ead651124cecbd71b8a6c00524d8c6711fe383f3b60"
+hash = "c471fa88dd486d037f09e3e953846898cd86dbbd3c13ea59c3c714f2dfc00219"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -85,6 +85,10 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "89349911374a451de6335d77f1aa0f3d30432cd5db5bc63032b9092e61abf889"
 
 [[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "a35098b21873b25c267ff399f30d9d810696eefd7ad6a27a650d7da263a0e726"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
@@ -119,6 +123,10 @@ hash = "827db35c92f132f5cb066a092dc48abcd5a409aefa41862794bc1ab731115119"
 [[files]]
 file = "config/yosbr/config/minihud.json"
 hash = "5c408528429680968e39cc688494b8c6a0bf18a728793ee89c75b4853d1e7649"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"

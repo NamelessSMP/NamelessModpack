@@ -8,7 +8,7 @@ version = 2
     description = "Играет в Minecraft %mcver%"
     state = "На Nameless (%players%/%maxplayers% игроков)"
     largeImageKey = ["https://raw.githubusercontent.com/TheCatRiX/Nameless/main/nameless.png"]
-    largeImageText = "Nameless 2.1.6"
+    largeImageText = "Nameless 2.1.7"
     smallImageKey = ["%playerhead%"]
     smallImageText = "%player%"
 
@@ -17,7 +17,7 @@ version = 2
     description = "Играет в Minecraft %mcver%"
     state = "На Nameless (%players%/%maxplayers% игроков)"
     largeImageKey = ["https://raw.githubusercontent.com/TheCatRiX/Nameless/main/nameless.png"]
-    largeImageText = "Nameless 2.1.6"
+    largeImageText = "Nameless 2.1.7"
     smallImageKey = ["%playerhead%"]
     smallImageText = "%player%"
 
