@@ -6,10 +6,10 @@ This is an official QoL modpack for playing on Nameless and other servers.
 
 ## Download
 
-### 2.1.5 (Minecraft 1.20.1)
+### 2.1.6 (Minecraft 1.20.1)
 
-[![1]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.5/Nameless-2.1.5.mrpack)
-[![2]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.5/Nameless-2.1.5.zip)
+[![1]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.6/Nameless-2.1.6.mrpack)
+[![2]](https://github.com/TheCatRiX/Nameless/releases/download/2.1.6/Nameless-2.1.6.zip)
 
 > [!NOTE]  
 > For manual installation use [Fabric Loader](https://fabricmc.net/use/installer/) **version 0.14.22**

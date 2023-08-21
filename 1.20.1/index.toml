@@ -2,19 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cd60aedde86ed52ec4d6eb86bf740b2776ceb5b7e1f594934170a8fbef369f8f"
+hash = "a3ed3e7262d36c18d6e584cbef9e58ffbe05e2aee2fa59a2e57ffb0ff92dcc84"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
-hash = "df50cee6cc91d64e3281eefd8120c3e5eb995087302ce5c7db923944a9f07616"
+hash = "c65b14d489fbb840ca9f7913a6247ad5f2e24d25c9c1c8b4a2e535aacaf24014"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "3456d60d42a4b0484af26e5237396abc71e1d0122a36961c6f7fde43234e43ff"
+hash = "ecd1f88ef75aa68dc1b8fffbb0a3c4cca9778467f2e6d1bc2019d3de7d5fc287"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "05be78cbb4930152e1be2cdd654a50529fe1b5b8a1df69b8cfd030a32ff67940"
+hash = "56e328ada498ffcd28085ead651124cecbd71b8a6c00524d8c6711fe383f3b60"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
 [[files]]
 file = "config/yosbr/config/freecam.json5"
-hash = "91948d78040bccc75743bbf73676e634c8b9930ed4566cfd405f377838dc5e71"
+hash = "e3eb4215c8c3027e75e8b112ad110a097763210d4ac593a877c19aad4a183b25"
 
 [[files]]
 file = "config/yosbr/config/horsestatsvanilla.json5"
@@ -118,7 +118,7 @@ hash = "827db35c92f132f5cb066a092dc48abcd5a409aefa41862794bc1ab731115119"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "4aa44bfd19521e426560ec3c18f02762f180a05b07584d844db129251cc7600b"
+hash = "5c408528429680968e39cc688494b8c6a0bf18a728793ee89c75b4853d1e7649"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -4943,7 +4943,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "8ceb7aa6264ca643bb9cb9f5c347f271eae6e5195c929d9264d1ccda50ac547d"
+hash = "5efaaf43fc63fe29948cb48504338d23deaa0c9c611fdcbe6f868583841f61ee"
 metafile = true
 
 [[files]]
@@ -5127,7 +5127,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9851ce3c96c4c2e3485aaf94ce9c0d3f60e90c606e1029119e092504987c7fdd"
+hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
 metafile = true
 
 [[files]]
@@ -5328,7 +5328,7 @@ hash = "819145fd440e719489a7d2863e045a402d9e9a0e90d8c751a6a22f1c109bb066"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a9604ba3c6b84749564098f2627a1eee237a2a34511a63014048f526f95a9050"
+hash = "42389b100ed9d07329d0f14b04f69ac9768adce4b7c3a1b2b15d0348783eb967"
 metafile = true
 
 [[files]]
