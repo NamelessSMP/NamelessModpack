@@ -1,20 +1,20 @@
 [general]
-	[general.online_status]
-		show_essential_indicator_on_nametags=false
 	[general.general]
 		timestamps_format=1
 		essential_gui_scale=5
+	[general.online_status]
+		show_essential_indicator_on_nametags=false
 [privacy]
 	[privacy.general]
 		display_current_server=true
 [notifications]
 	[notifications.general]
-		update_notifications=false
 		host_world_ip_warning=false
+		update_notifications=false
 [quality_of_life]
+	[quality_of_life.accessibility]
+		enlarge_chat_metadata=true
 	[quality_of_life.discord_integration]
 		set_activity_status_on_discord=false
 	[quality_of_life.screenshots]
 		screenshot_sounds=false
-	[quality_of_life.accessibility]
-		enlarge_chat_metadata=true
