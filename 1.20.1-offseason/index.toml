@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cae1b1a8abe0cc5478dbaa3bb53946368414098d6598ecda29c54499ab536dc3"
+hash = "360de4afaa6274e03224e51d1ea2528363ad257f8e6a527b76612fab4197923a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -93,16 +93,12 @@ file = "config/yosbr/config/languagereload.json"
 hash = "4a3f77a773f96fa2c6d2b3960b78d2630e6608a7e3ef3bd53a6f836775eb2478"
 
 [[files]]
-file = "config/yosbr/config/lithium.properties"
-hash = "bf0625692659331c95874a9e644aecf2cac45ea27ba69005e692f2717b5f9947"
-
-[[files]]
 file = "config/yosbr/config/malilib.json"
 hash = "827db35c92f132f5cb066a092dc48abcd5a409aefa41862794bc1ab731115119"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "5c408528429680968e39cc688494b8c6a0bf18a728793ee89c75b4853d1e7649"
+hash = "98d2a9ef615008204050b98c6caba6337f0dab51e47b78dd110044b521c19540"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -146,7 +142,7 @@ hash = "9a35738a664b05c0beb2ee85c1bce5a398ff7e24a1ee9db7cfc57d7b63281cc4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b227ea30fba69b4e142cc486f82c8021e37a2d5000c0b5c6683b12cb7b3eaffc"
+hash = "39dc686a9aae9d07b55d24f6524563a3da78142192551d1b0121a97202614f24"
 
 [[files]]
 file = "emotes/SPE_A blow with a heavy sword1.json"
@@ -5065,11 +5061,6 @@ file = "global_packs/required_data/armor statues v2.8.11 (MC 1.20-1.20.4).zip"
 hash = "46b6af287c4befd37db8ed3d9909eaea10d4dc7f1e0f3be7f7f0d297430bcdd5"
 
 [[files]]
-file = "global_packs/required_data/mc-paint.pw.toml"
-hash = "b7ca96886e3994b117e4e19c1c500db6ba5399dc9de6974acf88af5e77fcef65"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "73c5bdbdc45dec651d32ad990d354914f6f3710cdd14899ba0776d425732a05a"
 
@@ -5166,6 +5157,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
@@ -5386,11 +5382,6 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
-metafile = true
-
-[[files]]
-file = "mods/grass-kiss.pw.toml"
-hash = "2423579aee7ca46b560d4ec542fa4820e5c0bd39302618252ad325dd5753e956"
 metafile = true
 
 [[files]]
@@ -5659,6 +5650,11 @@ hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "ccdac9e8e2f711f193c9363211d78b6fd5f12be629202fe9b51faa2a362bfbf1"
 metafile = true
@@ -5718,11 +5714,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mc-paint.pw.toml"
-hash = "d2e9cd8577e5c7a8d2ac29741cf30985e2fe79b6a2fde839fdacc7b62d4042a9"
 metafile = true
 
 [[files]]
