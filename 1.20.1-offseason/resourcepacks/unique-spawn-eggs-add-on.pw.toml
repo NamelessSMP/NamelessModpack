@@ -1,0 +1,13 @@
+name = "Unique Spawn Eggs Add-on"
+filename = "1.20.1 Sniffer Spawn Egg.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUDHj5qh/versions/eAopKhmW/1.20.1%20Sniffer%20Spawn%20Egg.zip"
+hash-format = "sha1"
+hash = "36bf56f537a25febcaaa3ae6090dcde2c27a256d"
+
+[update]
+[update.modrinth]
+mod-id = "eUDHj5qh"
+version = "eAopKhmW"

@@ -1,0 +1,13 @@
+name = "Nameless Offseason"
+author = "CatRiX"
+version = "2.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "333483ea019d2b1d776f6ca4a426025a5f291d9a13c58a8aa7c2c58a275739e1"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"

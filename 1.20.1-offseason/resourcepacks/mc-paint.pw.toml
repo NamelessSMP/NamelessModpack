@@ -1,0 +1,7 @@
+name = "MC Paint"
+filename = "mc-paint-v0.8.1-resourcepack.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/5kEBpFCd/versions/YTHiGrfD/mc-paint-v0.8.1-resourcepack.zip"
+hash-format = "sha256"
+hash = "e323e96d88c20238dee33cd589539408d02e5fbeb8fc59a4e74164e6dfe5cba6"

@@ -1,0 +1,7 @@
+name = "emotes-replaymod-compat"
+filename = "emotes_replay_compat-1.0.2.jar"
+
+[download]
+url = "https://github.com/KosmX/emotes-replaymod-compat/releases/download/1.1.2/emotes_replay_compat-1.0.2.jar"
+hash-format = "sha256"
+hash = "f9994d6039c491694f28b4831c7c36c767083d2f344fe32061066a71c46fb85f"

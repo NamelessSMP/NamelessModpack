@@ -1,0 +1,13 @@
+name = "Pumpkin Pie Delight"
+filename = "pumpkin_pie-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AhcCiL7x/versions/lgrNm5MA/pumpkin_pie-1.0.1.jar"
+hash-format = "sha1"
+hash = "24b1fa4b3d445f767e019f64b86e5032d50566ee"
+
+[update]
+[update.modrinth]
+mod-id = "AhcCiL7x"
+version = "lgrNm5MA"

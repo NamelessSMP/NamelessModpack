@@ -1,0 +1,13 @@
+name = "mojangless"
+filename = "mojangless-0.2.0-alpha.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/taaZiSWj/versions/pNwz18Yw/mojangless-0.2.0-alpha.zip"
+hash-format = "sha1"
+hash = "6402ee8f878f96f476b921da1f691e44669eeda2"
+
+[update]
+[update.modrinth]
+mod-id = "taaZiSWj"
+version = "pNwz18Yw"

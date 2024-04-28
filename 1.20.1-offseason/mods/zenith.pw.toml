@@ -1,0 +1,13 @@
+name = "Zenith"
+filename = "zenith-1.1.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLZe11Uj/versions/P1A3tJnZ/zenith-1.1.7-1.20.1.jar"
+hash-format = "sha1"
+hash = "e10110c631c24ab24d8dbfa44a63b8d2b675a8fa"
+
+[update]
+[update.modrinth]
+mod-id = "TLZe11Uj"
+version = "P1A3tJnZ"

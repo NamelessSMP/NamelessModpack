@@ -1,0 +1,13 @@
+name = "Русский поисковый язык"
+filename = "RSL 1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYbk1kXP/versions/uXrebFGM/RSL%201.2.zip"
+hash-format = "sha1"
+hash = "12f5c17c4c102099b2043946d67097d986d0f1d6"
+
+[update]
+[update.modrinth]
+mod-id = "XYbk1kXP"
+version = "uXrebFGM"

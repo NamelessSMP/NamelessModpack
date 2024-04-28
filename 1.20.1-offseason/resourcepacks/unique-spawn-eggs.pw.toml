@@ -1,0 +1,7 @@
+name = "Unique Spawn Eggs"
+filename = "unique-spawn-eggs-v1-5.zip"
+
+[download]
+url = "https://static.planetminecraft.com/files/resource_media/texture/unique-spawn-eggs-v1-5.zip"
+hash-format = "sha256"
+hash = "0a0da13cb586308fdd7897a1ab927bbc375e55563c255208136a9f0f7350f28f"
