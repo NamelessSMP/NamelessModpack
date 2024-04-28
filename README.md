@@ -6,6 +6,14 @@ This is an official QoL modpack for playing on Nameless and other servers.
 
 ## Download
 
+### Offseason 2.3.0 (Minecraft 1.20.1)
+
+[![1]](https://github.com/TheCatRiX/Nameless/releases/download/2.3.0/Nameless-Offseason-2.3.0.mrpack)
+[![2]](https://github.com/TheCatRiX/Nameless/releases/download/2.3.0/Nameless-Offseason-2.3.0.zip)
+
+> [!NOTE]  
+> For manual installation use [Fabric Loader](https://fabricmc.net/use/installer/) **version 0.15.10**
+
 ### 2.2.0 (Minecraft 1.20.1)
 
 [![1]](https://github.com/TheCatRiX/Nameless/releases/download/2.2.0/Nameless-2.2.0.mrpack)
