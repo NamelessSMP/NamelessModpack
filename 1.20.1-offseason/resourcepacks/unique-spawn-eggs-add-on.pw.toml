@@ -1,6 +1,7 @@
 name = "Unique Spawn Eggs Add-on"
 filename = "1.20.1 Sniffer Spawn Egg.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/eUDHj5qh/versions/eAopKhmW/1.20.1%20Sniffer%20Spawn%20Egg.zip"

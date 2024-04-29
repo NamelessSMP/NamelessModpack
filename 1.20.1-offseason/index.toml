@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "360de4afaa6274e03224e51d1ea2528363ad257f8e6a527b76612fab4197923a"
+hash = "da597589afc190a04f12884fd8ac7cca62dd45b5ab601116bcd47d5a7590a549"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -58,7 +58,7 @@ hash = "66ca0d40ef66ebe16e6e6fb184b5ad78475b19ff1b66d2984b280438faeda1c2"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
+hash = "e7a29984ca9e02f656786f986144ab63161f9b126550e55aeb06f16b03d3f2a3"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -5225,6 +5225,11 @@ hash = "24b118190559cda6fbd2158825c78ad8247b38ad2812294e86f42651a6022468"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "050c573c968ce2bf15367b5dc46ea9623cc301a777f26012fa3e9ffaa0eea706"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
@@ -5281,7 +5286,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5762034e469126ca673ee2f67dcc6a2969b73f0623ea44c84af0b7195c93e13f"
+hash = "5672ab09dd5ccf90e6052ed0abde3ac5742eb8f49e6257af79f91beec071ecb3"
 metafile = true
 
 [[files]]
@@ -5291,7 +5296,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2a36bacc54de817c3e990f60666037d2872e3cf90b4eb7b74645c8716d172186"
+hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
@@ -5341,7 +5346,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
@@ -5733,7 +5738,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-spawn-eggs-add-on.pw.toml"
-hash = "591d9db5a84ec129e18d0b09312eae78cc2d3df6d44a27c4a7a780528b69fd03"
+hash = "8ec6a7c691bfec75918b4380d8a348cf27184952f45f838a6f09e908fb2dcce0"
 metafile = true
 
 [[files]]
@@ -5743,10 +5748,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "c3b7d6c27249a7727712d1a884e40e3837d692de32d357d747fcabdded23d649"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true
