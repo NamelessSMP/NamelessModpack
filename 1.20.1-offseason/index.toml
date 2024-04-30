@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6e2e9ff3b2a4900f98f6157c71a680754686acf6fa855a5041d5d9380e266605"
+hash = "565fbc002be2b90698e42d001b00fafeda228369321121b25e40c42e4153862d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -127,6 +127,10 @@ hash = "9a22de214213b314ef1ad3389592191c4854a4191f49db11f9feadb65c930485"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
+file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
+hash = "513a512129b9f8868768402b48b8f40a21ce8c697fc2060fdaa8c6023905478d"
 
 [[files]]
 file = "config/yosbr/config/symbol-chat.json"
@@ -5193,8 +5197,18 @@ hash = "5d05ff6a4ce3ad876d26a23bbc609bf0089a3bbefd5f433fbbccd6ac00aed8e9"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "bf9a869e30efcecfc9c1e548ea48054a15271d57aa7448346b8e6342d6a37baa"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough2.0.pw.toml"
+hash = "be99cc0e7cc05be147d0b4ab71024c5266c34eda5b6ce67dc7f7d93061a60511"
 metafile = true
 
 [[files]]
@@ -5235,6 +5249,11 @@ metafile = true
 [[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "050c573c968ce2bf15367b5dc46ea9623cc301a777f26012fa3e9ffaa0eea706"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
 
 [[files]]
@@ -5635,6 +5654,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "46fad78c1477f51b36579d0da5e4549f034e535efeb86eec92c575ab521ab2a9"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
 metafile = true
 
 [[files]]
