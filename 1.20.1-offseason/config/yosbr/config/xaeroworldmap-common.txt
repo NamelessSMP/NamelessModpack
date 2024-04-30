@@ -1,0 +1,2 @@
+allowCaveModeOnServer:false
+allowNetherCaveModeOnServer:false

@@ -51,6 +51,8 @@ key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.y
+key_gui.xaero_open_map:key.keyboard.grave.accent
+key_gui.xaero_open_settings:key.keyboard.unknown
 key_key.zenith.toggle_radial_mining:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown

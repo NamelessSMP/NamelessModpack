@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "da597589afc190a04f12884fd8ac7cca62dd45b5ab601116bcd47d5a7590a549"
+hash = "6e2e9ff3b2a4900f98f6157c71a680754686acf6fa855a5041d5d9380e266605"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -141,8 +141,16 @@ file = "config/yosbr/config/voicechat/voicechat-volumes.properties"
 hash = "9a35738a664b05c0beb2ee85c1bce5a398ff7e24a1ee9db7cfc57d7b63281cc4"
 
 [[files]]
+file = "config/yosbr/config/xaeroworldmap-common.txt"
+hash = "f80f611269789e4d1df14c1118840a8c08053b6c62f1c81186bc8fdfa2a643b4"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "646559f6f96dcc1da0a7d63f4f1e93cb2406d952adbd4a1286ad41ce15292491"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "39dc686a9aae9d07b55d24f6524563a3da78142192551d1b0121a97202614f24"
+hash = "4864f3c2f826215e5c85f9873fe9a77b36d8efdfddab648a76363703c8a86347"
 
 [[files]]
 file = "emotes/SPE_A blow with a heavy sword1.json"
@@ -5680,8 +5688,13 @@ hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
-hash = "53d5669382a7020135b03e2f30a0bce2fe5d9cb62c853ce06b5274169c9d4542"
+hash = "120a21fa73bcc231ebb23dd30fc32b1da54ced4ab62c5e3f052927e06d422f1c"
 metafile = true
 
 [[files]]
