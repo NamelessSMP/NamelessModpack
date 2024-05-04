@@ -1,0 +1,23 @@
+#Enable/Disable Server Entries overrides
+enabled = true
+#Internal Version Number. NO TOUCHY!
+version = 2
+#Server override entries
+[[entry]]
+    ip = "nameless.thecatrix.ru"
+    description = "Играет в Minecraft %mcver%"
+    state = "На Nameless (%playercount%)"
+    largeImageKey = ["%nameless%"]
+    largeImageText = "%modpack%"
+    smallImageKey = ["%avatar%"]
+    smallImageText = "%player%"
+
+[[entry]]
+    ip = "45.93.200.211"
+    description = "Играет в Minecraft %mcver%"
+    state = "На Nameless (%playercount%)"
+    largeImageKey = ["%nameless%"]
+    largeImageText = "%modpack%"
+    smallImageKey = ["%avatar%"]
+    smallImageText = "%player%"
+

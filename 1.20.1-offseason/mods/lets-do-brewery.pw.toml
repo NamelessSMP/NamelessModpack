@@ -1,6 +1,7 @@
 name = "[Let's Do] Brewery"
 filename = "letsdo-brewery-fabric-1.1.6.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/cV5LQXKx/versions/y1Ue3ONr/letsdo-brewery-fabric-1.1.6.jar"

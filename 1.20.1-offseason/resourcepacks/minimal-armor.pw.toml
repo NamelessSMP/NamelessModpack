@@ -1,0 +1,13 @@
+name = "Minimal Armor"
+filename = "MinimalArmor 1.20.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X3NecewH/versions/GztLI0Q5/MinimalArmor%201.20.4.zip"
+hash-format = "sha1"
+hash = "b04678ca91c4273b094c08925bda4e3f87d5c671"
+
+[update]
+[update.modrinth]
+mod-id = "X3NecewH"
+version = "GztLI0Q5"

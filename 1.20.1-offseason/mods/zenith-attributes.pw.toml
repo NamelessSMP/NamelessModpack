@@ -1,6 +1,7 @@
 name = "Zenith Attributes"
 filename = "zenith_attributes-0.2.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/9sxDq6mj/versions/52biL8Om/zenith_attributes-0.2.2.jar"

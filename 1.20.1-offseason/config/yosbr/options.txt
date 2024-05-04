@@ -10,7 +10,7 @@ renderDistance:8
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","black_icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/RSL 1.2.zip","file/VanillaTweaks.zip","file/unique-spawn-eggs-v1-5.zip","file/1.20.1 Sniffer Spawn Egg.zip","file/FreshAnimations_v1.9.zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","black_icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/RSL 1.2.zip","file/VanillaTweaks.zip","file/MinimalArmor 1.20.4.zip","file/unique-spawn-eggs-v1-5.zip","file/1.20.1 Sniffer Spawn Egg.zip","file/FreshAnimations_v1.9.zip"]
 incompatibleResourcePacks:[]
 lang:ru_ru
 textBackgroundOpacity:0.0
@@ -31,6 +31,10 @@ key_fakerlib.toggleWings:key.keyboard.unknown
 key_fakerlib.toggleTrails:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f8
 key_Open Freelook menu:key.keyboard.unknown
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown

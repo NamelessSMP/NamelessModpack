@@ -1,6 +1,7 @@
 name = "Zenith"
 filename = "zenith-1.1.7-1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/TLZe11Uj/versions/P1A3tJnZ/zenith-1.1.7-1.20.1.jar"
