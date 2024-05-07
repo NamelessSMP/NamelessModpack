@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/armorstatues-client.toml"
+hash = "0e29e9c3a505571f695e35116db13d7a4310000ff12644f094570805a7839bf8"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "92825cbef677f651c1d4584a52e2b1f4b843d88ea0ed05b3a6c2111ae38bcc8b"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "bea5c1f60f18d83267f03b904b3cef1f70eb7d98dd18b7bf9caee285f3e1db47"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "41a41de30ea2fd6c750df658e9e9bd77a369d4161c37ec5bb5176a489f0b860b"
+hash = "fa13eb47eb09e58cce70b05bf860cbcfee680dd5306000851e63410a6045ad93"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -14,7 +26,7 @@ hash = "e517d5e50b116b88715e0a3fc4ef9f6285774e9ed49942a5ab5f6486b2399966"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "b4028a7362164b85c5a2601df455e1c897c9932df36d007a53960b4f8aa9de15"
+hash = "0ec3d4155cb1db52032a17ec8921513bf9d0d4901ebc4b8138b90b0781891bb2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -27,6 +39,10 @@ hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "config/yosbr/config/armorstatues-client.toml"
+hash = "0e29e9c3a505571f695e35116db13d7a4310000ff12644f094570805a7839bf8"
 
 [[files]]
 file = "config/yosbr/config/authme.json5"
@@ -73,8 +89,12 @@ file = "config/yosbr/config/emotecraft.json"
 hash = "66ca0d40ef66ebe16e6e6fb184b5ad78475b19ff1b66d2984b280438faeda1c2"
 
 [[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "92825cbef677f651c1d4584a52e2b1f4b843d88ea0ed05b3a6c2111ae38bcc8b"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "e7a29984ca9e02f656786f986144ab63161f9b126550e55aeb06f16b03d3f2a3"
+hash = "bea5c1f60f18d83267f03b904b3cef1f70eb7d98dd18b7bf9caee285f3e1db47"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -174,7 +194,7 @@ hash = "646559f6f96dcc1da0a7d63f4f1e93cb2406d952adbd4a1286ad41ce15292491"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "da4442c01307dbd30e351be3e2e3b82ca872aab30a988669900286bda551a38f"
+hash = "e7adce15580aea9d37008374204b279f32356a56034b2580d771af59f8322c17"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -5086,11 +5106,11 @@ hash = "fc7630611bb31298d5cff83a0a71ea9926a2fa72f5094d3301a5d82f7691a0cd"
 
 [[files]]
 file = "essential/config.toml"
-hash = "33a9aaffa1be354c1d8fdaaea04182fc95894512c48f967660cc473b0cb59e86"
+hash = "ca78ee52edd8d222b85fdd9cb8e6d11fea6dc6cc32c4f416a1a85f05e3273136"
 
 [[files]]
 file = "essential/onboarding.json"
-hash = "1302281304e327a3a0fb72ea1bf865ecf899eabad686cc98f07131853d8c614c"
+hash = "cb3060fc3f450dd4ce3e67acde6fd64d054a6cadd6b01e35b2f9f49938d949b0"
 
 [[files]]
 file = "global_packs/required_data/armor statues v2.8.11 (MC 1.20-1.20.4).zip"
@@ -5276,11 +5296,6 @@ hash = "24b118190559cda6fbd2158825c78ad8247b38ad2812294e86f42651a6022468"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "050c573c968ce2bf15367b5dc46ea9623cc301a777f26012fa3e9ffaa0eea706"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
@@ -5302,7 +5317,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "59f568baad73a87e26a3eac172e72b531be55c00dad55de51dd7ddb27cd49a16"
+hash = "2e283f5f7256cfb52afba3f4c4c99093d59de1b03c26e8d1048d5d61fcf601d8"
 metafile = true
 
 [[files]]
@@ -5347,7 +5362,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5da2ac373886f5878c4fdd123d3c14025890efbee1a3441fe04052d4e2a653e3"
+hash = "52dba30a707ef0cb51cd30462c47980de681e071d31e376f18bc507933ee2abb"
 metafile = true
 
 [[files]]
@@ -5357,7 +5372,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "80a71476edc6bf44c3a285525a8e2b1c9419be24b42e6dbfb4fac4874100d968"
+hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
@@ -5452,7 +5467,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "51614a206b26e8a54d3f2392ba4d4300a5f7f60ed1814dc24eb242b0c4c0a3ba"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -5497,7 +5512,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "0585db7d877f46c77fe2da30ec827b84f0bba42b0fea0bf32c965fa2472aafec"
+hash = "8d950a0b90626f8046fde4e7c1ce5b05330a9058fb3951725ef02d5398bee7a7"
 metafile = true
 
 [[files]]
@@ -5507,17 +5522,17 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
-hash = "f1226466995223647bb860521ba60b2e54d4230cacf6be0eb3bfe982d82ce63e"
+hash = "764f661c7831742e811f94778fc83c9852e84e0f9727d773cf5b14d8948d3cc5"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-nethervinery.pw.toml"
-hash = "cf53fe19e3023fe3db3ff7af50b8246e1691b6a38bd0286c117b8612168e724b"
+hash = "e1f446b887b492dcc2ee4ec2c91552ae6f995999fb8e24cb540bafabe9e4465d"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "a2eb2fc3debbcc4247f86aacf20fb0b6655ee1d9a7020acbc24b4bbe6daa99fe"
+hash = "e5c14820de5af8da83952a865e96f9f9c5a6f2761e22f7b9a01043ccbab93e68"
 metafile = true
 
 [[files]]
@@ -5671,11 +5686,6 @@ hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "092da47256c4d66d3b0c44127d8e7e43e4338544476fe981bf0194e68fe10b04"
 metafile = true
@@ -5798,6 +5808,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/Default-Dark-Mode-1.20-2023.7.0.zip"
 hash = "a702cd6ee540406307b162d7a6f8ddc2b38c2f18510a81474d10d5fad60ccdf4"
+
+[[files]]
+file = "resourcepacks/NamelessMoney.zip"
+hash = "6fa8097a87c1e9b45a5614ac8efbb70dc9d6f747875f3530c13c10d05ab0d039"
 
 [[files]]
 file = "resourcepacks/OreBorders.zip"

@@ -1,6 +1,7 @@
 name = "[Let's Do] HerbalBrews"
 filename = "letsdo-herbalbrews-fabric-1.0.6.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/z8wEbE9B/letsdo-herbalbrews-fabric-1.0.6.jar"

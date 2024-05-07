@@ -10,7 +10,7 @@ renderDistance:8
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","black_icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/RSL 1.2.zip","file/VanillaTweaks.zip","file/MinimalArmor 1.20.4.zip","file/unique-spawn-eggs-v1-5.zip","file/1.20.1 Sniffer Spawn Egg.zip","file/FreshAnimations_v1.9.zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","black_icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/RSL 1.2.zip","file/VanillaTweaks.zip","file/MinimalArmor 1.20.4.zip","file/unique-spawn-eggs-v1-5.zip","file/1.20.1 Sniffer Spawn Egg.zip","file/FreshAnimations_v1.9.zip","file/NamelessMoney.zip"]
 incompatibleResourcePacks:[]
 lang:ru_ru
 textBackgroundOpacity:0.0

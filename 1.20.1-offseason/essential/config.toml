@@ -1,9 +1,10 @@
 [general]
 	[general.general]
 		timestamps_format=1
-		essential_gui_scale=5
 	[general.online_status]
 		show_essential_indicator_on_nametags=false
+    [general.experience]
+        use_vanilla_button_texture=true
 [privacy]
 	[privacy.general]
 		display_current_server=true
@@ -18,3 +19,4 @@
 		set_activity_status_on_discord=false
 	[quality_of_life.screenshots]
 		screenshot_sounds=false
+        post_screenshot_action=1

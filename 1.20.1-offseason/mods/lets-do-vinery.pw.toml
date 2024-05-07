@@ -1,6 +1,7 @@
 name = "[Let's Do] Vinery"
 filename = "letsdo-vinery-fabric-1.4.15.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/aHaHa2xz/letsdo-vinery-fabric-1.4.15.jar"
