@@ -1,12 +1,12 @@
 name = "Nameless Offseason"
 author = "TheCatRiX"
-version = "2.3.6"
+version = "2.3.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b9dc6656e958e8093a45808e6357a67284e3bd8a649925177343d430336fc0c2"
+hash = "6dc5832f21ed6e4028be9a12dc3df7e47c7ecb08bb2dbcda6f2a2eceb94fa643"
 
 [versions]
 fabric = "0.15.10"

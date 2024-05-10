@@ -13,8 +13,12 @@ file = "config/entity_texture_features.json"
 hash = "bea5c1f60f18d83267f03b904b3cef1f70eb7d98dd18b7bf9caee285f3e1db47"
 
 [[files]]
+file = "config/firstperson.json"
+hash = "9b22cfaa3997007f2af552f7e474e5e74d785d26ffe3a40c4ed9cf09b2fec0a9"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fa13eb47eb09e58cce70b05bf860cbcfee680dd5306000851e63410a6045ad93"
+hash = "918df85e4c396a3250ab453deaf9c6cac9d184fd39d9a4e7c404777f85d0ce92"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -26,7 +30,7 @@ hash = "e517d5e50b116b88715e0a3fc4ef9f6285774e9ed49942a5ab5f6486b2399966"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "0ec3d4155cb1db52032a17ec8921513bf9d0d4901ebc4b8138b90b0781891bb2"
+hash = "d0c6d3e8cb4e5dd6c68044e5491bee9b11b09578e75416c8a607f280d995d049"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -106,7 +110,7 @@ hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
 [[files]]
 file = "config/yosbr/config/firstperson.json"
-hash = "7b3a7ff6fb4739a599882fb5ebf8fa0d0843f572bb76ad4268e9df18854caeaa"
+hash = "9b22cfaa3997007f2af552f7e474e5e74d785d26ffe3a40c4ed9cf09b2fec0a9"
 
 [[files]]
 file = "config/yosbr/config/freecam.json5"
@@ -175,6 +179,10 @@ hash = "513a512129b9f8868768402b48b8f40a21ce8c697fc2060fdaa8c6023905478d"
 [[files]]
 file = "config/yosbr/config/symbol-chat.json"
 hash = "3515797dd142129520007bc88f193c5db6ffb423439b9b78fe47043ca464fc4b"
+
+[[files]]
+file = "config/yosbr/config/takeaseat.json"
+hash = "eea5fc637fda0ca24b6164a366cebc77e051d38eacdd67d471f457c800d7528b"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
@@ -5277,7 +5285,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
+hash = "9660f448be0383cd6157a446aec95223926f48bd891bbb63c0072453f759a9fc"
 metafile = true
 
 [[files]]
@@ -5377,7 +5385,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "f3d1b69eea61ffd27f90e36fcc92280ab0c87697a37a279b513cc6ff58e4ff92"
+hash = "840569174909b2633d950dbab94a59ed7d406f703f9b79d98709ccdd6f67b1ba"
 metafile = true
 
 [[files]]
@@ -5392,7 +5400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -5497,7 +5505,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
+hash = "9ed18369fbabb887d04cf9eeb7027cd0f52158cff74aa0a3f6d009f9d96ab974"
 metafile = true
 
 [[files]]
@@ -5657,7 +5665,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
 metafile = true
 
 [[files]]
@@ -5751,8 +5759,13 @@ hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
 metafile = true
 
 [[files]]
+file = "mods/takeaseat.pw.toml"
+hash = "e7d83c44d8b4fa9eace4955a20175e1900376b4d6cbe2416e7b052f8e68b20d0"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
-hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
+hash = "26d87abf4e8c5024f2a693cbe8560f2eec3348e2234caf5c3f75d2c16f84e664"
 metafile = true
 
 [[files]]
